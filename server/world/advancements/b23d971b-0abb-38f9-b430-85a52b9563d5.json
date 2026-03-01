@@ -8,15 +8,19 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2026-02-27 20:50:26 +0100",
-      "minecraft:old_growth_birch_forest": "2026-02-27 20:41:40 +0100",
+      "minecraft:beach": "2026-03-01 19:40:08 +0100",
       "minecraft:dark_forest": "2026-02-27 20:39:11 +0100",
+      "minecraft:forest": "2026-03-01 19:31:36 +0100",
       "minecraft:taiga": "2026-02-27 20:50:39 +0100",
-      "minecraft:ocean": "2026-02-27 20:46:36 +0100",
       "minecraft:river": "2026-02-27 20:47:10 +0100",
-      "minecraft:grove": "2026-02-27 21:14:43 +0100",
       "minecraft:lush_caves": "2026-02-27 21:03:49 +0100",
-      "minecraft:old_growth_spruce_taiga": "2026-02-27 21:32:29 +0100",
       "minecraft:frozen_peaks": "2026-02-27 21:03:23 +0100",
+      "minecraft:old_growth_birch_forest": "2026-02-27 20:41:40 +0100",
+      "minecraft:windswept_forest": "2026-03-01 19:38:23 +0100",
+      "minecraft:ocean": "2026-02-27 20:46:36 +0100",
+      "minecraft:grove": "2026-02-27 21:14:43 +0100",
+      "minecraft:old_growth_spruce_taiga": "2026-02-27 21:32:29 +0100",
+      "minecraft:plains": "2026-03-01 19:41:33 +0100",
       "minecraft:jagged_peaks": "2026-02-27 21:20:51 +0100"
     },
     "done": false
@@ -24529,6 +24533,8 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2026-03-01 19:46:41 +0100",
+      "minecraft:spider": "2026-03-01 19:47:21 +0100",
       "minecraft:zombie": "2026-02-27 20:49:12 +0100"
     },
     "done": false
@@ -24551,9 +24557,16 @@
     },
     "done": true
   },
-  "minecraft:adventure/sleep_in_bed": {
+  "cobblemon:brew_all": {
     "criteria": {
-      "slept_in_bed": "2026-02-27 21:24:59 +0100"
+      "obtain_ice_heal": "2026-02-27 21:22:57 +0100",
+      "obtain_burn_heal": "2026-02-27 21:24:43 +0100"
+    },
+    "done": false
+  },
+  "cobblemon:harvest_apricorn_seed": {
+    "criteria": {
+      "check_inv": "2026-02-27 21:22:59 +0100"
     },
     "done": true
   },
@@ -24563,9 +24576,9 @@
     },
     "done": true
   },
-  "minecraft:story/iron_tools": {
+  "cobblemon:healing_machine": {
     "criteria": {
-      "iron_pickaxe": "2026-02-27 21:26:39 +0100"
+      "use_healing_machine": "2026-02-27 21:24:20 +0100"
     },
     "done": true
   },
@@ -24575,22 +24588,21 @@
     },
     "done": true
   },
-  "cobblemon:harvest_apricorn_seed": {
+  "minecraft:adventure/sleep_in_bed": {
     "criteria": {
-      "check_inv": "2026-02-27 21:22:59 +0100"
+      "slept_in_bed": "2026-02-27 21:24:59 +0100"
     },
     "done": true
   },
-  "cobblemon:brew_all": {
+  "minecraft:story/iron_tools": {
     "criteria": {
-      "obtain_ice_heal": "2026-02-27 21:22:57 +0100",
-      "obtain_burn_heal": "2026-02-27 21:24:43 +0100"
+      "iron_pickaxe": "2026-02-27 21:26:39 +0100"
     },
-    "done": false
+    "done": true
   },
-  "cobblemon:healing_machine": {
+  "cobblemon:obtain_big_root": {
     "criteria": {
-      "use_healing_machine": "2026-02-27 21:24:20 +0100"
+      "check_inv": "2026-03-01 19:47:27 +0100"
     },
     "done": true
   },
