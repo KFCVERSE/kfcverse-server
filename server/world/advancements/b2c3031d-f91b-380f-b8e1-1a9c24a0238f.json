@@ -24675,21 +24675,15 @@
     },
     "done": true
   },
-  "minecraft:adventure/shoot_arrow": {
-    "criteria": {
-      "shot_arrow": "2026-02-27 22:26:55 +0100"
-    },
-    "done": true
-  },
   "cobblemon:obtain_tumblestone": {
     "criteria": {
       "check_inv": "2026-02-27 21:53:59 +0100"
     },
     "done": true
   },
-  "minecraft:adventure/ol_betsy": {
+  "cobblemon:healing_machine": {
     "criteria": {
-      "shot_crossbow": "2026-02-27 22:26:55 +0100"
+      "use_healing_machine": "2026-02-27 21:54:11 +0100"
     },
     "done": true
   },
@@ -24699,15 +24693,27 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2026-02-27 22:26:55 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2026-02-27 22:26:55 +0100"
+    },
+    "done": true
+  },
   "minecraft:adventure/whos_the_pillager_now": {
     "criteria": {
       "kill_pillager": "2026-02-27 22:26:55 +0100"
     },
     "done": true
   },
-  "cobblemon:healing_machine": {
+  "cobblemon:full_party": {
     "criteria": {
-      "use_healing_machine": "2026-02-27 21:54:11 +0100"
+      "full_party": "2026-03-02 20:56:55 +0100"
     },
     "done": true
   },

@@ -8,20 +8,20 @@
   "battleTheme": "cobblemon:battle.pvp.default",
   "extraData": {},
   "advancementData": {
-    "totalCaptureCount": 5,
+    "totalCaptureCount": 6,
     "totalEggsCollected": 0,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 2,
-    "totalBattleVictoryCount": 17,
+    "totalBattleVictoryCount": 18,
     "totalPvPBattleVictoryCount": 1,
-    "totalPvWBattleVictoryCount": 16,
+    "totalPvWBattleVictoryCount": 17,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 0,
     "totalTypeCaptureCounts": {
       "dark": 1,
       "flying": 3,
-      "water": 1,
+      "water": 2,
       "normal": 2,
       "fire": 1
     },
@@ -29,7 +29,7 @@
       "cobblemon:duskull": 1,
       "cobblemon:pineco": 4,
       "cobblemon:koffing": 1,
-      "cobblemon:gimmighoul": 2,
+      "cobblemon:gimmighoul": 3,
       "cobblemon:rookidee": 1,
       "cobblemon:lechonk": 1,
       "cobblemon:sentret": 1,
@@ -57,6 +57,9 @@
         "male"
       ],
       "cobblemon:doduo": [
+        "female"
+      ],
+      "cobblemon:goldeen": [
         "female"
       ]
     }
