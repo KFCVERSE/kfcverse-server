@@ -63,18 +63,6 @@ if (-not [string]::IsNullOrEmpty($cloneDir)) {
     exit 1
 }
 
-# attempt GitHub login via credential manager (opens browser popup)
-if (Get-Command "git" -ErrorAction SilentlyContinue) {
-    Write-Host "Attempting to authenticate via Git credential manager (if installed)..."
-    try {
-        git credential-manager-core login --scopes repo
-    } catch {
-        Write-Host "credential-manager-core command not available or failed." -ForegroundColor Yellow
-        Write-Host "Opening browser to GitHub login page so you can authenticate manually..."
-        Start-Process "https://github.com/login"  # opens default browser
-    }
-}
-
 # Configure Git user identity only if not already set
 if (-not (git config --global --get user.name)) {
     $ghName = Read-Host "Enter your GitHub user name (for git config)"
@@ -87,7 +75,6 @@ if (-not (git config --global --get user.email)) {
 # capture the configured values (global or just set)
 $ghName = git config --global user.name
 $ghEmail = git config --global user.email
-Write-Host "If you need to authenticate with GitHub, run 'git credential-manager-core configure' or use SSH keys."
 
 # after cloning we'll apply these same values to the local repo so auto‑commits
 # use the `--add` flag to avoid overwriting if repo already has them
