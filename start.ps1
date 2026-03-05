@@ -58,7 +58,7 @@ function Update-GitHubStatus($status) {
 # la chicha
 try {
     Update-GitHubStatus "Online"
-    $URL = "https://github.com/mespp/kfcverse-server/releases/download/mods/Cobblemon-fabric-1.7.1+1.21.1.jar"
+    $URL = "https://github.com/mespp/kfcverse-server/releases/download/mods/Cobblemon-fabric-1.7.3+1.21.1.jar"
     $ModsFolder = Join-Path -Path $RepoRoot -ChildPath "server/mods"
 
     if (-not (Test-Path $ModsFolder)) { New-Item -ItemType Directory -Path $ModsFolder | Out-Null }
