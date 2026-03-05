@@ -24582,5 +24582,137 @@
     },
     "done": true
   },
+  "cobblemon:recipes/blocks/green_plaque": {
+    "criteria": {
+      "has_iron": "2026-03-05 18:58:24 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/blocks/blue_plaque": {
+    "criteria": {
+      "has_iron": "2026-03-05 18:58:24 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/blocks/black_plaque": {
+    "criteria": {
+      "has_iron": "2026-03-05 18:58:24 +0100"
+    },
+    "done": true
+  },
+  "carved_wood:recipes/decorations/pale_oak_campfire": {
+    "criteria": {
+      "has_stick": "2026-03-05 18:58:24 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/blocks/lime_plaque": {
+    "criteria": {
+      "has_iron": "2026-03-05 18:58:24 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/blocks/orange_plaque": {
+    "criteria": {
+      "has_iron": "2026-03-05 18:58:24 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/blocks/light_blue_plaque": {
+    "criteria": {
+      "has_iron": "2026-03-05 18:58:24 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/blocks/red_plaque": {
+    "criteria": {
+      "has_iron": "2026-03-05 18:58:24 +0100"
+    },
+    "done": true
+  },
+  "carved_wood:recipes/decorations/soul_pale_oak_campfire": {
+    "criteria": {
+      "has_stick": "2026-03-05 18:58:24 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/blocks/cyan_plaque": {
+    "criteria": {
+      "has_iron": "2026-03-05 18:58:24 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/blocks/gray_plaque": {
+    "criteria": {
+      "has_iron": "2026-03-05 18:58:24 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/blocks/yellow_plaque": {
+    "criteria": {
+      "has_iron": "2026-03-05 18:58:24 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/blocks/pink_plaque": {
+    "criteria": {
+      "has_iron": "2026-03-05 18:58:24 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/blocks/purple_plaque": {
+    "criteria": {
+      "has_iron": "2026-03-05 18:58:24 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/blocks/light_gray_plaque": {
+    "criteria": {
+      "has_iron": "2026-03-05 18:58:24 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/blocks/magenta_plaque": {
+    "criteria": {
+      "has_iron": "2026-03-05 18:58:24 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/blocks/brown_plaque": {
+    "criteria": {
+      "has_iron": "2026-03-05 18:58:24 +0100"
+    },
+    "done": true
+  },
+  "vanillabackport:recipes/decorations/lodestone": {
+    "criteria": {
+      "has_iron_ingot": "2026-03-05 18:58:24 +0100"
+    },
+    "done": true
+  },
+  "vanillabackport:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2026-03-05 18:58:24 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/blocks/white_plaque": {
+    "criteria": {
+      "has_iron": "2026-03-05 18:58:24 +0100"
+    },
+    "done": true
+  },
+  "vanillabackport:recipes/transportation/pale_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2026-03-05 18:58:24 +0100"
+    },
+    "done": true
+  },
+  "rechiseled:recipes/misc/chisel": {
+    "criteria": {
+      "recipe_condition": "2026-03-05 18:58:24 +0100"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }

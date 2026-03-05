@@ -103,7 +103,6 @@ function onData(socket, chunk, battleMap) {
               return eval(`(${data})`);
             }
           };
-          console.log("entry received: " + id);
           registry.register(obj(), (0, import_dex.toID)(id));
           registry.invalidate();
           socket.write("ACK");
