@@ -33,7 +33,7 @@ if (-not (Get-Command java -ErrorAction SilentlyContinue)) {
 # Install Git
 if (-not (Get-Command git -ErrorAction SilentlyContinue)) {
     Write-Host "Git not detected. Downloading and installing Git for Windows..."
-    $gitUrl = "https://github.com/git-for-windows/git/releases/latest/download/Git-64-bit.exe"
+    $gitUrl = "https://github.com/git-for-windows/git/releases/download/v2.53.0.windows.1/Git-2.53.0-64-bit.exe"
     $gitInstaller = "$env:TEMP\git-installer.exe"
     if (Download-File $gitUrl $gitInstaller) {
         Start-Process -FilePath $gitInstaller -ArgumentList "/VERYSILENT","/NORESTART" -Wait
