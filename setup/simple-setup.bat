@@ -3,7 +3,7 @@
 REM remote script URL – default to the latest version on the repo's main branch.
 REM Change owner/repo/path if you host elsewhere. Using the raw.githubusercontent link
 REM ensures this batch always pulls the current file without manual edits.
-set REMOTE_URL=https://raw.githubusercontent.com/mespp/kfcverse-server/main/setup.ps1
+set REMOTE_URL=https://raw.githubusercontent.com/mespp/kfcverse-server/main/setup/setup.ps1
 
 REM temporary location for downloaded script
 set TEMP_SCRIPT=%TEMP%\setup.ps1

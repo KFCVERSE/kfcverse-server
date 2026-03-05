@@ -1,9 +1,31 @@
+# configure TLS for downloads (GitHub, Oracle, etc.)
+[Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12
+
+function Download-File {
+    param (
+        [string]$Url,
+        [string]$OutFile
+    )
+    Write-Host "Downloading $Url ..."
+    try {
+        Invoke-WebRequest -Uri $Url -OutFile $OutFile -UseBasicParsing -ErrorAction Stop
+        return $true
+    } catch {
+        Write-Warning "Failed to download $Url - $_"
+        return $false
+    }
+}
+
 # Install Java 21
 $javaUrl = "https://download.oracle.com/java/21/latest/jdk-21_windows-x64_bin.msi"
 $javaInstaller = "$env:TEMP\jdk-21_windows-x64_bin.msi"
 if (-not (Get-Command java -ErrorAction SilentlyContinue)) {
-    Invoke-WebRequest -Uri $javaUrl -OutFile $javaInstaller
-    Start-Process msiexec.exe -ArgumentList "/i `"$javaInstaller`" /qn" -Wait
+    if (Download-File $javaUrl $javaInstaller) {
+        Start-Process msiexec.exe -ArgumentList "/i `"$javaInstaller`" /qn" -Wait
+    } else {
+        Write-Error "Java installer could not be downloaded; aborting."
+        exit 1
+    }
 } else {
     Write-Host "Java already installed."
 }
@@ -13,8 +35,11 @@ if (-not (Get-Command git -ErrorAction SilentlyContinue)) {
     Write-Host "Git not detected. Downloading and installing Git for Windows..."
     $gitUrl = "https://github.com/git-for-windows/git/releases/latest/download/Git-64-bit.exe"
     $gitInstaller = "$env:TEMP\git-installer.exe"
-    Invoke-WebRequest -Uri $gitUrl -OutFile $gitInstaller
-    Start-Process -FilePath $gitInstaller -ArgumentList "/VERYSILENT","/NORESTART" -Wait
+    if (Download-File $gitUrl $gitInstaller) {
+        Start-Process -FilePath $gitInstaller -ArgumentList "/VERYSILENT","/NORESTART" -Wait
+    } else {
+        Write-Warning "Could not download Git installer; please install Git manually."
+    }
 } else {
     Write-Host "Git already installed."
 }
