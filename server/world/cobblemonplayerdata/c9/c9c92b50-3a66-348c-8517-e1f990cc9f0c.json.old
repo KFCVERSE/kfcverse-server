@@ -8,26 +8,34 @@
   "battleTheme": "cobblemon:battle.pvp.default",
   "extraData": {},
   "advancementData": {
-    "totalCaptureCount": 1,
+    "totalCaptureCount": 2,
     "totalEggsCollected": 0,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 1,
-    "totalBattleVictoryCount": 0,
+    "totalBattleVictoryCount": 2,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 0,
+    "totalPvWBattleVictoryCount": 2,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 0,
     "totalTypeCaptureCounts": {
       "water": 1,
-      "fairy": 1
+      "fairy": 1,
+      "psychic": 1,
+      "flying": 1
     },
-    "totalDefeatedCounts": {},
+    "totalDefeatedCounts": {
+      "cobblemon:meowth": 1,
+      "cobblemon:zigzagoon": 1
+    },
     "aspectsCollected": {
       "cobblemon:marill": [
         "female"
       ],
       "cobblemon:azumarill": [
+        "female"
+      ],
+      "cobblemon:woobat": [
         "female"
       ]
     }

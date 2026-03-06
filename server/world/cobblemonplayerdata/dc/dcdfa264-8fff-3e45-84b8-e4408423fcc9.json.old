@@ -8,18 +8,30 @@
   "battleTheme": "cobblemon:battle.pvp.default",
   "extraData": {},
   "advancementData": {
-    "totalCaptureCount": 0,
+    "totalCaptureCount": 2,
     "totalEggsCollected": 0,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 0,
-    "totalBattleVictoryCount": 0,
+    "totalBattleVictoryCount": 2,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 0,
+    "totalPvWBattleVictoryCount": 2,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 0,
-    "totalTypeCaptureCounts": {},
+    "totalTypeCaptureCounts": {
+      "psychic": 1,
+      "ground": 1,
+      "steel": 1
+    },
     "totalDefeatedCounts": {},
-    "aspectsCollected": {}
+    "aspectsCollected": {
+      "cobblemon:hatenna": [
+        "female"
+      ],
+      "cobblemon:diglett": [
+        "male",
+        "alolan"
+      ]
+    }
   }
 }

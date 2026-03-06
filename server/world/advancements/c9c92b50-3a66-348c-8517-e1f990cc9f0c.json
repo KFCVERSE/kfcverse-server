@@ -16,8 +16,10 @@
       "minecraft:lukewarm_ocean": "2026-03-06 19:06:21 +0100",
       "minecraft:stony_shore": "2026-03-06 17:27:33 +0100",
       "minecraft:lush_caves": "2026-03-06 19:19:21 +0100",
+      "minecraft:dripstone_caves": "2026-03-06 19:33:58 +0100",
       "minecraft:old_growth_birch_forest": "2026-03-06 17:28:42 +0100",
       "minecraft:windswept_forest": "2026-03-06 18:03:46 +0100",
+      "minecraft:ocean": "2026-03-06 20:13:49 +0100",
       "minecraft:cherry_grove": "2026-03-06 18:12:45 +0100",
       "minecraft:sunflower_plains": "2026-03-06 18:17:08 +0100",
       "minecraft:grove": "2026-03-06 17:57:34 +0100",
@@ -1987,7 +1989,9 @@
   },
   "cobblemon:craft_base_balls": {
     "criteria": {
-      "poke_ball": "2026-03-06 17:28:16 +0100"
+      "slate_ball": "2026-03-06 20:04:33 +0100",
+      "poke_ball": "2026-03-06 17:28:16 +0100",
+      "premier_ball": "2026-03-06 20:04:49 +0100"
     },
     "done": false
   },
@@ -10513,7 +10517,9 @@
   },
   "cobblemon:craft_all_balls": {
     "criteria": {
-      "poke_ball": "2026-03-06 17:28:16 +0100"
+      "slate_ball": "2026-03-06 20:04:33 +0100",
+      "poke_ball": "2026-03-06 17:28:16 +0100",
+      "premier_ball": "2026-03-06 20:04:49 +0100"
     },
     "done": false
   },
@@ -25253,6 +25259,90 @@
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2026-03-06 19:23:32 +0100"
+    },
+    "done": true
+  },
+  "moarconcrete:recipes/building_blocks/brown_concrete_brick_slab_from_brown_concrete_stonecutting": {
+    "criteria": {
+      "has_brown_concrete": "2026-03-06 19:55:56 +0100"
+    },
+    "done": true
+  },
+  "moarconcrete:recipes/building_blocks/brown_concrete_bricks_from_brown_concrete_stonecutting": {
+    "criteria": {
+      "has_brown_concrete": "2026-03-06 19:55:56 +0100"
+    },
+    "done": true
+  },
+  "moarconcrete:recipes/building_blocks/black_concrete_slab_from_black_concrete_stonecutting": {
+    "criteria": {
+      "has_black_concrete": "2026-03-06 19:55:49 +0100"
+    },
+    "done": true
+  },
+  "moarconcrete:recipes/building_blocks/brown_concrete_wall_from_brown_concrete_stonecutting": {
+    "criteria": {
+      "has_brown_concrete": "2026-03-06 19:55:56 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:harvest_apricorn": {
+    "criteria": {
+      "check_inv": "2026-03-06 20:22:49 +0100"
+    },
+    "done": true
+  },
+  "moarconcrete:recipes/building_blocks/black_concrete_stairs_from_black_concrete_stonecutting": {
+    "criteria": {
+      "has_black_concrete": "2026-03-06 19:55:49 +0100"
+    },
+    "done": true
+  },
+  "moarconcrete:recipes/building_blocks/black_concrete_bricks_from_black_concrete_stonecutting": {
+    "criteria": {
+      "has_black_concrete": "2026-03-06 19:55:49 +0100"
+    },
+    "done": true
+  },
+  "moarconcrete:recipes/building_blocks/brown_concrete_slab_from_brown_concrete_stonecutting": {
+    "criteria": {
+      "has_brown_concrete": "2026-03-06 19:55:56 +0100"
+    },
+    "done": true
+  },
+  "moarconcrete:recipes/building_blocks/brown_concrete_panel_from_brown_concrete_stonecutting": {
+    "criteria": {
+      "has_brown_concrete": "2026-03-06 19:55:56 +0100"
+    },
+    "done": true
+  },
+  "moarconcrete:recipes/building_blocks/black_concrete_brick_slab_from_black_concrete_stonecutting": {
+    "criteria": {
+      "has_black_concrete": "2026-03-06 19:55:49 +0100"
+    },
+    "done": true
+  },
+  "moarconcrete:recipes/building_blocks/black_concrete_wall_from_black_concrete_stonecutting": {
+    "criteria": {
+      "has_black_concrete": "2026-03-06 19:55:49 +0100"
+    },
+    "done": true
+  },
+  "moarconcrete:recipes/building_blocks/brown_concrete_stairs_from_brown_concrete_stonecutting": {
+    "criteria": {
+      "has_brown_concrete": "2026-03-06 19:55:56 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:brew_all": {
+    "criteria": {
+      "obtain_awakening": "2026-03-06 20:05:05 +0100"
+    },
+    "done": false
+  },
+  "moarconcrete:recipes/building_blocks/black_concrete_panel_from_black_concrete_stonecutting": {
+    "criteria": {
+      "has_black_concrete": "2026-03-06 19:55:49 +0100"
     },
     "done": true
   },

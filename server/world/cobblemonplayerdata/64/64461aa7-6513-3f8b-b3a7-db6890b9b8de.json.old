@@ -8,23 +8,29 @@
   "battleTheme": "cobblemon:battle.pvp.default",
   "extraData": {},
   "advancementData": {
-    "totalCaptureCount": 3,
+    "totalCaptureCount": 10,
     "totalEggsCollected": 0,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 0,
-    "totalBattleVictoryCount": 4,
+    "totalBattleVictoryCount": 15,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 4,
+    "totalPvWBattleVictoryCount": 15,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 0,
     "totalTypeCaptureCounts": {
-      "normal": 2,
+      "normal": 5,
       "flying": 2,
-      "fighting": 1
+      "fighting": 2,
+      "electric": 2,
+      "fairy": 1
     },
     "totalDefeatedCounts": {
-      "cobblemon:snubbull": 1
+      "cobblemon:snubbull": 1,
+      "cobblemon:meowth": 1,
+      "cobblemon:glameow": 1,
+      "cobblemon:patrat": 1,
+      "cobblemon:sentret": 1
     },
     "aspectsCollected": {
       "cobblemon:hoothoot": [
@@ -35,6 +41,27 @@
       ],
       "cobblemon:pidove": [
         "female"
+      ],
+      "cobblemon:wooloo": [
+        "male",
+        "color-none"
+      ],
+      "cobblemon:mareep": [
+        "male"
+      ],
+      "cobblemon:timburr": [
+        "female",
+        "tree-none"
+      ],
+      "cobblemon:patrat": [
+        "male",
+        "female"
+      ],
+      "cobblemon:fidough": [
+        "male"
+      ],
+      "cobblemon:yamper": [
+        "male"
       ]
     }
   }
