@@ -1,4 +1,531 @@
 {
+  "cobbleverse:root": {
+    "criteria": {
+      "cobbleverse_starts_now": "2026-03-06 17:25:33 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:savanna_plateau": "2026-03-06 18:13:51 +0100",
+      "minecraft:beach": "2026-03-06 18:10:30 +0100",
+      "minecraft:old_growth_pine_taiga": "2026-03-06 18:01:18 +0100",
+      "minecraft:dark_forest": "2026-03-06 17:25:33 +0100",
+      "minecraft:forest": "2026-03-06 18:51:25 +0100",
+      "minecraft:river": "2026-03-06 18:01:11 +0100",
+      "minecraft:lukewarm_ocean": "2026-03-06 19:06:21 +0100",
+      "minecraft:stony_shore": "2026-03-06 17:27:33 +0100",
+      "minecraft:lush_caves": "2026-03-06 19:19:21 +0100",
+      "minecraft:old_growth_birch_forest": "2026-03-06 17:28:42 +0100",
+      "minecraft:windswept_forest": "2026-03-06 18:03:46 +0100",
+      "minecraft:cherry_grove": "2026-03-06 18:12:45 +0100",
+      "minecraft:sunflower_plains": "2026-03-06 18:17:08 +0100",
+      "minecraft:grove": "2026-03-06 17:57:34 +0100",
+      "minecraft:old_growth_spruce_taiga": "2026-03-06 18:00:11 +0100",
+      "minecraft:savanna": "2026-03-06 18:10:00 +0100",
+      "minecraft:plains": "2026-03-06 18:15:07 +0100",
+      "minecraft:jagged_peaks": "2026-03-06 17:59:30 +0100"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_birch_log": "2026-03-06 17:25:59 +0100"
+    },
+    "done": true
+  },
+  "cozyhome:recipes/building_blocks/birch_large_stump": {
+    "criteria": {
+      "has_birch_log": "2026-03-06 17:25:59 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2026-03-06 17:25:59 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2026-03-06 17:25:59 +0100"
+    },
+    "done": true
+  },
+  "carved_wood:recipes/building_blocks/birch_log_bundle": {
+    "criteria": {
+      "has_birch_log": "2026-03-06 17:25:59 +0100"
+    },
+    "done": true
+  },
+  "carved_wood:recipes/decorations/birch_crafting_table": {
+    "criteria": {
+      "has_the_recipe": "2026-03-06 17:26:16 +0100"
+    },
+    "done": true
+  },
+  "cozyhome:recipes/building_blocks/dark_oak_large_stump": {
+    "criteria": {
+      "has_dark_oak_log": "2026-03-06 17:26:33 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2026-03-06 17:26:33 +0100"
+    },
+    "done": true
+  },
+  "carved_wood:recipes/building_blocks/dark_oak_log_bundle": {
+    "criteria": {
+      "has_dark_oak_log": "2026-03-06 17:26:33 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_dark_oak_log": "2026-03-06 17:26:33 +0100"
+    },
+    "done": true
+  },
+  "carved_wood:recipes/decorations/dark_oak_lantern": {
+    "criteria": {
+      "has_the_recipe": "2026-03-06 17:26:43 +0100"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_side_table": {
+    "criteria": {
+      "has_dark_oak_side_table": "2026-03-06 17:26:43 +0100"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/dark_oak_barrel": {
+    "criteria": {
+      "has_dark_oak_plank": "2026-03-06 17:26:43 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick": {
+    "criteria": {
+      "has_planks": "2026-03-06 17:26:43 +0100"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_fancy_bed": {
+    "criteria": {
+      "has_dark_oak_fancy_bed": "2026-03-06 17:26:43 +0100"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_table": {
+    "criteria": {
+      "has_dark_oak_table": "2026-03-06 17:26:43 +0100"
+    },
+    "done": true
+  },
+  "carved_wood:recipes/decorations/dark_oak_chest": {
+    "criteria": {
+      "has_dark_oak_planks": "2026-03-06 17:26:43 +0100"
+    },
+    "done": true
+  },
+  "carved_wood:recipes/decorations/barrel": {
+    "criteria": {
+      "has_planks": "2026-03-06 17:26:43 +0100"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/salmon_trophy": {
+    "criteria": {
+      "has_salmon_trophy": "2026-03-06 17:26:43 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2026-03-06 17:26:43 +0100"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/dark_oak_limited_barrel_2": {
+    "criteria": {
+      "has_dark_oak_plank": "2026-03-06 17:26:43 +0100"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/dark_oak_limited_barrel_1": {
+    "criteria": {
+      "has_dark_oak_plank": "2026-03-06 17:26:43 +0100"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/dark_oak_limited_barrel_4": {
+    "criteria": {
+      "has_dark_oak_plank": "2026-03-06 17:26:43 +0100"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/dark_oak_limited_barrel_3": {
+    "criteria": {
+      "has_dark_oak_plank": "2026-03-06 17:26:43 +0100"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/silverfish_trophy": {
+    "criteria": {
+      "has_silverfish_trophy": "2026-03-06 17:26:43 +0100"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_nightstand": {
+    "criteria": {
+      "has_dark_oak_nightstand": "2026-03-06 17:26:43 +0100"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_shelf": {
+    "criteria": {
+      "has_dark_oak_shelf": "2026-03-06 17:26:43 +0100"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/bear_trophy": {
+    "criteria": {
+      "has_bear_trophy": "2026-03-06 17:26:43 +0100"
+    },
+    "done": true
+  },
+  "carved_wood:recipes/decorations/dark_oak_barrel": {
+    "criteria": {
+      "has_dark_oak_planks": "2026-03-06 17:26:43 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2026-03-06 17:26:43 +0100"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_dining_bench": {
+    "criteria": {
+      "has_dark_oak_dining_bench": "2026-03-06 17:26:43 +0100"
+    },
+    "done": true
+  },
+  "cozyhome:recipes/building_blocks/dark_oak_counter": {
+    "criteria": {
+      "has_dark_oak_planks": "2026-03-06 17:26:43 +0100"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/dark_oak_chest": {
+    "criteria": {
+      "has_dark_oak_plank": "2026-03-06 17:26:43 +0100"
+    },
+    "done": true
+  },
+  "carved_wood:recipes/decorations/chest": {
+    "criteria": {
+      "has_planks": "2026-03-06 17:26:43 +0100"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_cupboard": {
+    "criteria": {
+      "has_dark_oak_cupboard": "2026-03-06 17:26:43 +0100"
+    },
+    "done": true
+  },
+  "cozyhome:recipes/building_blocks/dark_oak_storage_counter": {
+    "criteria": {
+      "has_dark_oak_planks": "2026-03-06 17:26:43 +0100"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/goat_trophy": {
+    "criteria": {
+      "has_goat_trophy": "2026-03-06 17:26:43 +0100"
+    },
+    "done": true
+  },
+  "carved_wood:recipes/decorations/dark_oak_ladder": {
+    "criteria": {
+      "has_dark_oak_planks": "2026-03-06 17:26:43 +0100"
+    },
+    "done": true
+  },
+  "cozyhome:recipes/building_blocks/dark_oak_wall_mirror": {
+    "criteria": {
+      "has_dark_oak_planks": "2026-03-06 17:26:43 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_sign": {
+    "criteria": {
+      "has_planks": "2026-03-06 17:26:43 +0100"
+    },
+    "done": true
+  },
+  "carved_wood:recipes/building_blocks/dark_oak_lantern": {
+    "criteria": {
+      "has_dark_oak_planks": "2026-03-06 17:26:43 +0100"
+    },
+    "done": true
+  },
+  "cozyhome:recipes/building_blocks/dark_oak_desk": {
+    "criteria": {
+      "has_dark_oak_planks": "2026-03-06 17:26:43 +0100"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/blaze_trophy": {
+    "criteria": {
+      "has_blaze_trophy": "2026-03-06 17:26:43 +0100"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/wolf_trophy": {
+    "criteria": {
+      "has_wolf_trophy": "2026-03-06 17:26:43 +0100"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_corner_trim": {
+    "criteria": {
+      "has_dark_oak_corner_trim": "2026-03-06 17:26:43 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2026-03-06 17:26:43 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2026-03-06 17:26:43 +0100"
+    },
+    "done": true
+  },
+  "carved_wood:recipes/building_blocks/chiseled_dark_oak_bookshelf": {
+    "criteria": {
+      "has_dark_oak_planks": "2026-03-06 17:26:43 +0100"
+    },
+    "done": true
+  },
+  "carved_wood:recipes/decorations/bookshelf": {
+    "criteria": {
+      "has_planks": "2026-03-06 17:26:43 +0100"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_counter": {
+    "criteria": {
+      "has_dark_oak_counter": "2026-03-06 17:26:43 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_button": {
+    "criteria": {
+      "has_planks": "2026-03-06 17:26:43 +0100"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_bench": {
+    "criteria": {
+      "has_dark_oak_bench": "2026-03-06 17:26:43 +0100"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/fox_trophy": {
+    "criteria": {
+      "has_fox_trophy": "2026-03-06 17:26:43 +0100"
+    },
+    "done": true
+  },
+  "cozyhome:recipes/building_blocks/dark_oak_chair": {
+    "criteria": {
+      "has_dark_oak_planks": "2026-03-06 17:26:43 +0100"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_drawer": {
+    "criteria": {
+      "has_dark_oak_drawer": "2026-03-06 17:26:43 +0100"
+    },
+    "done": true
+  },
+  "carved_wood:recipes/building_blocks/dark_oak_panels": {
+    "criteria": {
+      "has_dark_oak_planks": "2026-03-06 17:26:43 +0100"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/tropical_fish_trophy": {
+    "criteria": {
+      "has_tropical_fish_trophy": "2026-03-06 17:26:43 +0100"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_couch": {
+    "criteria": {
+      "has_dark_oak_couch": "2026-03-06 17:26:43 +0100"
+    },
+    "done": true
+  },
+  "cozyhome:recipes/building_blocks/dark_oak_sink_counter": {
+    "criteria": {
+      "has_dark_oak_planks": "2026-03-06 17:26:43 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2026-03-06 17:26:43 +0100"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spider_trophy": {
+    "criteria": {
+      "has_spider_trophy": "2026-03-06 17:26:43 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2026-03-06 17:26:43 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_slab": {
+    "criteria": {
+      "has_planks": "2026-03-06 17:26:43 +0100"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_chair": {
+    "criteria": {
+      "has_dark_oak_chair": "2026-03-06 17:26:43 +0100"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/pufferfish_trophy": {
+    "criteria": {
+      "has_pufferfish_trophy": "2026-03-06 17:26:43 +0100"
+    },
+    "done": true
+  },
+  "cozyhome:recipes/building_blocks/dark_oak_table": {
+    "criteria": {
+      "has_dark_oak_planks": "2026-03-06 17:26:43 +0100"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_desk": {
+    "criteria": {
+      "has_dark_oak_desk": "2026-03-06 17:26:43 +0100"
+    },
+    "done": true
+  },
+  "carved_wood:recipes/decorations/crafting_table": {
+    "criteria": {
+      "has_planks": "2026-03-06 17:26:43 +0100"
+    },
+    "done": true
+  },
+  "cozyhome:recipes/building_blocks/dark_oak_drawer": {
+    "criteria": {
+      "has_dark_oak_planks": "2026-03-06 17:26:43 +0100"
+    },
+    "done": true
+  },
+  "carved_wood:recipes/decorations/ladder": {
+    "criteria": {
+      "has_planks": "2026-03-06 17:26:43 +0100"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/skeleton_horse_trophy": {
+    "criteria": {
+      "has_skeleton_horse_trophy": "2026-03-06 17:26:43 +0100"
+    },
+    "done": true
+  },
+  "carved_wood:recipes/decorations/dark_oak_bookshelf": {
+    "criteria": {
+      "has_dark_oak_planks": "2026-03-06 17:26:43 +0100"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/wither_skeleton_trophy": {
+    "criteria": {
+      "has_wither_skeleton_trophy": "2026-03-06 17:26:43 +0100"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_pillar_trim": {
+    "criteria": {
+      "has_dark_oak_pillar_trim": "2026-03-06 17:26:43 +0100"
+    },
+    "done": true
+  },
+  "carved_wood:recipes/decorations/dark_oak_crafting_table": {
+    "criteria": {
+      "has_dark_oak_planks": "2026-03-06 17:26:43 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/misc/pokedex_blue": {
+    "criteria": {
+      "has_pokedex": "2026-03-06 17:28:15 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:root": {
+    "criteria": {
+      "picked_starter": "2026-03-06 17:28:15 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/misc/pokedex_red": {
+    "criteria": {
+      "has_pokedex": "2026-03-06 17:28:15 +0100"
+    },
+    "done": true
+  },
+  "cobbleverse:gen_1": {
+    "criteria": {
+      "started_gen1": "2026-03-06 17:28:15 +0100"
+    },
+    "done": true
+  },
+  "mega_showdown:mega_showdown/root": {
+    "criteria": {
+      "root": "2026-03-06 17:28:15 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:craft_pokedex": {
+    "criteria": {
+      "requirement": "2026-03-06 17:28:15 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/misc/pokedex_pink": {
+    "criteria": {
+      "has_pokedex": "2026-03-06 17:28:15 +0100"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/gold_backpack": {
+    "criteria": {
+      "has_iron_backpack": "2026-03-06 17:28:15 +0100"
+    },
+    "done": true
+  },
   "tmcraft:recipes/misc/tm_magicalleaf": {
     "criteria": {
       "has_the_recipe": "2026-03-06 17:28:16 +0100"
@@ -218,12 +745,6 @@
   "sophisticatedstorage:recipes/misc/shulker_box": {
     "criteria": {
       "has_the_recipe": "2026-03-06 17:28:16 +0100"
-    },
-    "done": true
-  },
-  "carved_wood:recipes/decorations/dark_oak_lantern": {
-    "criteria": {
-      "has_the_recipe": "2026-03-06 17:26:43 +0100"
     },
     "done": true
   },
@@ -835,6 +1356,7 @@
   },
   "cobblemon:obtain_all_berries": {
     "criteria": {
+      "obtain_persim_berry": "2026-03-06 18:55:00 +0100",
       "obtain_oran_berry": "2026-03-06 17:28:16 +0100"
     },
     "done": false
@@ -1535,12 +2057,6 @@
     },
     "done": true
   },
-  "handcrafted:recipes/misc/dark_oak_side_table": {
-    "criteria": {
-      "has_dark_oak_side_table": "2026-03-06 17:26:43 +0100"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/white_glazed_wide_pot": {
     "criteria": {
       "has_the_recipe": "2026-03-06 17:28:16 +0100"
@@ -1622,12 +2138,6 @@
   "minecraft:recipes/misc/silence_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
       "has_the_recipe": "2026-03-06 17:28:16 +0100"
-    },
-    "done": true
-  },
-  "cobblemon:recipes/misc/pokedex_blue": {
-    "criteria": {
-      "has_pokedex": "2026-03-06 17:28:15 +0100"
     },
     "done": true
   },
@@ -1928,12 +2438,6 @@
   "minecraft:recipes/redstone/birch_door": {
     "criteria": {
       "has_the_recipe": "2026-03-06 17:28:16 +0100"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/dark_oak_barrel": {
-    "criteria": {
-      "has_dark_oak_plank": "2026-03-06 17:26:43 +0100"
     },
     "done": true
   },
@@ -2897,12 +3401,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/stick": {
-    "criteria": {
-      "has_planks": "2026-03-06 17:26:43 +0100"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/crimson_pressure_plate": {
     "criteria": {
       "has_the_recipe": "2026-03-06 17:28:16 +0100"
@@ -3020,12 +3518,6 @@
   "mega_showdown:recipes/misc/pikanium_z2": {
     "criteria": {
       "has_the_recipe": "2026-03-06 17:28:16 +0100"
-    },
-    "done": true
-  },
-  "cobblemon:root": {
-    "criteria": {
-      "picked_starter": "2026-03-06 17:28:15 +0100"
     },
     "done": true
   },
@@ -3431,12 +3923,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/birch_wood": {
-    "criteria": {
-      "has_birch_log": "2026-03-06 17:25:59 +0100"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/purple_cushion_from_purple_dye": {
     "criteria": {
       "has_the_recipe": "2026-03-06 17:28:16 +0100"
@@ -3728,12 +4214,6 @@
   "cobblemon:recipes/agriculture/rawst_berry_smelt_to_dye": {
     "criteria": {
       "has_the_recipe": "2026-03-06 17:28:16 +0100"
-    },
-    "done": true
-  },
-  "cozyhome:recipes/building_blocks/dark_oak_large_stump": {
-    "criteria": {
-      "has_dark_oak_log": "2026-03-06 17:26:33 +0100"
     },
     "done": true
   },
@@ -4061,12 +4541,6 @@
     },
     "done": true
   },
-  "handcrafted:recipes/misc/dark_oak_fancy_bed": {
-    "criteria": {
-      "has_dark_oak_fancy_bed": "2026-03-06 17:26:43 +0100"
-    },
-    "done": true
-  },
   "cobblemon:recipes/evolution/leaf_stone_from_blasting_deepslate_leaf_stone_ore": {
     "criteria": {
       "has_the_recipe": "2026-03-06 17:28:16 +0100"
@@ -4094,12 +4568,6 @@
   "minecraft:recipes/building_blocks/stone": {
     "criteria": {
       "has_the_recipe": "2026-03-06 17:28:16 +0100"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/dark_oak_table": {
-    "criteria": {
-      "has_dark_oak_table": "2026-03-06 17:26:43 +0100"
     },
     "done": true
   },
@@ -4172,12 +4640,6 @@
   "pokeblocks:recipes/decorations/gigantic_pokedoll_wailmer": {
     "criteria": {
       "has_the_recipe": "2026-03-06 17:28:16 +0100"
-    },
-    "done": true
-  },
-  "cozyhome:recipes/building_blocks/birch_large_stump": {
-    "criteria": {
-      "has_birch_log": "2026-03-06 17:25:59 +0100"
     },
     "done": true
   },
@@ -4409,12 +4871,6 @@
     },
     "done": true
   },
-  "carved_wood:recipes/decorations/dark_oak_chest": {
-    "criteria": {
-      "has_dark_oak_planks": "2026-03-06 17:26:43 +0100"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/soul_torch": {
     "criteria": {
       "has_the_recipe": "2026-03-06 17:28:16 +0100"
@@ -4436,12 +4892,6 @@
   "minecraft:recipes/building_blocks/yellow_terracotta": {
     "criteria": {
       "has_the_recipe": "2026-03-06 17:28:16 +0100"
-    },
-    "done": true
-  },
-  "carved_wood:recipes/decorations/barrel": {
-    "criteria": {
-      "has_planks": "2026-03-06 17:26:43 +0100"
     },
     "done": true
   },
@@ -5057,12 +5507,6 @@
     },
     "done": true
   },
-  "handcrafted:recipes/misc/salmon_trophy": {
-    "criteria": {
-      "has_salmon_trophy": "2026-03-06 17:26:43 +0100"
-    },
-    "done": true
-  },
   "cozyhome:recipes/building_blocks/mud_bathtub": {
     "criteria": {
       "has_the_recipe": "2026-03-06 17:28:16 +0100"
@@ -5108,12 +5552,6 @@
   "minecraft:recipes/transportation/activator_rail": {
     "criteria": {
       "has_the_recipe": "2026-03-06 17:28:16 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dark_oak_stairs": {
-    "criteria": {
-      "has_planks": "2026-03-06 17:26:43 +0100"
     },
     "done": true
   },
@@ -5483,51 +5921,15 @@
     },
     "done": true
   },
-  "sophisticatedstorage:recipes/misc/dark_oak_limited_barrel_2": {
-    "criteria": {
-      "has_dark_oak_plank": "2026-03-06 17:26:43 +0100"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/dark_oak_limited_barrel_1": {
-    "criteria": {
-      "has_dark_oak_plank": "2026-03-06 17:26:43 +0100"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/dark_oak_limited_barrel_4": {
-    "criteria": {
-      "has_dark_oak_plank": "2026-03-06 17:26:43 +0100"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/dark_oak_limited_barrel_3": {
-    "criteria": {
-      "has_dark_oak_plank": "2026-03-06 17:26:43 +0100"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/dye_brown_wool": {
     "criteria": {
       "has_the_recipe": "2026-03-06 17:28:16 +0100"
     },
     "done": true
   },
-  "handcrafted:recipes/misc/silverfish_trophy": {
-    "criteria": {
-      "has_silverfish_trophy": "2026-03-06 17:26:43 +0100"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_the_recipe": "2026-03-06 17:28:16 +0100"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/dark_oak_nightstand": {
-    "criteria": {
-      "has_dark_oak_nightstand": "2026-03-06 17:26:43 +0100"
     },
     "done": true
   },
@@ -6119,12 +6521,6 @@
     },
     "done": true
   },
-  "handcrafted:recipes/misc/dark_oak_shelf": {
-    "criteria": {
-      "has_dark_oak_shelf": "2026-03-06 17:26:43 +0100"
-    },
-    "done": true
-  },
   "cozyhome:recipes/building_blocks/acacia_large_stump": {
     "criteria": {
       "has_the_recipe": "2026-03-06 17:28:16 +0100"
@@ -6197,12 +6593,6 @@
     },
     "done": true
   },
-  "handcrafted:recipes/misc/bear_trophy": {
-    "criteria": {
-      "has_bear_trophy": "2026-03-06 17:26:43 +0100"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/red_nether_brick_slab_from_red_nether_bricks_stonecutting": {
     "criteria": {
       "has_the_recipe": "2026-03-06 17:28:16 +0100"
@@ -6248,12 +6638,6 @@
   "cozyhome:recipes/building_blocks/calcite_bathtub": {
     "criteria": {
       "has_the_recipe": "2026-03-06 17:28:16 +0100"
-    },
-    "done": true
-  },
-  "carved_wood:recipes/decorations/dark_oak_barrel": {
-    "criteria": {
-      "has_dark_oak_planks": "2026-03-06 17:26:43 +0100"
     },
     "done": true
   },
@@ -6389,12 +6773,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/dark_oak_door": {
-    "criteria": {
-      "has_planks": "2026-03-06 17:26:43 +0100"
-    },
-    "done": true
-  },
   "cozyhome:recipes/building_blocks/mangrove_wall_mirror": {
     "criteria": {
       "has_the_recipe": "2026-03-06 17:28:16 +0100"
@@ -6494,12 +6872,6 @@
   "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_from_waxed_oxidized_copper_stonecutting": {
     "criteria": {
       "has_the_recipe": "2026-03-06 17:28:16 +0100"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/dark_oak_dining_bench": {
-    "criteria": {
-      "has_dark_oak_dining_bench": "2026-03-06 17:26:43 +0100"
     },
     "done": true
   },
@@ -6953,12 +7325,6 @@
     },
     "done": true
   },
-  "cobblemon:recipes/misc/pokedex_red": {
-    "criteria": {
-      "has_pokedex": "2026-03-06 17:28:15 +0100"
-    },
-    "done": true
-  },
   "sophisticatedstorage:recipes/misc/storage_input": {
     "criteria": {
       "has_the_recipe": "2026-03-06 17:28:16 +0100"
@@ -7286,12 +7652,6 @@
   "carved_wood:recipes/building_blocks/jungle_tiles": {
     "criteria": {
       "has_the_recipe": "2026-03-06 17:28:16 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/birch_planks": {
-    "criteria": {
-      "has_logs": "2026-03-06 17:25:59 +0100"
     },
     "done": true
   },
@@ -7877,12 +8237,6 @@
     },
     "done": true
   },
-  "cozyhome:recipes/building_blocks/dark_oak_counter": {
-    "criteria": {
-      "has_dark_oak_planks": "2026-03-06 17:26:43 +0100"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/magenta_concrete_powder": {
     "criteria": {
       "has_the_recipe": "2026-03-06 17:28:16 +0100"
@@ -8165,12 +8519,6 @@
     },
     "done": true
   },
-  "sophisticatedstorage:recipes/misc/dark_oak_chest": {
-    "criteria": {
-      "has_dark_oak_plank": "2026-03-06 17:26:43 +0100"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
     "criteria": {
       "has_the_recipe": "2026-03-06 17:28:16 +0100"
@@ -8351,12 +8699,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/charcoal": {
-    "criteria": {
-      "has_log": "2026-03-06 17:25:59 +0100"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_tuff_slab_from_polished_tuff_stonecutting": {
     "criteria": {
       "has_the_recipe": "2026-03-06 17:28:16 +0100"
@@ -8516,12 +8858,6 @@
   "cobblemon:recipes/agriculture/coba_berry_smelt_to_dye": {
     "criteria": {
       "has_the_recipe": "2026-03-06 17:28:16 +0100"
-    },
-    "done": true
-  },
-  "carved_wood:recipes/decorations/chest": {
-    "criteria": {
-      "has_planks": "2026-03-06 17:26:43 +0100"
     },
     "done": true
   },
@@ -8726,12 +9062,6 @@
   "cobblemon:recipes/campfire_pot/black_aprijuice": {
     "criteria": {
       "has_the_recipe": "2026-03-06 17:28:16 +0100"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/dark_oak_cupboard": {
-    "criteria": {
-      "has_dark_oak_cupboard": "2026-03-06 17:26:43 +0100"
     },
     "done": true
   },
@@ -9119,12 +9449,6 @@
     },
     "done": true
   },
-  "cozyhome:recipes/building_blocks/dark_oak_storage_counter": {
-    "criteria": {
-      "has_dark_oak_planks": "2026-03-06 17:26:43 +0100"
-    },
-    "done": true
-  },
   "tmcraft:recipes/misc/tm_flashcannon": {
     "criteria": {
       "has_the_recipe": "2026-03-06 17:28:16 +0100"
@@ -9314,12 +9638,6 @@
   "handcrafted:recipes/misc/crimson_fancy_bed": {
     "criteria": {
       "has_the_recipe": "2026-03-06 17:28:16 +0100"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/goat_trophy": {
-    "criteria": {
-      "has_goat_trophy": "2026-03-06 17:26:43 +0100"
     },
     "done": true
   },
@@ -9890,12 +10208,6 @@
   "cobblemon:recipes/held/room_service": {
     "criteria": {
       "has_the_recipe": "2026-03-06 17:28:16 +0100"
-    },
-    "done": true
-  },
-  "carved_wood:recipes/decorations/dark_oak_ladder": {
-    "criteria": {
-      "has_dark_oak_planks": "2026-03-06 17:26:43 +0100"
     },
     "done": true
   },
@@ -11429,12 +11741,6 @@
     },
     "done": true
   },
-  "cozyhome:recipes/building_blocks/dark_oak_wall_mirror": {
-    "criteria": {
-      "has_dark_oak_planks": "2026-03-06 17:26:43 +0100"
-    },
-    "done": true
-  },
   "tmcraft:recipes/misc/tm_helpinghand": {
     "criteria": {
       "has_the_recipe": "2026-03-06 17:28:16 +0100"
@@ -11711,12 +12017,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/dark_oak_sign": {
-    "criteria": {
-      "has_planks": "2026-03-06 17:26:43 +0100"
-    },
-    "done": true
-  },
   "cobblemon:recipes/blocks/tumblestone_brick_stairs_from_polished_tumblestone_in_stonecutter": {
     "criteria": {
       "has_the_recipe": "2026-03-06 17:28:16 +0100"
@@ -11750,12 +12050,6 @@
   "handcrafted:recipes/misc/oven": {
     "criteria": {
       "has_the_recipe": "2026-03-06 17:28:16 +0100"
-    },
-    "done": true
-  },
-  "cobbleverse:root": {
-    "criteria": {
-      "cobbleverse_starts_now": "2026-03-06 17:25:33 +0100"
     },
     "done": true
   },
@@ -11909,12 +12203,6 @@
     },
     "done": true
   },
-  "carved_wood:recipes/building_blocks/dark_oak_lantern": {
-    "criteria": {
-      "has_dark_oak_planks": "2026-03-06 17:26:43 +0100"
-    },
-    "done": true
-  },
   "carved_wood:recipes/building_blocks/dark_oak_mosaic_slab": {
     "criteria": {
       "has_the_recipe": "2026-03-06 17:28:16 +0100"
@@ -11960,12 +12248,6 @@
   "minecraft:recipes/misc/coal_from_smelting_coal_ore": {
     "criteria": {
       "has_the_recipe": "2026-03-06 17:28:16 +0100"
-    },
-    "done": true
-  },
-  "cozyhome:recipes/building_blocks/dark_oak_desk": {
-    "criteria": {
-      "has_dark_oak_planks": "2026-03-06 17:26:43 +0100"
     },
     "done": true
   },
@@ -12098,12 +12380,6 @@
   "cobblemon:recipes/agriculture/shuca_berry_smelt_to_dye": {
     "criteria": {
       "has_the_recipe": "2026-03-06 17:28:16 +0100"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/blaze_trophy": {
-    "criteria": {
-      "has_blaze_trophy": "2026-03-06 17:26:43 +0100"
     },
     "done": true
   },
@@ -12539,12 +12815,6 @@
     },
     "done": true
   },
-  "handcrafted:recipes/misc/wolf_trophy": {
-    "criteria": {
-      "has_wolf_trophy": "2026-03-06 17:26:43 +0100"
-    },
-    "done": true
-  },
   "vanillabackport:recipes/building_blocks/resin_brick_slab": {
     "criteria": {
       "has_the_recipe": "2026-03-06 17:28:16 +0100"
@@ -12965,12 +13235,6 @@
     },
     "done": true
   },
-  "handcrafted:recipes/misc/dark_oak_corner_trim": {
-    "criteria": {
-      "has_dark_oak_corner_trim": "2026-03-06 17:26:43 +0100"
-    },
-    "done": true
-  },
   "pokeblocks:recipes/decorations/gigantic_pokedoll_shiny_marshadow": {
     "criteria": {
       "has_the_recipe": "2026-03-06 17:28:16 +0100"
@@ -13241,12 +13505,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/dark_oak_fence_gate": {
-    "criteria": {
-      "has_planks": "2026-03-06 17:26:43 +0100"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/waxed_weathered_copper_from_honeycomb": {
     "criteria": {
       "has_the_recipe": "2026-03-06 17:28:16 +0100"
@@ -13436,12 +13694,6 @@
   "minecraft:recipes/building_blocks/crimson_stairs": {
     "criteria": {
       "has_the_recipe": "2026-03-06 17:28:16 +0100"
-    },
-    "done": true
-  },
-  "cobbleverse:gen_1": {
-    "criteria": {
-      "started_gen1": "2026-03-06 17:28:15 +0100"
     },
     "done": true
   },
@@ -13640,12 +13892,6 @@
   "minecraft:recipes/decorations/trapped_chest": {
     "criteria": {
       "has_the_recipe": "2026-03-06 17:28:16 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/dark_oak_trapdoor": {
-    "criteria": {
-      "has_planks": "2026-03-06 17:26:43 +0100"
     },
     "done": true
   },
@@ -14096,12 +14342,6 @@
   "minecraft:recipes/misc/iron_nugget": {
     "criteria": {
       "has_the_recipe": "2026-03-06 17:28:16 +0100"
-    },
-    "done": true
-  },
-  "mega_showdown:mega_showdown/root": {
-    "criteria": {
-      "root": "2026-03-06 17:28:15 +0100"
     },
     "done": true
   },
@@ -14951,12 +15191,6 @@
     },
     "done": true
   },
-  "cobblemon:craft_pokedex": {
-    "criteria": {
-      "requirement": "2026-03-06 17:28:15 +0100"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_the_recipe": "2026-03-06 17:28:16 +0100"
@@ -15281,12 +15515,6 @@
     },
     "done": true
   },
-  "carved_wood:recipes/building_blocks/chiseled_dark_oak_bookshelf": {
-    "criteria": {
-      "has_dark_oak_planks": "2026-03-06 17:26:43 +0100"
-    },
-    "done": true
-  },
   "moarconcrete:recipes/building_blocks/white_concrete_stairs": {
     "criteria": {
       "has_the_recipe": "2026-03-06 17:28:16 +0100"
@@ -15302,12 +15530,6 @@
   "comforts:recipes/building_blocks/dye_hammock_blue": {
     "criteria": {
       "has_the_recipe": "2026-03-06 17:28:16 +0100"
-    },
-    "done": true
-  },
-  "carved_wood:recipes/decorations/bookshelf": {
-    "criteria": {
-      "has_planks": "2026-03-06 17:26:43 +0100"
     },
     "done": true
   },
@@ -15611,12 +15833,6 @@
     },
     "done": true
   },
-  "handcrafted:recipes/misc/dark_oak_counter": {
-    "criteria": {
-      "has_dark_oak_counter": "2026-03-06 17:26:43 +0100"
-    },
-    "done": true
-  },
   "carved_wood:recipes/building_blocks/mangrove_mosaic_stairs": {
     "criteria": {
       "has_the_recipe": "2026-03-06 17:28:16 +0100"
@@ -15722,12 +15938,6 @@
   "waystones:recipes/decorations/black_portstone": {
     "criteria": {
       "has_the_recipe": "2026-03-06 17:28:16 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/dark_oak_button": {
-    "criteria": {
-      "has_planks": "2026-03-06 17:26:43 +0100"
     },
     "done": true
   },
@@ -16238,12 +16448,6 @@
   "moarconcrete:recipes/redstone/gray_concrete_button": {
     "criteria": {
       "has_the_recipe": "2026-03-06 17:28:16 +0100"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/dark_oak_bench": {
-    "criteria": {
-      "has_dark_oak_bench": "2026-03-06 17:26:43 +0100"
     },
     "done": true
   },
@@ -17291,12 +17495,6 @@
     },
     "done": true
   },
-  "handcrafted:recipes/misc/fox_trophy": {
-    "criteria": {
-      "has_fox_trophy": "2026-03-06 17:26:43 +0100"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/smooth_stone": {
     "criteria": {
       "has_the_recipe": "2026-03-06 17:28:16 +0100"
@@ -17324,12 +17522,6 @@
   "minecraft:recipes/building_blocks/dye_pink_carpet": {
     "criteria": {
       "has_the_recipe": "2026-03-06 17:28:16 +0100"
-    },
-    "done": true
-  },
-  "cozyhome:recipes/building_blocks/dark_oak_chair": {
-    "criteria": {
-      "has_dark_oak_planks": "2026-03-06 17:26:43 +0100"
     },
     "done": true
   },
@@ -17750,12 +17942,6 @@
   "cobblemon:recipes/balls/roseate_ball": {
     "criteria": {
       "has_the_recipe": "2026-03-06 17:28:16 +0100"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/dark_oak_drawer": {
-    "criteria": {
-      "has_dark_oak_drawer": "2026-03-06 17:26:43 +0100"
     },
     "done": true
   },
@@ -18221,12 +18407,6 @@
     },
     "done": true
   },
-  "carved_wood:recipes/building_blocks/dark_oak_panels": {
-    "criteria": {
-      "has_dark_oak_planks": "2026-03-06 17:26:43 +0100"
-    },
-    "done": true
-  },
   "moarconcrete:recipes/redstone/pink_concrete_button": {
     "criteria": {
       "has_the_recipe": "2026-03-06 17:28:16 +0100"
@@ -18275,12 +18455,6 @@
     },
     "done": true
   },
-  "handcrafted:recipes/misc/tropical_fish_trophy": {
-    "criteria": {
-      "has_tropical_fish_trophy": "2026-03-06 17:26:43 +0100"
-    },
-    "done": true
-  },
   "cobblemon:recipes/blocks/sky_tumblestone_brick_slab": {
     "criteria": {
       "has_the_recipe": "2026-03-06 17:28:16 +0100"
@@ -18320,12 +18494,6 @@
   "carved_wood:recipes/building_blocks/carved_spruce_planks": {
     "criteria": {
       "has_the_recipe": "2026-03-06 17:28:16 +0100"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/dark_oak_couch": {
-    "criteria": {
-      "has_dark_oak_couch": "2026-03-06 17:26:43 +0100"
     },
     "done": true
   },
@@ -18443,12 +18611,6 @@
     },
     "done": true
   },
-  "cozyhome:recipes/building_blocks/dark_oak_sink_counter": {
-    "criteria": {
-      "has_dark_oak_planks": "2026-03-06 17:26:43 +0100"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/bamboo_door": {
     "criteria": {
       "has_the_recipe": "2026-03-06 17:28:16 +0100"
@@ -18560,12 +18722,6 @@
   "minecraft:recipes/misc/bolt_armor_trim_smithing_template": {
     "criteria": {
       "has_the_recipe": "2026-03-06 17:28:16 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
-    "criteria": {
-      "has_planks": "2026-03-06 17:26:43 +0100"
     },
     "done": true
   },
@@ -18827,12 +18983,6 @@
     },
     "done": true
   },
-  "handcrafted:recipes/misc/spider_trophy": {
-    "criteria": {
-      "has_spider_trophy": "2026-03-06 17:26:43 +0100"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/acacia_counter": {
     "criteria": {
       "has_the_recipe": "2026-03-06 17:28:16 +0100"
@@ -18854,12 +19004,6 @@
   "vanillabackport:recipes/food/pumpkin_pie": {
     "criteria": {
       "has_the_recipe": "2026-03-06 17:28:16 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/dark_oak_fence": {
-    "criteria": {
-      "has_planks": "2026-03-06 17:26:43 +0100"
     },
     "done": true
   },
@@ -19010,12 +19154,6 @@
   "tmcraft:recipes/misc/tm_scald": {
     "criteria": {
       "has_the_recipe": "2026-03-06 17:28:16 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dark_oak_slab": {
-    "criteria": {
-      "has_planks": "2026-03-06 17:26:43 +0100"
     },
     "done": true
   },
@@ -19175,12 +19313,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dark_oak_planks": {
-    "criteria": {
-      "has_log": "2026-03-06 17:26:33 +0100"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/detector_rail": {
     "criteria": {
       "has_the_recipe": "2026-03-06 17:28:16 +0100"
@@ -19190,12 +19322,6 @@
   "cobblemon:recipes/blocks/water_stone_block": {
     "criteria": {
       "has_the_recipe": "2026-03-06 17:28:16 +0100"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/dark_oak_chair": {
-    "criteria": {
-      "has_dark_oak_chair": "2026-03-06 17:26:43 +0100"
     },
     "done": true
   },
@@ -19658,12 +19784,6 @@
   "sophisticatedstorage:recipes/misc/jungle_barrel": {
     "criteria": {
       "has_the_recipe": "2026-03-06 17:28:16 +0100"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/pufferfish_trophy": {
-    "criteria": {
-      "has_pufferfish_trophy": "2026-03-06 17:26:43 +0100"
     },
     "done": true
   },
@@ -20363,12 +20483,6 @@
     },
     "done": true
   },
-  "carved_wood:recipes/building_blocks/birch_log_bundle": {
-    "criteria": {
-      "has_birch_log": "2026-03-06 17:25:59 +0100"
-    },
-    "done": true
-  },
   "cozyhome:recipes/building_blocks/spruce_grandfather_clock": {
     "criteria": {
       "has_the_recipe": "2026-03-06 17:28:16 +0100"
@@ -20492,12 +20606,6 @@
   "minecraft:recipes/decorations/lime_carpet": {
     "criteria": {
       "has_the_recipe": "2026-03-06 17:28:16 +0100"
-    },
-    "done": true
-  },
-  "cozyhome:recipes/building_blocks/dark_oak_table": {
-    "criteria": {
-      "has_dark_oak_planks": "2026-03-06 17:26:43 +0100"
     },
     "done": true
   },
@@ -20777,12 +20885,6 @@
     },
     "done": true
   },
-  "carved_wood:recipes/building_blocks/dark_oak_log_bundle": {
-    "criteria": {
-      "has_dark_oak_log": "2026-03-06 17:26:33 +0100"
-    },
-    "done": true
-  },
   "cozyhome:recipes/building_blocks/jungle_chair": {
     "criteria": {
       "has_the_recipe": "2026-03-06 17:28:16 +0100"
@@ -21011,12 +21113,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dark_oak_wood": {
-    "criteria": {
-      "has_dark_oak_log": "2026-03-06 17:26:33 +0100"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/calcite_corner_trim": {
     "criteria": {
       "has_the_recipe": "2026-03-06 17:28:16 +0100"
@@ -21152,12 +21248,6 @@
   "cobblemon:recipes/blocks/smooth_sky_tumblestone_slab_from_in_stonecutter": {
     "criteria": {
       "has_the_recipe": "2026-03-06 17:28:16 +0100"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/dark_oak_desk": {
-    "criteria": {
-      "has_dark_oak_desk": "2026-03-06 17:26:43 +0100"
     },
     "done": true
   },
@@ -21653,12 +21743,6 @@
     },
     "done": true
   },
-  "carved_wood:recipes/decorations/crafting_table": {
-    "criteria": {
-      "has_planks": "2026-03-06 17:26:43 +0100"
-    },
-    "done": true
-  },
   "mega_showdown:recipes/misc/icium_z": {
     "criteria": {
       "has_the_recipe": "2026-03-06 17:28:16 +0100"
@@ -21776,12 +21860,6 @@
   "carved_wood:recipes/building_blocks/smooth_birch_boards": {
     "criteria": {
       "has_the_recipe": "2026-03-06 17:28:16 +0100"
-    },
-    "done": true
-  },
-  "cozyhome:recipes/building_blocks/dark_oak_drawer": {
-    "criteria": {
-      "has_dark_oak_planks": "2026-03-06 17:26:43 +0100"
     },
     "done": true
   },
@@ -23052,12 +23130,6 @@
     },
     "done": true
   },
-  "cobblemon:recipes/misc/pokedex_pink": {
-    "criteria": {
-      "has_pokedex": "2026-03-06 17:28:15 +0100"
-    },
-    "done": true
-  },
   "tmcraft:recipes/misc/tm_steelwing": {
     "criteria": {
       "has_the_recipe": "2026-03-06 17:28:16 +0100"
@@ -23124,12 +23196,6 @@
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/gold_backpack": {
-    "criteria": {
-      "has_iron_backpack": "2026-03-06 17:28:15 +0100"
-    },
-    "done": true
-  },
   "mega_showdown:recipes/misc/z_ring_red": {
     "criteria": {
       "has_the_recipe": "2026-03-06 17:28:16 +0100"
@@ -23147,14 +23213,6 @@
       "has_the_recipe": "2026-03-06 17:28:16 +0100"
     },
     "done": true
-  },
-  "minecraft:adventure/adventuring_time": {
-    "criteria": {
-      "minecraft:old_growth_birch_forest": "2026-03-06 17:28:42 +0100",
-      "minecraft:dark_forest": "2026-03-06 17:25:33 +0100",
-      "minecraft:stony_shore": "2026-03-06 17:27:33 +0100"
-    },
-    "done": false
   },
   "mega_showdown:recipes/misc/purple_nectar": {
     "criteria": {
@@ -23948,12 +24006,6 @@
     },
     "done": true
   },
-  "carved_wood:recipes/decorations/ladder": {
-    "criteria": {
-      "has_planks": "2026-03-06 17:26:43 +0100"
-    },
-    "done": true
-  },
   "sophisticatedstorage:recipes/misc/auto_blasting_upgrade_from_auto_smelting_upgrade": {
     "criteria": {
       "has_the_recipe": "2026-03-06 17:28:16 +0100"
@@ -23963,12 +24015,6 @@
   "tmcraft:recipes/misc/pokemon_breeder_table": {
     "criteria": {
       "has_the_recipe": "2026-03-06 17:28:16 +0100"
-    },
-    "done": true
-  },
-  "carved_wood:recipes/decorations/birch_crafting_table": {
-    "criteria": {
-      "has_the_recipe": "2026-03-06 17:26:16 +0100"
     },
     "done": true
   },
@@ -24266,12 +24312,6 @@
     },
     "done": true
   },
-  "handcrafted:recipes/misc/skeleton_horse_trophy": {
-    "criteria": {
-      "has_skeleton_horse_trophy": "2026-03-06 17:26:43 +0100"
-    },
-    "done": true
-  },
   "mega_showdown:recipes/misc/eevium_z2": {
     "criteria": {
       "has_the_recipe": "2026-03-06 17:28:16 +0100"
@@ -24299,12 +24339,6 @@
   "tmcraft:recipes/misc/tm_superpower": {
     "criteria": {
       "has_the_recipe": "2026-03-06 17:28:16 +0100"
-    },
-    "done": true
-  },
-  "carved_wood:recipes/decorations/dark_oak_bookshelf": {
-    "criteria": {
-      "has_dark_oak_planks": "2026-03-06 17:26:43 +0100"
     },
     "done": true
   },
@@ -24866,12 +24900,6 @@
     },
     "done": true
   },
-  "handcrafted:recipes/misc/wither_skeleton_trophy": {
-    "criteria": {
-      "has_wither_skeleton_trophy": "2026-03-06 17:26:43 +0100"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/waxed_oxidized_copper_grate_from_waxed_oxidized_copper_stonecutting": {
     "criteria": {
       "has_the_recipe": "2026-03-06 17:28:16 +0100"
@@ -25022,12 +25050,6 @@
     },
     "done": true
   },
-  "handcrafted:recipes/misc/dark_oak_pillar_trim": {
-    "criteria": {
-      "has_dark_oak_pillar_trim": "2026-03-06 17:26:43 +0100"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/mojang_banner_pattern": {
     "criteria": {
       "has_the_recipe": "2026-03-06 17:28:16 +0100"
@@ -25142,9 +25164,95 @@
     },
     "done": true
   },
-  "carved_wood:recipes/decorations/dark_oak_crafting_table": {
+  "minecraft:adventure/root": {
     "criteria": {
-      "has_dark_oak_planks": "2026-03-06 17:26:43 +0100"
+      "killed_something": "2026-03-06 18:02:26 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:first_catch": {
+    "criteria": {
+      "catch": "2026-03-06 18:05:54 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:first_evolution": {
+    "criteria": {
+      "evolve": "2026-03-06 18:16:14 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:skeleton": "2026-03-06 18:33:14 +0100",
+      "minecraft:spider": "2026-03-06 18:37:04 +0100",
+      "minecraft:zombie": "2026-03-06 18:19:03 +0100"
+    },
+    "done": false
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:zombie": "2026-03-06 18:19:03 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2026-03-06 18:20:30 +0100"
+    },
+    "done": true
+  },
+  "carved_wood:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_stick": "2026-03-06 18:24:57 +0100"
+    },
+    "done": true
+  },
+  "carved_wood:recipes/decorations/campfire": {
+    "criteria": {
+      "has_stick": "2026-03-06 18:24:57 +0100"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2026-03-06 18:25:36 +0100"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2026-03-06 18:28:23 +0100"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/copper_barrel": {
+    "criteria": {
+      "has_barrel": "2026-03-06 18:42:09 +0100"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/iron_barrel": {
+    "criteria": {
+      "has_barrel": "2026-03-06 18:42:09 +0100"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2026-03-06 18:42:13 +0100"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2026-03-06 19:23:11 +0100"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2026-03-06 19:23:32 +0100"
     },
     "done": true
   },
