@@ -12,9 +12,9 @@
     "totalEggsCollected": 0,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 2,
-    "totalBattleVictoryCount": 27,
+    "totalBattleVictoryCount": 28,
     "totalPvPBattleVictoryCount": 1,
-    "totalPvWBattleVictoryCount": 25,
+    "totalPvWBattleVictoryCount": 26,
     "totalPvNBattleVictoryCount": 1,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 0,
@@ -36,7 +36,8 @@
       "cobblemon:bunnelby": 2,
       "cobblemon:voltorb": 1,
       "cobblemon:lillipup": 1,
-      "cobblemon:wurmple": 1
+      "cobblemon:wurmple": 1,
+      "cobblemon:timburr": 1
     },
     "aspectsCollected": {
       "cobblemon:murkrow": [
