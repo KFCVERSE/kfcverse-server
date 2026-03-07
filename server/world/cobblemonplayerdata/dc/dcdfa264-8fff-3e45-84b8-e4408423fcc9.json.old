@@ -8,30 +8,31 @@
   "battleTheme": "cobblemon:battle.pvp.default",
   "extraData": {},
   "advancementData": {
-    "totalCaptureCount": 10,
+    "totalCaptureCount": 12,
     "totalEggsCollected": 0,
     "totalEggsHatched": 0,
-    "totalEvolvedCount": 1,
-    "totalBattleVictoryCount": 11,
+    "totalEvolvedCount": 2,
+    "totalBattleVictoryCount": 14,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 11,
+    "totalPvWBattleVictoryCount": 14,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 0,
     "totalTypeCaptureCounts": {
       "psychic": 1,
-      "ground": 2,
+      "ground": 3,
       "steel": 3,
       "poison": 1,
-      "flying": 3,
+      "flying": 4,
       "rock": 1,
-      "dragon": 1,
+      "dragon": 2,
       "ghost": 1,
       "fairy": 1,
-      "normal": 1
+      "normal": 1,
+      "dark": 1
     },
     "totalDefeatedCounts": {
-      "cobblemon:gimmighoul": 2
+      "cobblemon:gimmighoul": 3
     },
     "aspectsCollected": {
       "cobblemon:hatenna": [
@@ -67,6 +68,15 @@
         "male"
       ],
       "cobblemon:fearow": [
+        "male"
+      ],
+      "cobblemon:murkrow": [
+        "male"
+      ],
+      "cobblemon:honchkrow": [
+        "male"
+      ],
+      "cobblemon:gible": [
         "male"
       ]
     }

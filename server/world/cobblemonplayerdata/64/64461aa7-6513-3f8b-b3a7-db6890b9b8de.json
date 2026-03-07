@@ -12,9 +12,9 @@
     "totalEggsCollected": 0,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 0,
-    "totalBattleVictoryCount": 31,
+    "totalBattleVictoryCount": 32,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 31,
+    "totalPvWBattleVictoryCount": 32,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 0,
@@ -42,7 +42,7 @@
       "cobblemon:igglybuff": 1,
       "cobblemon:munna": 1,
       "cobblemon:carkol": 1,
-      "cobblemon:bunnelby": 1
+      "cobblemon:bunnelby": 2
     },
     "aspectsCollected": {
       "cobblemon:hoothoot": [

@@ -8,13 +8,13 @@
   "battleTheme": "cobblemon:battle.pvp.default",
   "extraData": {},
   "advancementData": {
-    "totalCaptureCount": 15,
+    "totalCaptureCount": 16,
     "totalEggsCollected": 0,
     "totalEggsHatched": 0,
-    "totalEvolvedCount": 6,
-    "totalBattleVictoryCount": 61,
+    "totalEvolvedCount": 7,
+    "totalBattleVictoryCount": 68,
     "totalPvPBattleVictoryCount": 1,
-    "totalPvWBattleVictoryCount": 57,
+    "totalPvWBattleVictoryCount": 64,
     "totalPvNBattleVictoryCount": 3,
     "totalShinyCaptureCount": 1,
     "totalTradedCount": 0,
@@ -27,13 +27,15 @@
       "steel": 1,
       "fairy": 2,
       "ground": 1,
-      "psychic": 2
+      "psychic": 2,
+      "fighting": 1,
+      "ice": 1
     },
     "totalDefeatedCounts": {
       "cobblemon:duskull": 1,
       "cobblemon:pineco": 7,
       "cobblemon:koffing": 1,
-      "cobblemon:gimmighoul": 8,
+      "cobblemon:gimmighoul": 11,
       "cobblemon:rookidee": 1,
       "cobblemon:lechonk": 1,
       "cobblemon:sentret": 1,
@@ -56,7 +58,9 @@
       "cobblemon:drowzee": 1,
       "cobblemon:makuhita": 1,
       "cobblemon:sinistea": 1,
-      "cobblemon:oddish": 1
+      "cobblemon:oddish": 1,
+      "cobblemon:torkoal": 2,
+      "cobblemon:grumpig": 1
     },
     "aspectsCollected": {
       "cobblemon:murkrow": [
@@ -131,6 +135,12 @@
       "cobblemon:rapidash": [
         "female",
         "galarian"
+      ],
+      "cobblemon:crabominable": [
+        "female"
+      ],
+      "cobblemon:honchkrow": [
+        "male"
       ]
     }
   }

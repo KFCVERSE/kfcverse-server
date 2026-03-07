@@ -24784,13 +24784,6 @@
     },
     "done": true
   },
-  "minecraft:nether/explore_nether": {
-    "criteria": {
-      "minecraft:nether_wastes": "2026-03-07 20:58:35 +0100",
-      "minecraft:soul_sand_valley": "2026-03-07 21:31:17 +0100"
-    },
-    "done": false
-  },
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2026-03-07 20:44:55 +0100"
@@ -24806,6 +24799,19 @@
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2026-03-07 20:58:31 +0100"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2026-03-07 20:58:35 +0100",
+      "minecraft:soul_sand_valley": "2026-03-07 21:31:17 +0100"
+    },
+    "done": false
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2026-03-07 21:58:15 +0100"
     },
     "done": true
   },
