@@ -8,28 +8,29 @@
   "battleTheme": "cobblemon:battle.pvp.default",
   "extraData": {},
   "advancementData": {
-    "totalCaptureCount": 12,
+    "totalCaptureCount": 13,
     "totalEggsCollected": 0,
     "totalEggsHatched": 0,
-    "totalEvolvedCount": 2,
-    "totalBattleVictoryCount": 15,
+    "totalEvolvedCount": 4,
+    "totalBattleVictoryCount": 17,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 15,
-    "totalPvNBattleVictoryCount": 0,
-    "totalShinyCaptureCount": 0,
+    "totalPvWBattleVictoryCount": 16,
+    "totalPvNBattleVictoryCount": 1,
+    "totalShinyCaptureCount": 1,
     "totalTradedCount": 0,
     "totalTypeCaptureCounts": {
       "psychic": 1,
       "ground": 3,
       "steel": 3,
       "poison": 1,
-      "flying": 4,
+      "flying": 5,
       "rock": 1,
       "dragon": 2,
       "ghost": 1,
       "fairy": 1,
       "normal": 1,
-      "dark": 1
+      "dark": 1,
+      "bug": 1
     },
     "totalDefeatedCounts": {
       "cobblemon:gimmighoul": 4
@@ -77,6 +78,16 @@
         "male"
       ],
       "cobblemon:gible": [
+        "male"
+      ],
+      "cobblemon:ledyba": [
+        "shiny",
+        "female"
+      ],
+      "cobblemon:gabite": [
+        "male"
+      ],
+      "cobblemon:corvisquire": [
         "male"
       ]
     }

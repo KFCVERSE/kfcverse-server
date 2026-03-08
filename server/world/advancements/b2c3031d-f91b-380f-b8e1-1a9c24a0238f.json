@@ -22,6 +22,7 @@
       "minecraft:bamboo_jungle": "2026-03-07 22:30:41 +0100",
       "minecraft:flower_forest": "2026-03-07 20:45:54 +0100",
       "minecraft:savanna_plateau": "2026-02-27 21:53:14 +0100",
+      "minecraft:beach": "2026-03-08 20:40:15 +0100",
       "minecraft:dark_forest": "2026-02-18 19:48:19 +0100",
       "minecraft:river": "2026-02-18 20:24:23 +0100",
       "minecraft:lukewarm_ocean": "2026-02-27 22:07:37 +0100",
@@ -30,6 +31,7 @@
       "minecraft:frozen_peaks": "2026-02-22 20:21:33 +0100",
       "minecraft:old_growth_birch_forest": "2026-02-18 19:52:41 +0100",
       "minecraft:grove": "2026-02-18 20:46:16 +0100",
+      "minecraft:meadow": "2026-03-08 20:33:49 +0100",
       "minecraft:savanna": "2026-02-27 21:52:43 +0100",
       "minecraft:plains": "2026-02-27 21:51:46 +0100",
       "minecraft:jagged_peaks": "2026-02-18 20:48:01 +0100"
@@ -24648,6 +24650,7 @@
       "minecraft:pillager": "2026-02-27 22:26:43 +0100",
       "minecraft:blaze": "2026-03-07 21:04:50 +0100",
       "minecraft:skeleton": "2026-02-22 21:04:35 +0100",
+      "minecraft:phantom": "2026-03-08 21:01:59 +0100",
       "minecraft:enderman": "2026-03-07 16:18:02 +0100",
       "minecraft:spider": "2026-03-06 20:43:51 +0100",
       "minecraft:wither_skeleton": "2026-03-07 21:04:02 +0100",
@@ -25100,7 +25103,8 @@
     "criteria": {
       "minecraft:crimson_forest": "2026-03-07 21:03:02 +0100",
       "minecraft:nether_wastes": "2026-03-07 21:01:17 +0100",
-      "minecraft:soul_sand_valley": "2026-03-07 21:01:44 +0100"
+      "minecraft:soul_sand_valley": "2026-03-07 21:01:44 +0100",
+      "minecraft:basalt_deltas": "2026-03-08 21:17:13 +0100"
     },
     "done": false
   },
@@ -25137,6 +25141,18 @@
   "lockandblock:recipes/misc/reinforced_iron_ingot_from_carbon": {
     "criteria": {
       "has_iron_ingot": "2026-03-08 18:32:14 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:trade_pokemon": {
+    "criteria": {
+      "trade": "2026-03-08 20:45:33 +0100"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2026-03-08 21:14:46 +0100"
     },
     "done": true
   },

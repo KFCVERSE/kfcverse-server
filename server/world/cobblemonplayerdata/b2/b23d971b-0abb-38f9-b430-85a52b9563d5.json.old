@@ -11,13 +11,13 @@
     "totalCaptureCount": 10,
     "totalEggsCollected": 0,
     "totalEggsHatched": 0,
-    "totalEvolvedCount": 0,
+    "totalEvolvedCount": 3,
     "totalBattleVictoryCount": 14,
     "totalPvPBattleVictoryCount": 0,
     "totalPvWBattleVictoryCount": 14,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 0,
-    "totalTradedCount": 0,
+    "totalTradedCount": 3,
     "totalTypeCaptureCounts": {
       "fairy": 1,
       "normal": 3,
@@ -69,6 +69,19 @@
       ],
       "cobblemon:pidgeotto": [
         "female"
+      ],
+      "cobblemon:honchkrow": [
+        "male"
+      ],
+      "cobblemon:kakuna": [
+        "female"
+      ],
+      "cobblemon:beedrill": [
+        "female"
+      ],
+      "cobblemon:gurdurr": [
+        "male",
+        "metals-none"
       ]
     }
   }

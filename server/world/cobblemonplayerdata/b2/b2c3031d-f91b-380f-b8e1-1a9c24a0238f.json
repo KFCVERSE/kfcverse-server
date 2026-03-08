@@ -7,22 +7,50 @@
   "battleTheme": "cobblemon:battle.pvp.default",
   "extraData": {},
   "advancementData": {
-    "totalCaptureCount": 0,
+    "totalCaptureCount": 2,
     "totalEggsCollected": 0,
     "totalEggsHatched": 0,
-    "totalEvolvedCount": 0,
-    "totalBattleVictoryCount": 3,
+    "totalEvolvedCount": 1,
+    "totalBattleVictoryCount": 11,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 3,
+    "totalPvWBattleVictoryCount": 11,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 0,
-    "totalTradedCount": 0,
-    "totalTypeCaptureCounts": {},
+    "totalTradedCount": 3,
+    "totalTypeCaptureCounts": {
+      "normal": 1,
+      "bug": 1,
+      "poison": 1
+    },
     "totalDefeatedCounts": {
       "cobblemon:poliwhirl": 1,
       "cobblemon:magikarp": 1,
-      "cobblemon:araquanid": 1
+      "cobblemon:araquanid": 1,
+      "cobblemon:sandygast": 1,
+      "cobblemon:pyukumuku": 1,
+      "cobblemon:grimer": 1,
+      "cobblemon:swellow": 1,
+      "cobblemon:voltorb": 1,
+      "cobblemon:magmar": 1
     },
-    "aspectsCollected": {}
+    "aspectsCollected": {
+      "cobblemon:ditto": [
+        "genderless"
+      ],
+      "cobblemon:weedle": [
+        "female"
+      ],
+      "cobblemon:honchkrow": [
+        "male"
+      ],
+      "cobblemon:gyarados": [
+        "male",
+        "magikarp-jump-standard",
+        "gyarados-eye-color-red"
+      ],
+      "cobblemon:talonflame": [
+        "male"
+      ]
+    }
   }
 }

@@ -10534,6 +10534,7 @@
     "criteria": {
       "luxury_ball": "2026-03-07 23:17:21 +0100",
       "heal_ball": "2026-03-07 23:20:47 +0100",
+      "nest_ball": "2026-03-08 21:20:08 +0100",
       "timer_ball": "2026-03-07 22:45:54 +0100",
       "slate_ball": "2026-03-06 20:04:33 +0100",
       "moon_ball": "2026-03-07 23:38:09 +0100",
@@ -25368,7 +25369,10 @@
   },
   "cobblemon:brew_all": {
     "criteria": {
-      "obtain_awakening": "2026-03-06 20:05:05 +0100"
+      "obtain_full_heal": "2026-03-08 20:28:43 +0100",
+      "obtain_max_ether": "2026-03-08 21:18:14 +0100",
+      "obtain_awakening": "2026-03-06 20:05:05 +0100",
+      "obtain_super_potion": "2026-03-08 20:23:30 +0100"
     },
     "done": false
   },
@@ -25518,6 +25522,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/chest_from_wooden_chest": {
+    "criteria": {
+      "has_chest": "2026-03-07 22:31:36 +0100"
+    },
+    "done": true
+  },
   "cobblemon:craft_apricorn_balls": {
     "criteria": {
       "level_ball": "2026-03-07 22:52:04 +0100",
@@ -25538,9 +25548,39 @@
     },
     "done": false
   },
-  "minecraft:recipes/decorations/chest_from_wooden_chest": {
+  "lockandblock:recipes/redstone/key": {
     "criteria": {
-      "has_chest": "2026-03-07 22:31:36 +0100"
+      "has_gold_ingot": "2026-03-08 20:18:32 +0100"
+    },
+    "done": true
+  },
+  "lockandblock:recipes/redstone/redstone_laser": {
+    "criteria": {
+      "has_item": "2026-03-08 20:18:32 +0100"
+    },
+    "done": true
+  },
+  "lockandblock:recipes/misc/reinforced_iron_ingot_from_carbon": {
+    "criteria": {
+      "has_iron_ingot": "2026-03-08 20:18:32 +0100"
+    },
+    "done": true
+  },
+  "lockandblock:recipes/redstone/tesla_coil": {
+    "criteria": {
+      "has_copper_ingot": "2026-03-08 20:56:45 +0100"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2026-03-08 20:28:31 +0100"
+    },
+    "done": true
+  },
+  "lockandblock:recipes/misc/carbon_powder": {
+    "criteria": {
+      "has_item": "2026-03-08 20:31:29 +0100"
     },
     "done": true
   },

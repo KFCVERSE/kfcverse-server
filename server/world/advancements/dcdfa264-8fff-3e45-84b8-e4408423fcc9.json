@@ -32,6 +32,7 @@
       "minecraft:stony_shore": "2026-03-07 20:16:13 +0100",
       "minecraft:snowy_plains": "2026-03-08 19:15:53 +0100",
       "minecraft:dripstone_caves": "2026-03-06 20:54:55 +0100",
+      "minecraft:frozen_peaks": "2026-03-08 20:40:07 +0100",
       "minecraft:old_growth_birch_forest": "2026-03-06 19:19:57 +0100",
       "minecraft:grove": "2026-03-07 19:23:27 +0100",
       "minecraft:meadow": "2026-03-07 21:01:25 +0100",
@@ -25447,15 +25448,39 @@
     },
     "done": true
   },
+  "cobblemonraiddens:join_raid": {
+    "criteria": {
+      "joined_raid": "2026-03-08 19:18:24 +0100"
+    },
+    "done": true
+  },
   "cobblemonraiddens:tier_one": {
     "criteria": {
       "completed_tier_one": "2026-03-08 19:19:03 +0100"
     },
     "done": true
   },
-  "cobblemonraiddens:join_raid": {
+  "cobblemon:use_revive": {
     "criteria": {
-      "joined_raid": "2026-03-08 19:18:24 +0100"
+      "use_max_revive": "2026-03-08 20:49:16 +0100"
+    },
+    "done": true
+  },
+  "cobbleverse:trainer/kanto/defeat_brock": {
+    "criteria": {
+      "leader_defeated": "2026-03-08 20:50:15 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:first_shiny_catch": {
+    "criteria": {
+      "catch": "2026-03-08 20:43:19 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:healing_machine": {
+    "criteria": {
+      "use_healing_machine": "2026-03-08 20:51:33 +0100"
     },
     "done": true
   },

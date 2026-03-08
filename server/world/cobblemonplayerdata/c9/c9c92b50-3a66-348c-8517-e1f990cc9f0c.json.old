@@ -8,13 +8,13 @@
   "battleTheme": "cobblemon:battle.pvp.default",
   "extraData": {},
   "advancementData": {
-    "totalCaptureCount": 12,
+    "totalCaptureCount": 14,
     "totalEggsCollected": 0,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 3,
-    "totalBattleVictoryCount": 27,
+    "totalBattleVictoryCount": 30,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 27,
+    "totalPvWBattleVictoryCount": 30,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 0,
@@ -22,11 +22,11 @@
       "water": 2,
       "fairy": 3,
       "psychic": 1,
-      "flying": 4,
+      "flying": 5,
       "dark": 1,
       "rock": 1,
       "ground": 1,
-      "normal": 5,
+      "normal": 7,
       "steel": 1
     },
     "totalDefeatedCounts": {
@@ -48,7 +48,8 @@
       "cobblemon:pancham": 1,
       "cobblemon:ledian": 1,
       "cobblemon:spritzee": 1,
-      "cobblemon:ponyta": 1
+      "cobblemon:ponyta": 1,
+      "cobblemon:murkrow": 1
     },
     "aspectsCollected": {
       "cobblemon:marill": [
@@ -101,6 +102,12 @@
       ],
       "cobblemon:pidgeotto": [
         "male"
+      ],
+      "cobblemon:hoothoot": [
+        "female"
+      ],
+      "cobblemon:ditto": [
+        "genderless"
       ]
     }
   }

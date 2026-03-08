@@ -15,6 +15,8 @@
       "minecraft:taiga": "2026-02-27 20:50:39 +0100",
       "minecraft:deep_ocean": "2026-03-06 20:02:22 +0100",
       "minecraft:river": "2026-02-27 20:47:10 +0100",
+      "minecraft:lukewarm_ocean": "2026-03-08 20:28:35 +0100",
+      "minecraft:stony_shore": "2026-03-08 21:00:37 +0100",
       "minecraft:lush_caves": "2026-02-27 21:03:49 +0100",
       "minecraft:dripstone_caves": "2026-03-06 20:52:20 +0100",
       "minecraft:frozen_peaks": "2026-02-27 21:03:23 +0100",
@@ -25,6 +27,7 @@
       "minecraft:grove": "2026-02-27 21:14:43 +0100",
       "minecraft:birch_forest": "2026-03-07 20:28:58 +0100",
       "minecraft:old_growth_spruce_taiga": "2026-02-27 21:32:29 +0100",
+      "minecraft:savanna": "2026-03-08 20:52:17 +0100",
       "minecraft:plains": "2026-03-01 19:41:33 +0100",
       "minecraft:jagged_peaks": "2026-02-27 21:20:51 +0100"
     },
@@ -24568,6 +24571,7 @@
     "criteria": {
       "minecraft:skeleton": "2026-03-01 19:46:41 +0100",
       "minecraft:enderman": "2026-03-06 19:52:27 +0100",
+      "minecraft:witch": "2026-03-08 20:35:23 +0100",
       "minecraft:spider": "2026-03-01 19:47:21 +0100",
       "minecraft:zombie": "2026-02-27 20:49:12 +0100",
       "minecraft:creeper": "2026-03-06 19:50:11 +0100",
@@ -24951,15 +24955,118 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
+    "criteria": {
+      "has_gold_backpack": "2026-03-07 20:08:15 +0100"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
     "criteria": {
       "has_diamond_backpack": "2026-03-07 20:08:24 +0100"
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
+  "cobblemon:trade_pokemon": {
     "criteria": {
-      "has_gold_backpack": "2026-03-07 20:08:15 +0100"
+      "trade": "2026-03-08 20:45:33 +0100"
+    },
+    "done": true
+  },
+  "lockandblock:recipes/redstone/tesla_coil": {
+    "criteria": {
+      "has_copper_ingot": "2026-03-08 20:12:52 +0100"
+    },
+    "done": true
+  },
+  "moarconcrete:recipes/building_blocks/black_concrete_slab_from_black_concrete_stonecutting": {
+    "criteria": {
+      "has_black_concrete": "2026-03-08 21:02:33 +0100"
+    },
+    "done": true
+  },
+  "lockandblock:recipes/redstone/key": {
+    "criteria": {
+      "has_gold_ingot": "2026-03-08 20:20:36 +0100"
+    },
+    "done": true
+  },
+  "moarconcrete:recipes/building_blocks/black_concrete_stairs_from_black_concrete_stonecutting": {
+    "criteria": {
+      "has_black_concrete": "2026-03-08 21:02:33 +0100"
+    },
+    "done": true
+  },
+  "moarconcrete:recipes/building_blocks/black_concrete_bricks_from_black_concrete_stonecutting": {
+    "criteria": {
+      "has_black_concrete": "2026-03-08 21:02:33 +0100"
+    },
+    "done": true
+  },
+  "moarconcrete:recipes/building_blocks/black_concrete_brick_slab_from_black_concrete_stonecutting": {
+    "criteria": {
+      "has_black_concrete": "2026-03-08 21:02:33 +0100"
+    },
+    "done": true
+  },
+  "moarconcrete:recipes/building_blocks/black_concrete_wall_from_black_concrete_stonecutting": {
+    "criteria": {
+      "has_black_concrete": "2026-03-08 21:02:33 +0100"
+    },
+    "done": true
+  },
+  "lockandblock:recipes/redstone/redstone_laser": {
+    "criteria": {
+      "has_item": "2026-03-08 20:19:31 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:ride_pokemon": {
+    "criteria": {
+      "check_inv": "2026-03-08 20:45:43 +0100"
+    },
+    "done": true
+  },
+  "lockandblock:recipes/tools/keycard": {
+    "criteria": {
+      "has_item": "2026-03-08 20:13:27 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/salvage_sherd": {
+    "criteria": {
+      "has_sherd": "2026-03-08 20:58:35 +0100",
+      "trail_ruins_common": "2026-03-08 20:58:50 +0100"
+    },
+    "done": true
+  },
+  "moarconcrete:recipes/building_blocks/black_concrete_panel_from_black_concrete_stonecutting": {
+    "criteria": {
+      "has_black_concrete": "2026-03-08 21:02:33 +0100"
+    },
+    "done": true
+  },
+  "lockandblock:recipes/misc/carbon_powder": {
+    "criteria": {
+      "has_item": "2026-03-08 20:13:57 +0100"
+    },
+    "done": true
+  },
+  "lockandblock:recipes/misc/reinforced_iron_ingot_from_carbon": {
+    "criteria": {
+      "has_iron_ingot": "2026-03-08 20:20:35 +0100"
+    },
+    "done": true
+  },
+  "lockandblock:recipes/redstone/player_sensor": {
+    "criteria": {
+      "has_item": "2026-03-08 20:15:11 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:first_evolution": {
+    "criteria": {
+      "evolve": "2026-03-08 20:46:46 +0100"
     },
     "done": true
   },
