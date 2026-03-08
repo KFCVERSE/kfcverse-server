@@ -24815,5 +24815,11 @@
     },
     "done": true
   },
+  "lockandblock:recipes/misc/reinforced_iron_ingot_from_carbon": {
+    "criteria": {
+      "has_iron_ingot": "2026-03-08 18:23:25 +0100"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }

@@ -11,7 +11,7 @@
     "totalCaptureCount": 16,
     "totalEggsCollected": 0,
     "totalEggsHatched": 0,
-    "totalEvolvedCount": 7,
+    "totalEvolvedCount": 8,
     "totalBattleVictoryCount": 68,
     "totalPvPBattleVictoryCount": 1,
     "totalPvWBattleVictoryCount": 64,
@@ -141,6 +141,9 @@
       ],
       "cobblemon:honchkrow": [
         "male"
+      ],
+      "cobblemon:politoed": [
+        "female"
       ]
     }
   }
