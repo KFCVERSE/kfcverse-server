@@ -24652,7 +24652,8 @@
       "minecraft:spider": "2026-03-06 20:43:51 +0100",
       "minecraft:wither_skeleton": "2026-03-07 21:04:02 +0100",
       "minecraft:zombie": "2026-02-22 21:26:03 +0100",
-      "minecraft:creeper": "2026-03-07 20:07:18 +0100"
+      "minecraft:creeper": "2026-03-07 20:07:18 +0100",
+      "minecraft:drowned": "2026-03-08 19:19:00 +0100"
     },
     "done": false
   },

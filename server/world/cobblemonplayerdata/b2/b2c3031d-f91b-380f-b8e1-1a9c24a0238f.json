@@ -1,152 +1,28 @@
 {
   "uuid": "b2c3031d-f91b-380f-b8e1-1a9c24a0238f",
-  "starterPrompted": true,
+  "starterPrompted": false,
   "starterLocked": false,
-  "starterSelected": true,
-  "starterUUID": "e816dc06-642e-42a8-b250-d06f4c0cd546",
+  "starterSelected": false,
   "keyItems": [],
   "battleTheme": "cobblemon:battle.pvp.default",
   "extraData": {},
   "advancementData": {
-    "totalCaptureCount": 16,
+    "totalCaptureCount": 0,
     "totalEggsCollected": 0,
     "totalEggsHatched": 0,
-    "totalEvolvedCount": 8,
-    "totalBattleVictoryCount": 70,
-    "totalPvPBattleVictoryCount": 1,
-    "totalPvWBattleVictoryCount": 66,
-    "totalPvNBattleVictoryCount": 3,
-    "totalShinyCaptureCount": 1,
+    "totalEvolvedCount": 0,
+    "totalBattleVictoryCount": 3,
+    "totalPvPBattleVictoryCount": 0,
+    "totalPvWBattleVictoryCount": 3,
+    "totalPvNBattleVictoryCount": 0,
+    "totalShinyCaptureCount": 0,
     "totalTradedCount": 0,
-    "totalTypeCaptureCounts": {
-      "dark": 1,
-      "flying": 4,
-      "water": 3,
-      "normal": 6,
-      "fire": 2,
-      "steel": 1,
-      "fairy": 2,
-      "ground": 1,
-      "psychic": 2,
-      "fighting": 1,
-      "ice": 1
-    },
+    "totalTypeCaptureCounts": {},
     "totalDefeatedCounts": {
-      "cobblemon:duskull": 1,
-      "cobblemon:pineco": 7,
-      "cobblemon:koffing": 1,
-      "cobblemon:gimmighoul": 11,
-      "cobblemon:rookidee": 1,
-      "cobblemon:lechonk": 1,
-      "cobblemon:sentret": 1,
-      "cobblemon:bunnelby": 2,
-      "cobblemon:voltorb": 3,
-      "cobblemon:lillipup": 2,
-      "cobblemon:wurmple": 1,
-      "cobblemon:timburr": 3,
-      "cobblemon:mankey": 1,
-      "cobblemon:eevee": 1,
-      "cobblemon:geodude": 1,
-      "cobblemon:golduck": 1,
-      "cobblemon:woobat": 1,
-      "cobblemon:patrat": 1,
-      "cobblemon:fidough": 1,
-      "cobblemon:hoppip": 1,
-      "cobblemon:taillow": 1,
-      "cobblemon:dachsbun": 1,
-      "cobblemon:cutiefly": 1,
-      "cobblemon:drowzee": 1,
-      "cobblemon:makuhita": 1,
-      "cobblemon:sinistea": 1,
-      "cobblemon:oddish": 1,
-      "cobblemon:torkoal": 2,
-      "cobblemon:grumpig": 1,
-      "cobblemon:bidoof": 1,
-      "cobblemon:magikarp": 1
+      "cobblemon:poliwhirl": 1,
+      "cobblemon:magikarp": 1,
+      "cobblemon:araquanid": 1
     },
-    "aspectsCollected": {
-      "cobblemon:murkrow": [
-        "male"
-      ],
-      "cobblemon:poliwag": [
-        "female"
-      ],
-      "cobblemon:fletchling": [
-        "male"
-      ],
-      "cobblemon:cyndaquil": [
-        "male",
-        "region-bias-hisui"
-      ],
-      "cobblemon:quilava": [
-        "male",
-        "region-bias-hisui"
-      ],
-      "cobblemon:brionne": [
-        "male"
-      ],
-      "cobblemon:doduo": [
-        "female"
-      ],
-      "cobblemon:goldeen": [
-        "female"
-      ],
-      "cobblemon:rattata": [
-        "female"
-      ],
-      "cobblemon:fletchinder": [
-        "male"
-      ],
-      "cobblemon:skwovet": [
-        "shiny",
-        "female"
-      ],
-      "cobblemon:tauros": [
-        "male",
-        "combat-breed"
-      ],
-      "cobblemon:mawile": [
-        "male"
-      ],
-      "cobblemon:magikarp": [
-        "male",
-        "magikarp-jump-standard",
-        "gyarados-eye-color-red"
-      ],
-      "cobblemon:gyarados": [
-        "male",
-        "magikarp-jump-standard",
-        "gyarados-eye-color-red"
-      ],
-      "cobblemon:claydol": [
-        "genderless"
-      ],
-      "cobblemon:pidove": [
-        "female"
-      ],
-      "cobblemon:poliwhirl": [
-        "female"
-      ],
-      "cobblemon:darumaka": [
-        "female"
-      ],
-      "cobblemon:greedent": [
-        "shiny",
-        "female"
-      ],
-      "cobblemon:rapidash": [
-        "female",
-        "galarian"
-      ],
-      "cobblemon:crabominable": [
-        "female"
-      ],
-      "cobblemon:honchkrow": [
-        "male"
-      ],
-      "cobblemon:politoed": [
-        "female"
-      ]
-    }
+    "aspectsCollected": {}
   }
 }
