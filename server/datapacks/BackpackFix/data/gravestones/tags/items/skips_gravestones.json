@@ -1,6 +1,11 @@
 {
   "replace": false,
   "values": [
-    "cobblemon:starter_backpack"
+    "cobblemon:starter_backpack",
+    "cobblemon:backpack",
+    "cobblemon:medical_backpack",
+    "cobblemon:berry_backpack",
+    "cobblemon:apricorn_backpack",
+    "cobblemon:large_backpack"
   ]
 }
