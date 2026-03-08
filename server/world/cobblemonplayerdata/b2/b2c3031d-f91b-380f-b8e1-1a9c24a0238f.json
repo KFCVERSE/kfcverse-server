@@ -12,9 +12,9 @@
     "totalEggsCollected": 0,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 8,
-    "totalBattleVictoryCount": 68,
+    "totalBattleVictoryCount": 70,
     "totalPvPBattleVictoryCount": 1,
-    "totalPvWBattleVictoryCount": 64,
+    "totalPvWBattleVictoryCount": 66,
     "totalPvNBattleVictoryCount": 3,
     "totalShinyCaptureCount": 1,
     "totalTradedCount": 0,
@@ -60,7 +60,9 @@
       "cobblemon:sinistea": 1,
       "cobblemon:oddish": 1,
       "cobblemon:torkoal": 2,
-      "cobblemon:grumpig": 1
+      "cobblemon:grumpig": 1,
+      "cobblemon:bidoof": 1,
+      "cobblemon:magikarp": 1
     },
     "aspectsCollected": {
       "cobblemon:murkrow": [
