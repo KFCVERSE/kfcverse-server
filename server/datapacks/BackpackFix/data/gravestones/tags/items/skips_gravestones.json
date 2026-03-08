@@ -1,11 +1,11 @@
 {
-  "replace": false,
   "values": [
+    "sophisticatedbackpacks:backpack",
+    "sophisticatedbackpacks:iron_backpack",
+    "sophisticatedbackpacks:gold_backpack",
+    "sophisticatedbackpacks:diamond_backpack",
+    "sophisticatedbackpacks:netherite_backpack",
     "cobblemon:starter_backpack",
-    "cobblemon:backpack",
-    "cobblemon:medical_backpack",
-    "cobblemon:berry_backpack",
-    "cobblemon:apricorn_backpack",
-    "cobblemon:large_backpack"
+    "cobblemon:backpack"
   ]
 }
