@@ -1,16 +1,16 @@
-[18:13:49] [main/INFO]: Loading Minecraft 1.21.1 with Fabric Loader 0.18.4
-[18:13:49] [ForkJoinPool-1-worker-4/WARN]: The mod "accessories_compat_layer" contains invalid entries in its mod json:
+[18:14:14] [main/INFO]: Loading Minecraft 1.21.1 with Fabric Loader 0.18.4
+[18:14:14] [ForkJoinPool-1-worker-5/WARN]: The mod "accessories_compat_layer" contains invalid entries in its mod json:
 - Unsupported root entry "#COMMENT_breaks" at line 53 column 20
-[18:13:49] [ForkJoinPool-1-worker-5/WARN]: The mod "accessories_compat_layer" contains invalid entries in its mod json:
+[18:14:14] [ForkJoinPool-1-worker-4/WARN]: The mod "accessories_compat_layer" contains invalid entries in its mod json:
 - Unsupported root entry "#COMMENT_breaks" at line 53 column 20
-[18:13:49] [ForkJoinPool-1-worker-11/WARN]: Mod com_github_rtyley_animated-gif-lib-for-java uses the version animated-gif-lib-1.7 which isn't compatible with Loader's extended semantic version format (Could not parse version number component 'animated'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
-[18:13:49] [ForkJoinPool-1-worker-4/WARN]: Mod legendarymonuments uses the version Cobbleverse which isn't compatible with Loader's extended semantic version format (Could not parse version number component 'Cobbleverse'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
-[18:13:49] [main/WARN]: Mod resolution failed
-[18:13:49] [main/INFO]: Immediate reason: [HARD_DEP_NO_CANDIDATE lockandblock 0.10.1+1.21.1 {depends lavender @ [0.1.15+1.21]}, ROOT_FORCELOAD_SINGLE lockandblock 0.10.1+1.21.1]
-[18:13:49] [main/INFO]: Reason: [HARD_DEP lockandblock 0.10.1+1.21.1 {depends lavender @ [0.1.15+1.21]}]
-[18:13:49] [main/INFO]: SERVER environment disabled: [fabric-renderer-api-v1, entity_model_features, fabric-keybindings-v0, lumyrei, entity_texture_features, modmenu, betterbeds, mousetweaks, sodium-extra, customsplashscreen, fabric-screen-api-v1, fabric-renderer-indigo, reeses-sodium-options, particlerain, brb, tooltipfix, fabric-sound-api-v1, fabric-rendering-v0, fabric-key-binding-api-v1, fabric-rendering-v1, controlling, searchables, paginatedadvancements, fabric-model-loading-api-v1, betterthirdperson, iris, smart_particles, resourcepackoverrides, moreculling, immediatelyfast, continuity, fabric-client-tags-api-v1, particular, fabric-blockrenderlayer-v1, sodium, betterf3, fabric-renderer-registries-v1, sodiumoptionsapi, infinite-music, catchindicator, catchrate-display, betterf1, zoomify, libjf-config-ui-tiny, euphoria_patcher, musicnotification, advancementplaques]
-[18:13:49] [main/INFO]: Fix: add [add:lavender 0.1.15+1.21 ([[0.1.15+1.21,0.1.15+1.21]])], remove [], replace []
-[18:13:49] [main/ERROR]: Incompatible mods found!
+[18:14:14] [ForkJoinPool-1-worker-11/WARN]: Mod com_github_rtyley_animated-gif-lib-for-java uses the version animated-gif-lib-1.7 which isn't compatible with Loader's extended semantic version format (Could not parse version number component 'animated'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[18:14:14] [ForkJoinPool-1-worker-6/WARN]: Mod legendarymonuments uses the version Cobbleverse which isn't compatible with Loader's extended semantic version format (Could not parse version number component 'Cobbleverse'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[18:14:14] [main/WARN]: Mod resolution failed
+[18:14:14] [main/INFO]: Immediate reason: [HARD_DEP_NO_CANDIDATE lockandblock 0.10.1+1.21.1 {depends lavender @ [0.1.15+1.21]}, ROOT_FORCELOAD_SINGLE lockandblock 0.10.1+1.21.1]
+[18:14:14] [main/INFO]: Reason: [HARD_DEP lockandblock 0.10.1+1.21.1 {depends lavender @ [0.1.15+1.21]}]
+[18:14:14] [main/INFO]: SERVER environment disabled: [fabric-renderer-api-v1, entity_model_features, fabric-keybindings-v0, lumyrei, entity_texture_features, modmenu, betterbeds, mousetweaks, sodium-extra, customsplashscreen, fabric-screen-api-v1, fabric-renderer-indigo, reeses-sodium-options, particlerain, brb, tooltipfix, fabric-sound-api-v1, fabric-rendering-v0, fabric-key-binding-api-v1, fabric-rendering-v1, controlling, searchables, paginatedadvancements, fabric-model-loading-api-v1, betterthirdperson, iris, smart_particles, resourcepackoverrides, moreculling, immediatelyfast, continuity, fabric-client-tags-api-v1, particular, fabric-blockrenderlayer-v1, sodium, betterf3, fabric-renderer-registries-v1, sodiumoptionsapi, infinite-music, catchindicator, catchrate-display, betterf1, zoomify, libjf-config-ui-tiny, euphoria_patcher, musicnotification, advancementplaques]
+[18:14:14] [main/INFO]: Fix: add [add:lavender 0.1.15+1.21 ([[0.1.15+1.21,0.1.15+1.21]])], remove [], replace []
+[18:14:14] [main/ERROR]: Incompatible mods found!
 net.fabricmc.loader.impl.FormattedException: Some of your mods are incompatible with the game or each other!
 A potential solution has been determined, this may resolve your problem:
 	 - Install lavender, version 0.1.15+1.21.
