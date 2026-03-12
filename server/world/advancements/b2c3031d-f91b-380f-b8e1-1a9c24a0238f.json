@@ -20,6 +20,7 @@
       "minecraft:birch_forest": "2026-03-07 20:01:25 +0100",
       "minecraft:old_growth_spruce_taiga": "2026-02-22 21:13:14 +0100",
       "minecraft:bamboo_jungle": "2026-03-07 22:30:41 +0100",
+      "minecraft:deep_lukewarm_ocean": "2026-03-11 18:15:02 +0100",
       "minecraft:flower_forest": "2026-03-07 20:45:54 +0100",
       "minecraft:savanna_plateau": "2026-02-27 21:53:14 +0100",
       "minecraft:beach": "2026-03-08 20:40:15 +0100",
@@ -10062,6 +10063,7 @@
       "dream_ball": "2026-03-07 18:40:05 +0100",
       "verdant_ball": "2026-03-07 17:43:40 +0100",
       "fast_ball": "2026-03-07 19:52:16 +0100",
+      "ultra_ball": "2026-03-11 17:51:49 +0100",
       "heal_ball": "2026-03-06 22:15:27 +0100",
       "ancient_wing_ball": "2026-03-07 23:51:04 +0100",
       "slate_ball": "2026-02-27 21:57:19 +0100",
@@ -24656,7 +24658,8 @@
       "minecraft:wither_skeleton": "2026-03-07 21:04:02 +0100",
       "minecraft:zombie": "2026-02-22 21:26:03 +0100",
       "minecraft:creeper": "2026-03-07 20:07:18 +0100",
-      "minecraft:drowned": "2026-03-08 19:19:00 +0100"
+      "minecraft:drowned": "2026-03-08 19:19:00 +0100",
+      "minecraft:ghast": "2026-03-11 18:09:36 +0100"
     },
     "done": false
   },
@@ -24700,10 +24703,12 @@
     "criteria": {
       "obtain_full_heal": "2026-02-22 21:36:49 +0100",
       "obtain_max_elixir": "2026-03-06 22:47:59 +0100",
+      "obtain_ice_heal": "2026-03-11 18:42:46 +0100",
       "obtain_burn_heal": "2026-03-07 15:15:06 +0100",
       "obtain_potion": "2026-02-27 21:57:17 +0100",
       "obtain_max_ether": "2026-03-07 15:15:48 +0100",
       "obtain_awakening": "2026-02-27 22:07:56 +0100",
+      "obtain_paralyze_heal": "2026-03-11 18:42:45 +0100",
       "obtain_super_potion": "2026-03-06 22:13:06 +0100"
     },
     "done": false
@@ -25153,6 +25158,60 @@
   "minecraft:nether/obtain_crying_obsidian": {
     "criteria": {
       "crying_obsidian": "2026-03-08 21:14:46 +0100"
+    },
+    "done": true
+  },
+  "moarconcrete:recipes/building_blocks/white_concrete_stairs_from_white_concrete_stonecutting": {
+    "criteria": {
+      "has_white_concrete": "2026-03-11 18:14:29 +0100"
+    },
+    "done": true
+  },
+  "lockandblock:recipes/redstone/key": {
+    "criteria": {
+      "has_gold_ingot": "2026-03-11 18:48:08 +0100"
+    },
+    "done": true
+  },
+  "moarconcrete:recipes/building_blocks/white_concrete_panel_from_white_concrete_stonecutting": {
+    "criteria": {
+      "has_white_concrete": "2026-03-11 18:14:29 +0100"
+    },
+    "done": true
+  },
+  "moarconcrete:recipes/building_blocks/white_concrete_slab_from_white_concrete_stonecutting": {
+    "criteria": {
+      "has_white_concrete": "2026-03-11 18:14:29 +0100"
+    },
+    "done": true
+  },
+  "moarconcrete:recipes/building_blocks/white_concrete_bricks_from_white_concrete_stonecutting": {
+    "criteria": {
+      "has_white_concrete": "2026-03-11 18:14:29 +0100"
+    },
+    "done": true
+  },
+  "moarconcrete:recipes/building_blocks/white_concrete_wall_from_white_concrete_stonecutting": {
+    "criteria": {
+      "has_white_concrete": "2026-03-11 18:14:29 +0100"
+    },
+    "done": true
+  },
+  "lockandblock:recipes/misc/carbon_powder": {
+    "criteria": {
+      "has_item": "2026-03-11 18:47:32 +0100"
+    },
+    "done": true
+  },
+  "minecraft:nether/return_to_sender": {
+    "criteria": {
+      "killed_ghast": "2026-03-11 18:09:36 +0100"
+    },
+    "done": true
+  },
+  "moarconcrete:recipes/building_blocks/white_concrete_brick_slab_from_white_concrete_stonecutting": {
+    "criteria": {
+      "has_white_concrete": "2026-03-11 18:14:29 +0100"
     },
     "done": true
   },

@@ -7,18 +7,18 @@
   "battleTheme": "cobblemon:battle.pvp.default",
   "extraData": {},
   "advancementData": {
-    "totalCaptureCount": 2,
+    "totalCaptureCount": 3,
     "totalEggsCollected": 0,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 1,
-    "totalBattleVictoryCount": 11,
+    "totalBattleVictoryCount": 18,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 11,
+    "totalPvWBattleVictoryCount": 18,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 3,
     "totalTypeCaptureCounts": {
-      "normal": 1,
+      "normal": 2,
       "bug": 1,
       "poison": 1
     },
@@ -31,7 +31,13 @@
       "cobblemon:grimer": 1,
       "cobblemon:swellow": 1,
       "cobblemon:voltorb": 1,
-      "cobblemon:magmar": 1
+      "cobblemon:magmar": 1,
+      "cobblemon:butterfree": 1,
+      "cobblemon:wooloo": 1,
+      "cobblemon:mareep": 2,
+      "cobblemon:medicham": 1,
+      "cobblemon:maractus": 1,
+      "cobblemon:cacnea": 1
     },
     "aspectsCollected": {
       "cobblemon:ditto": [
@@ -50,6 +56,10 @@
       ],
       "cobblemon:talonflame": [
         "male"
+      ],
+      "cobblemon:wooloo": [
+        "female",
+        "color-none"
       ]
     }
   }
