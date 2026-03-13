@@ -24821,5 +24821,17 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
+    "criteria": {
+      "has_gold_backpack": "2026-03-13 20:17:14 +0100"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
+    "criteria": {
+      "has_diamond_backpack": "2026-03-13 20:17:25 +0100"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }

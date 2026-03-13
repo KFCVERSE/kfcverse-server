@@ -7,20 +7,22 @@
   "battleTheme": "cobblemon:battle.pvp.default",
   "extraData": {},
   "advancementData": {
-    "totalCaptureCount": 3,
+    "totalCaptureCount": 4,
     "totalEggsCollected": 0,
     "totalEggsHatched": 0,
-    "totalEvolvedCount": 1,
-    "totalBattleVictoryCount": 18,
+    "totalEvolvedCount": 2,
+    "totalBattleVictoryCount": 27,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 18,
+    "totalPvWBattleVictoryCount": 27,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 3,
     "totalTypeCaptureCounts": {
       "normal": 2,
       "bug": 1,
-      "poison": 1
+      "poison": 1,
+      "fairy": 1,
+      "steel": 1
     },
     "totalDefeatedCounts": {
       "cobblemon:poliwhirl": 1,
@@ -30,14 +32,18 @@
       "cobblemon:pyukumuku": 1,
       "cobblemon:grimer": 1,
       "cobblemon:swellow": 1,
-      "cobblemon:voltorb": 1,
+      "cobblemon:voltorb": 2,
       "cobblemon:magmar": 1,
       "cobblemon:butterfree": 1,
       "cobblemon:wooloo": 1,
       "cobblemon:mareep": 2,
       "cobblemon:medicham": 1,
       "cobblemon:maractus": 1,
-      "cobblemon:cacnea": 1
+      "cobblemon:cacnea": 1,
+      "cobblemon:skitty": 1,
+      "cobblemon:gimmighoul": 4,
+      "cobblemon:minior": 1,
+      "cobblemon:ninetales": 1
     },
     "aspectsCollected": {
       "cobblemon:ditto": [
@@ -60,6 +66,13 @@
       "cobblemon:wooloo": [
         "female",
         "color-none"
+      ],
+      "cobblemon:tinkatink": [
+        "female"
+      ],
+      "cobblemon:typhlosion": [
+        "male",
+        "hisuian"
       ]
     }
   }

@@ -10546,6 +10546,7 @@
       "roseate_ball": "2026-03-07 19:42:26 +0100",
       "level_ball": "2026-03-07 22:52:04 +0100",
       "sport_ball": "2026-03-07 22:43:01 +0100",
+      "ancient_ultra_ball": "2026-03-13 19:23:25 +0100",
       "premier_ball": "2026-03-06 20:04:49 +0100",
       "heavy_ball": "2026-03-07 22:43:49 +0100",
       "verdant_ball": "2026-03-07 18:22:51 +0100"
@@ -25225,7 +25226,8 @@
       "minecraft:spider": "2026-03-06 18:37:04 +0100",
       "minecraft:zombie": "2026-03-06 18:19:03 +0100",
       "minecraft:drowned": "2026-03-07 16:45:46 +0100",
-      "minecraft:zombie_villager": "2026-03-07 21:10:00 +0100"
+      "minecraft:zombie_villager": "2026-03-07 21:10:00 +0100",
+      "minecraft:bogged": "2026-03-13 19:38:05 +0100"
     },
     "done": false
   },
@@ -25566,12 +25568,6 @@
     },
     "done": true
   },
-  "lockandblock:recipes/redstone/tesla_coil": {
-    "criteria": {
-      "has_copper_ingot": "2026-03-08 20:56:45 +0100"
-    },
-    "done": true
-  },
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2026-03-08 20:28:31 +0100"
@@ -25581,6 +25577,90 @@
   "lockandblock:recipes/misc/carbon_powder": {
     "criteria": {
       "has_item": "2026-03-08 20:31:29 +0100"
+    },
+    "done": true
+  },
+  "lockandblock:recipes/redstone/tesla_coil": {
+    "criteria": {
+      "has_copper_ingot": "2026-03-08 20:56:45 +0100"
+    },
+    "done": true
+  },
+  "vanillabackport:recipes/misc/leaf_litter": {
+    "criteria": {
+      "has_leaves": "2026-03-13 18:32:18 +0100"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2026-03-13 18:48:02 +0100"
+    },
+    "done": true
+  },
+  "lockandblock:recipes/tools/keycard": {
+    "criteria": {
+      "has_item": "2026-03-13 18:57:49 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/minecraft_trials_edition": {
+    "criteria": {
+      "minecraft_trials_edition": "2026-03-13 19:16:03 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/salvage_sherd": {
+    "criteria": {
+      "has_sherd": "2026-03-13 19:22:24 +0100"
+    },
+    "done": false
+  },
+  "lockandblock:recipes/redstone/player_sensor": {
+    "criteria": {
+      "has_item": "2026-03-13 19:23:23 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:craft_ancient_balls": {
+    "criteria": {
+      "ancient_ultra_ball": "2026-03-13 19:23:25 +0100"
+    },
+    "done": false
+  },
+  "moarconcrete:recipes/building_blocks/red_concrete_slab_from_red_concrete_stonecutting": {
+    "criteria": {
+      "has_red_concrete": "2026-03-13 19:34:21 +0100"
+    },
+    "done": true
+  },
+  "moarconcrete:recipes/building_blocks/red_concrete_brick_slab_from_red_concrete_stonecutting": {
+    "criteria": {
+      "has_red_concrete": "2026-03-13 19:34:21 +0100"
+    },
+    "done": true
+  },
+  "moarconcrete:recipes/building_blocks/red_concrete_bricks_from_red_concrete_stonecutting": {
+    "criteria": {
+      "has_red_concrete": "2026-03-13 19:34:21 +0100"
+    },
+    "done": true
+  },
+  "moarconcrete:recipes/building_blocks/red_concrete_stairs_from_red_concrete_stonecutting": {
+    "criteria": {
+      "has_red_concrete": "2026-03-13 19:34:21 +0100"
+    },
+    "done": true
+  },
+  "moarconcrete:recipes/building_blocks/red_concrete_wall_from_red_concrete_stonecutting": {
+    "criteria": {
+      "has_red_concrete": "2026-03-13 19:34:21 +0100"
+    },
+    "done": true
+  },
+  "moarconcrete:recipes/building_blocks/red_concrete_panel_from_red_concrete_stonecutting": {
+    "criteria": {
+      "has_red_concrete": "2026-03-13 19:34:21 +0100"
     },
     "done": true
   },

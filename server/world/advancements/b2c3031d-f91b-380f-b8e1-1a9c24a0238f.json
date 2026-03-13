@@ -25161,15 +25161,15 @@
     },
     "done": true
   },
-  "moarconcrete:recipes/building_blocks/white_concrete_stairs_from_white_concrete_stonecutting": {
+  "minecraft:nether/return_to_sender": {
     "criteria": {
-      "has_white_concrete": "2026-03-11 18:14:29 +0100"
+      "killed_ghast": "2026-03-11 18:09:36 +0100"
     },
     "done": true
   },
-  "lockandblock:recipes/redstone/key": {
+  "moarconcrete:recipes/building_blocks/white_concrete_stairs_from_white_concrete_stonecutting": {
     "criteria": {
-      "has_gold_ingot": "2026-03-11 18:48:08 +0100"
+      "has_white_concrete": "2026-03-11 18:14:29 +0100"
     },
     "done": true
   },
@@ -25197,21 +25197,39 @@
     },
     "done": true
   },
+  "moarconcrete:recipes/building_blocks/white_concrete_brick_slab_from_white_concrete_stonecutting": {
+    "criteria": {
+      "has_white_concrete": "2026-03-11 18:14:29 +0100"
+    },
+    "done": true
+  },
   "lockandblock:recipes/misc/carbon_powder": {
     "criteria": {
       "has_item": "2026-03-11 18:47:32 +0100"
     },
     "done": true
   },
-  "minecraft:nether/return_to_sender": {
+  "lockandblock:recipes/redstone/key": {
     "criteria": {
-      "killed_ghast": "2026-03-11 18:09:36 +0100"
+      "has_gold_ingot": "2026-03-11 18:48:08 +0100"
     },
     "done": true
   },
-  "moarconcrete:recipes/building_blocks/white_concrete_brick_slab_from_white_concrete_stonecutting": {
+  "sophisticatedbackpacks:recipes/misc/battery_upgrade": {
     "criteria": {
-      "has_white_concrete": "2026-03-11 18:14:29 +0100"
+      "has_upgrade_base": "2026-03-13 20:17:39 +0100"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/pump_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2026-03-13 20:17:39 +0100"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/tank_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2026-03-13 20:17:39 +0100"
     },
     "done": true
   },

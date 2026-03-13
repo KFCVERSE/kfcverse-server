@@ -25460,6 +25460,12 @@
     },
     "done": true
   },
+  "cobblemon:first_shiny_catch": {
+    "criteria": {
+      "catch": "2026-03-08 20:43:19 +0100"
+    },
+    "done": true
+  },
   "cobblemon:use_revive": {
     "criteria": {
       "use_max_revive": "2026-03-08 20:49:16 +0100"
@@ -25472,15 +25478,21 @@
     },
     "done": true
   },
-  "cobblemon:first_shiny_catch": {
-    "criteria": {
-      "catch": "2026-03-08 20:43:19 +0100"
-    },
-    "done": true
-  },
   "cobblemon:healing_machine": {
     "criteria": {
       "use_healing_machine": "2026-03-08 20:51:33 +0100"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
+    "criteria": {
+      "has_gold_backpack": "2026-03-13 20:17:02 +0100"
+    },
+    "done": true
+  },
+  "lockandblock:recipes/misc/carbon_powder": {
+    "criteria": {
+      "has_item": "2026-03-13 20:30:41 +0100"
     },
     "done": true
   },
