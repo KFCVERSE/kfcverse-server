@@ -8,32 +8,33 @@
   "battleTheme": "cobblemon:battle.pvp.default",
   "extraData": {},
   "advancementData": {
-    "totalCaptureCount": 13,
+    "totalCaptureCount": 18,
     "totalEggsCollected": 0,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 4,
-    "totalBattleVictoryCount": 17,
+    "totalBattleVictoryCount": 25,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 16,
-    "totalPvNBattleVictoryCount": 1,
-    "totalShinyCaptureCount": 1,
+    "totalPvWBattleVictoryCount": 23,
+    "totalPvNBattleVictoryCount": 2,
+    "totalShinyCaptureCount": 3,
     "totalTradedCount": 0,
     "totalTypeCaptureCounts": {
       "psychic": 1,
       "ground": 3,
       "steel": 3,
       "poison": 1,
-      "flying": 5,
-      "rock": 1,
+      "flying": 6,
+      "rock": 2,
       "dragon": 2,
       "ghost": 1,
-      "fairy": 1,
-      "normal": 1,
+      "fairy": 2,
+      "normal": 3,
       "dark": 1,
-      "bug": 1
+      "bug": 1,
+      "water": 2
     },
     "totalDefeatedCounts": {
-      "cobblemon:gimmighoul": 4
+      "cobblemon:gimmighoul": 6
     },
     "aspectsCollected": {
       "cobblemon:hatenna": [
@@ -89,6 +90,24 @@
       ],
       "cobblemon:corvisquire": [
         "male"
+      ],
+      "cobblemon:carbink": [
+        "genderless"
+      ],
+      "cobblemon:eevee": [
+        "shiny",
+        "female"
+      ],
+      "cobblemon:popplio": [
+        "male"
+      ],
+      "cobblemon:krabby": [
+        "shiny",
+        "male"
+      ],
+      "cobblemon:rufflet": [
+        "male",
+        "region-bias-hisui"
       ]
     }
   }

@@ -23,6 +23,7 @@
       "minecraft:old_growth_spruce_taiga": "2026-03-06 20:57:42 +0100",
       "minecraft:bamboo_jungle": "2026-03-07 19:24:58 +0100",
       "minecraft:deep_lukewarm_ocean": "2026-03-07 20:35:25 +0100",
+      "minecraft:flower_forest": "2026-03-13 23:19:29 +0100",
       "minecraft:savanna_plateau": "2026-03-07 19:15:28 +0100",
       "minecraft:beach": "2026-03-06 20:01:20 +0100",
       "minecraft:dark_forest": "2026-03-06 19:15:13 +0100",
@@ -558,6 +559,7 @@
       "obtain_oran_berry": "2026-03-06 19:18:18 +0100",
       "obtain_touga_berry": "2026-03-07 21:07:41 +0100",
       "obtain_colbur_berry": "2026-03-06 20:28:55 +0100",
+      "obtain_enigma_berry": "2026-03-13 23:15:45 +0100",
       "obtain_chesto_berry": "2026-03-07 21:07:31 +0100"
     },
     "done": false
@@ -5404,6 +5406,7 @@
       "nest_ball": "2026-03-07 18:58:31 +0100",
       "quick_ball": "2026-03-06 20:13:17 +0100",
       "great_ball": "2026-03-06 20:13:07 +0100",
+      "dusk_ball": "2026-03-13 23:28:19 +0100",
       "timer_ball": "2026-03-06 20:12:12 +0100",
       "ancient_poke_ball": "2026-03-06 20:14:54 +0100",
       "moon_ball": "2026-03-06 20:09:16 +0100",
@@ -25203,7 +25206,8 @@
       "minecraft:phantom": "2026-03-07 21:34:23 +0100",
       "minecraft:spider": "2026-03-06 20:47:04 +0100",
       "minecraft:zombie": "2026-03-06 19:22:35 +0100",
-      "minecraft:drowned": "2026-03-07 21:33:27 +0100"
+      "minecraft:drowned": "2026-03-07 21:33:27 +0100",
+      "minecraft:zombie_villager": "2026-03-13 21:22:00 +0100"
     },
     "done": false
   },
@@ -25390,7 +25394,9 @@
   },
   "cobblemon:brew_all": {
     "criteria": {
-      "obtain_potion": "2026-03-07 19:19:52 +0100"
+      "obtain_burn_heal": "2026-03-13 23:30:12 +0100",
+      "obtain_potion": "2026-03-07 19:19:52 +0100",
+      "obtain_full_restore": "2026-03-13 23:27:46 +0100"
     },
     "done": false
   },
@@ -25493,6 +25499,96 @@
   "lockandblock:recipes/misc/carbon_powder": {
     "criteria": {
       "has_item": "2026-03-13 20:30:41 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2026-03-13 23:15:55 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/campfire_pot/sickly_candy": {
+    "criteria": {
+      "has_other_berry": "2026-03-13 23:15:45 +0100"
+    },
+    "done": false
+  },
+  "cobblemon:brew_full_restore": {
+    "criteria": {
+      "check_inv": "2026-03-13 23:27:46 +0100"
+    },
+    "done": true
+  },
+  "vanillabackport:recipes/combat/saddle": {
+    "criteria": {
+      "has_leather": "2026-03-13 22:46:56 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/campfire_pot/numb_candy": {
+    "criteria": {
+      "has_other_berry": "2026-03-13 23:15:45 +0100"
+    },
+    "done": false
+  },
+  "lockandblock:recipes/redstone/key": {
+    "criteria": {
+      "has_gold_ingot": "2026-03-13 23:02:14 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/campfire_pot/weak_candy": {
+    "criteria": {
+      "has_other_berry": "2026-03-13 23:15:45 +0100"
+    },
+    "done": false
+  },
+  "cobblemon:recipes/campfire_pot/slow_candy": {
+    "criteria": {
+      "has_other_berry": "2026-03-13 23:15:45 +0100"
+    },
+    "done": false
+  },
+  "cobblemonraiddens:raid_tera": {
+    "criteria": {
+      "completed_tera": "2026-03-13 23:14:06 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/campfire_pot/coward_candy": {
+    "criteria": {
+      "has_other_berry": "2026-03-13 23:15:45 +0100"
+    },
+    "done": false
+  },
+  "cobblemon:recipes/campfire_pot/brittle_candy": {
+    "criteria": {
+      "has_other_berry": "2026-03-13 23:15:45 +0100"
+    },
+    "done": false
+  },
+  "sophisticatedbackpacks:recipes/misc/copper_backpack": {
+    "criteria": {
+      "has_backpack": "2026-03-13 23:01:53 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest_from_wooden_chest": {
+    "criteria": {
+      "has_chest": "2026-03-13 22:55:48 +0100"
+    },
+    "done": true
+  },
+  "cobblemonraiddens:tier_two": {
+    "criteria": {
+      "completed_tier_two": "2026-03-13 22:50:27 +0100"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack": {
+    "criteria": {
+      "has_backpack": "2026-03-13 23:01:53 +0100"
     },
     "done": true
   },

@@ -19,7 +19,10 @@
       "minecraft:jungle": "2026-03-07 20:13:16 +0100",
       "minecraft:cherry_grove": "2026-03-06 18:12:45 +0100",
       "minecraft:sunflower_plains": "2026-03-06 18:17:08 +0100",
+      "minecraft:birch_forest": "2026-03-14 09:54:54 +0100",
       "minecraft:old_growth_spruce_taiga": "2026-03-06 18:00:11 +0100",
+      "minecraft:bamboo_jungle": "2026-03-13 22:59:52 +0100",
+      "minecraft:flower_forest": "2026-03-13 21:18:24 +0100",
       "minecraft:savanna_plateau": "2026-03-06 18:13:51 +0100",
       "minecraft:beach": "2026-03-06 18:10:30 +0100",
       "minecraft:dark_forest": "2026-03-06 17:25:33 +0100",
@@ -1367,10 +1370,13 @@
   "cobblemon:obtain_all_berries": {
     "criteria": {
       "obtain_persim_berry": "2026-03-06 18:55:00 +0100",
+      "obtain_spelon_berry": "2026-03-13 23:03:17 +0100",
       "obtain_shuca_berry": "2026-03-07 19:05:59 +0100",
       "obtain_cheri_berry": "2026-03-07 16:58:16 +0100",
       "obtain_oran_berry": "2026-03-06 17:28:16 +0100",
-      "obtain_aspear_berry": "2026-03-07 22:54:41 +0100"
+      "obtain_ganlon_berry": "2026-03-13 23:03:26 +0100",
+      "obtain_aspear_berry": "2026-03-07 22:54:41 +0100",
+      "obtain_chesto_berry": "2026-03-13 23:45:32 +0100"
     },
     "done": false
   },
@@ -25222,9 +25228,11 @@
     "criteria": {
       "minecraft:pillager": "2026-03-07 18:32:13 +0100",
       "minecraft:skeleton": "2026-03-06 18:33:14 +0100",
+      "minecraft:phantom": "2026-03-13 21:05:14 +0100",
       "minecraft:witch": "2026-03-07 17:33:32 +0100",
       "minecraft:spider": "2026-03-06 18:37:04 +0100",
       "minecraft:zombie": "2026-03-06 18:19:03 +0100",
+      "minecraft:creeper": "2026-03-13 20:52:08 +0100",
       "minecraft:drowned": "2026-03-07 16:45:46 +0100",
       "minecraft:zombie_villager": "2026-03-07 21:10:00 +0100",
       "minecraft:bogged": "2026-03-13 19:38:05 +0100"
@@ -25372,8 +25380,11 @@
   "cobblemon:brew_all": {
     "criteria": {
       "obtain_full_heal": "2026-03-08 20:28:43 +0100",
+      "obtain_ice_heal": "2026-03-13 23:22:44 +0100",
+      "obtain_potion": "2026-03-13 22:59:31 +0100",
       "obtain_max_ether": "2026-03-08 21:18:14 +0100",
       "obtain_awakening": "2026-03-06 20:05:05 +0100",
+      "obtain_antidote": "2026-03-14 00:03:58 +0100",
       "obtain_super_potion": "2026-03-08 20:23:30 +0100"
     },
     "done": false
@@ -25661,6 +25672,60 @@
   "moarconcrete:recipes/building_blocks/red_concrete_panel_from_red_concrete_stonecutting": {
     "criteria": {
       "has_red_concrete": "2026-03-13 19:34:21 +0100"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tactical_fishing": {
+    "criteria": {
+      "salmon_bucket": "2026-03-13 22:16:03 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/misc/relic_coin": {
+    "criteria": {
+      "has_pouch": "2026-03-13 22:55:36 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:brew_potion": {
+    "criteria": {
+      "check_inv": "2026-03-13 22:59:31 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:obtain_mutated_berry": {
+    "criteria": {
+      "check_inv": "2026-03-13 23:03:17 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:craft_remedy": {
+    "criteria": {
+      "check_inv": "2026-03-13 23:09:04 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:obtain_fossil": {
+    "criteria": {
+      "check_inv": "2026-03-13 23:19:02 +0100"
+    },
+    "done": true
+  },
+  "lockandblock:recipes/combat/trip_mine": {
+    "criteria": {
+      "has_tnt": "2026-03-14 09:56:50 +0100"
+    },
+    "done": true
+  },
+  "lockandblock:recipes/combat/detonator_mine": {
+    "criteria": {
+      "has_item": "2026-03-14 09:56:50 +0100"
+    },
+    "done": true
+  },
+  "lockandblock:recipes/combat/land_mine": {
+    "criteria": {
+      "has_item": "2026-03-14 09:56:50 +0100"
     },
     "done": true
   },
