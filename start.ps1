@@ -58,26 +58,6 @@ function Update-GitHubStatus($status) {
 # la chicha
 try {
     Update-GitHubStatus "Online"
-    $URL = "https://github.com/mespp/kfcverse-server/releases/download/mods/Cobblemon-fabric-1.7.3+1.21.1.jar"
-    $ModsFolder = Join-Path -Path $RepoRoot -ChildPath "server/mods"
-
-    if (-not (Test-Path $ModsFolder)) { New-Item -ItemType Directory -Path $ModsFolder | Out-Null }
-
-    $fileName = Split-Path -Leaf $URL
-    $destination = Join-Path $ModsFolder $fileName
-
-    if (Test-Path $destination) {
-        Write-Host "All mods are downloaded."
-    } else {
-        try {
-            Write-Host "Downloading $fileName..."
-            Start-Process -FilePath "curl.exe" -ArgumentList "-L -O $URL" -WorkingDirectory $ModsFolder -Wait
-            Write-Host "Download completed: $destination"
-        } catch {
-            Write-Host "Error downloading: $_"
-        }
-    }
-
     # run playit
     Start-Process -FilePath "$RepoRoot/misc/playit.exe"
 
