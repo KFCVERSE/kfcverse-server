@@ -1,0 +1,12 @@
+# Tratar todos los .jar como archivos grandes
+*.jar filter=lfs diff=lfs merge=lfs -text
+
+# Tratar las regiones del mundo (donde está el mapa) como grandes
+*.mca filter=lfs diff=lfs merge=lfs -text
+
+# El .dat del mundo
+level.dat filter=lfs diff=lfs merge=lfs -text
+
+# Otros archivos binarios pesados
+*.png filter=lfs diff=lfs merge=lfs -text
+*.exe filter=lfs diff=lfs merge=lfs -text
