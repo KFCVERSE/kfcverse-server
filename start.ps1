@@ -63,7 +63,7 @@ try {
     # run playit
     Start-Process -FilePath "$RepoRoot/misc/playit.exe"
 
-    Write-Host "Server online. Close typing 'stop' or just closing the window." -ForegroundColor Cyan
+    Write-Host "Server online. Close typing 'stop'." -ForegroundColor Cyan
     Set-Location -Path "$RepoRoot/server"
     $process = Start-Process -FilePath "cmd.exe" -ArgumentList "/c start.bat" -Wait -PassThru
 }
