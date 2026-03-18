@@ -16,7 +16,7 @@ if (-not $RepoRoot) {
     Write-Host "ERROR: folder not found." -ForegroundColor Red
     exit
 }
-$ReadmePath = Join-Path -Path $RepoRoot -ChildPath "README.md"
+$ReadmePath = Join-Path -Path $RepoRoot -ChildPath ".status"
 
 # sync github
 Write-Host "Syncing server" -ForegroundColor Yellow
