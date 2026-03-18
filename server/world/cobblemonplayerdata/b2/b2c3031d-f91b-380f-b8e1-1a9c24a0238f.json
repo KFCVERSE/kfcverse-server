@@ -7,18 +7,18 @@
   "battleTheme": "cobblemon:battle.pvp.default",
   "extraData": {},
   "advancementData": {
-    "totalCaptureCount": 4,
+    "totalCaptureCount": 5,
     "totalEggsCollected": 0,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 2,
-    "totalBattleVictoryCount": 30,
+    "totalBattleVictoryCount": 33,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 30,
+    "totalPvWBattleVictoryCount": 33,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 3,
     "totalTypeCaptureCounts": {
-      "normal": 2,
+      "normal": 3,
       "bug": 1,
       "poison": 1,
       "fairy": 1,
@@ -45,7 +45,9 @@
       "cobblemon:minior": 1,
       "cobblemon:ninetales": 1,
       "cobblemon:rolycoly": 1,
-      "cobblemon:ferroseed": 1
+      "cobblemon:ferroseed": 1,
+      "cobblemon:murkrow": 1,
+      "cobblemon:rowlet": 1
     },
     "aspectsCollected": {
       "cobblemon:ditto": [
@@ -75,6 +77,9 @@
       "cobblemon:typhlosion": [
         "male",
         "hisuian"
+      ],
+      "cobblemon:meowth": [
+        "male"
       ]
     }
   }

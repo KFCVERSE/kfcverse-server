@@ -25073,6 +25073,66 @@
     },
     "done": true
   },
+  "cobblemon:use_revive": {
+    "criteria": {
+      "use_revive": "2026-03-13 21:06:26 +0100"
+    },
+    "done": true
+  },
+  "moarconcrete:recipes/building_blocks/white_concrete_stairs_from_white_concrete_stonecutting": {
+    "criteria": {
+      "has_white_concrete": "2026-03-13 21:16:26 +0100"
+    },
+    "done": true
+  },
+  "moarconcrete:recipes/building_blocks/white_concrete_panel_from_white_concrete_stonecutting": {
+    "criteria": {
+      "has_white_concrete": "2026-03-13 21:16:26 +0100"
+    },
+    "done": true
+  },
+  "moarconcrete:recipes/building_blocks/white_concrete_slab_from_white_concrete_stonecutting": {
+    "criteria": {
+      "has_white_concrete": "2026-03-13 21:16:26 +0100"
+    },
+    "done": true
+  },
+  "moarconcrete:recipes/building_blocks/white_concrete_bricks_from_white_concrete_stonecutting": {
+    "criteria": {
+      "has_white_concrete": "2026-03-13 21:16:26 +0100"
+    },
+    "done": true
+  },
+  "moarconcrete:recipes/building_blocks/white_concrete_wall_from_white_concrete_stonecutting": {
+    "criteria": {
+      "has_white_concrete": "2026-03-13 21:16:26 +0100"
+    },
+    "done": true
+  },
+  "moarconcrete:recipes/building_blocks/white_concrete_brick_slab_from_white_concrete_stonecutting": {
+    "criteria": {
+      "has_white_concrete": "2026-03-13 21:16:26 +0100"
+    },
+    "done": true
+  },
+  "cobbleverse:trainer/kanto/defeat_brock": {
+    "criteria": {
+      "leader_defeated": "2026-03-13 21:19:35 +0100"
+    },
+    "done": true
+  },
+  "lockandblock:recipes/redstone/keypad": {
+    "criteria": {
+      "has_the_recipe": "2026-03-13 21:31:06 +0100"
+    },
+    "done": true
+  },
+  "lockandblock:recipes/building_blocks/reinforced_iron_block": {
+    "criteria": {
+      "has_reinforced_iron_ingot": "2026-03-13 21:33:26 +0100"
+    },
+    "done": true
+  },
   "lockandblock:recipes/redstone/reinforced_iron_trapdoor": {
     "criteria": {
       "has_reinforced_iron_block": "2026-03-13 21:33:32 +0100"
@@ -25088,24 +25148,6 @@
   "lockandblock:recipes/redstone/lock_block": {
     "criteria": {
       "has_reinforced_iron_block": "2026-03-13 21:33:32 +0100"
-    },
-    "done": true
-  },
-  "lockandblock:recipes/building_blocks/reinforced_iron_block": {
-    "criteria": {
-      "has_reinforced_iron_ingot": "2026-03-13 21:33:26 +0100"
-    },
-    "done": true
-  },
-  "lockandblock:recipes/redstone/keypad": {
-    "criteria": {
-      "has_the_recipe": "2026-03-13 21:31:06 +0100"
-    },
-    "done": true
-  },
-  "moarconcrete:recipes/building_blocks/white_concrete_stairs_from_white_concrete_stonecutting": {
-    "criteria": {
-      "has_white_concrete": "2026-03-13 21:16:26 +0100"
     },
     "done": true
   },
@@ -25127,27 +25169,9 @@
     },
     "done": true
   },
-  "cobblemon:use_revive": {
-    "criteria": {
-      "use_revive": "2026-03-13 21:06:26 +0100"
-    },
-    "done": true
-  },
-  "moarconcrete:recipes/building_blocks/white_concrete_panel_from_white_concrete_stonecutting": {
-    "criteria": {
-      "has_white_concrete": "2026-03-13 21:16:26 +0100"
-    },
-    "done": true
-  },
   "lockandblock:recipes/decorations/reinforced_iron_wall": {
     "criteria": {
       "has_reinforced_iron_block": "2026-03-13 21:33:32 +0100"
-    },
-    "done": true
-  },
-  "moarconcrete:recipes/building_blocks/white_concrete_slab_from_white_concrete_stonecutting": {
-    "criteria": {
-      "has_white_concrete": "2026-03-13 21:16:26 +0100"
     },
     "done": true
   },
@@ -25163,39 +25187,15 @@
     },
     "done": true
   },
-  "moarconcrete:recipes/building_blocks/white_concrete_bricks_from_white_concrete_stonecutting": {
-    "criteria": {
-      "has_white_concrete": "2026-03-13 21:16:26 +0100"
-    },
-    "done": true
-  },
   "lockandblock:recipes/decorations/reinforced_iron_fence": {
     "criteria": {
       "has_reinforced_iron_block": "2026-03-13 21:33:32 +0100"
     },
     "done": true
   },
-  "moarconcrete:recipes/building_blocks/white_concrete_wall_from_white_concrete_stonecutting": {
-    "criteria": {
-      "has_white_concrete": "2026-03-13 21:16:26 +0100"
-    },
-    "done": true
-  },
-  "cobbleverse:trainer/kanto/defeat_brock": {
-    "criteria": {
-      "leader_defeated": "2026-03-13 21:19:35 +0100"
-    },
-    "done": true
-  },
   "lockandblock:recipes/building_blocks/reinforced_iron_stairs": {
     "criteria": {
       "has_reinforced_iron_block": "2026-03-13 21:33:32 +0100"
-    },
-    "done": true
-  },
-  "moarconcrete:recipes/building_blocks/white_concrete_brick_slab_from_white_concrete_stonecutting": {
-    "criteria": {
-      "has_white_concrete": "2026-03-13 21:16:26 +0100"
     },
     "done": true
   },

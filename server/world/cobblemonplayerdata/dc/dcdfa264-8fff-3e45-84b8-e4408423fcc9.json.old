@@ -11,7 +11,7 @@
     "totalCaptureCount": 18,
     "totalEggsCollected": 0,
     "totalEggsHatched": 0,
-    "totalEvolvedCount": 4,
+    "totalEvolvedCount": 5,
     "totalBattleVictoryCount": 25,
     "totalPvPBattleVictoryCount": 0,
     "totalPvWBattleVictoryCount": 23,
@@ -108,6 +108,10 @@
       "cobblemon:rufflet": [
         "male",
         "region-bias-hisui"
+      ],
+      "cobblemon:leafeon": [
+        "shiny",
+        "female"
       ]
     }
   }

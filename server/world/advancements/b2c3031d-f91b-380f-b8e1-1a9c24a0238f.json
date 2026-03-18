@@ -25240,5 +25240,11 @@
     },
     "done": true
   },
+  "lockandblock:recipes/redstone/tesla_coil": {
+    "criteria": {
+      "has_iron_block": "2026-03-18 16:23:18 +0100"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }
