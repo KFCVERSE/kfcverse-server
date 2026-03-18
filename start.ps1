@@ -38,7 +38,7 @@ function Update-GitHubStatus($status) {
     } else {
         $status = "Offline" 
         $msg = "Offline"
-        $gitTarget = ".status"
+        $gitTarget = "."
     }
     
     Set-Content -Path $ReadmePath -Value $msg -Encoding utf8
