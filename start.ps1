@@ -33,12 +33,12 @@ function Update-GitHubStatus($status) {
     $Fecha = Get-Date -Format "dd/MM/yyyy HH:mm"
     
     if ($status -eq "Online") {
-        $msg = "# SERVER ONLINE"
-        $gitTarget = "README.md" 
+        $msg = "Online"
+        $gitTarget = ".status" 
     } else {
         $status = "Offline" 
-        $msg = "# SERVER OFFLINE"
-        $gitTarget = "."
+        $msg = "Offline"
+        $gitTarget = ".status"
     }
     
     Set-Content -Path $ReadmePath -Value $msg -Encoding utf8
