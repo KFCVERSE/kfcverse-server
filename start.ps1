@@ -24,6 +24,16 @@ try {
     Push-Location $RepoRoot
     git pull origin main --rebase 
     Pop-Location
+
+    # if .status says "online", stop here and keep the window open
+    if (Test-Path $ReadmePath) {
+        $currentStatus = (Get-Content -Path $ReadmePath -Raw).Trim().ToLower()
+        if ($currentStatus -eq "online") {
+            Write-Host "Server already online on other host." -ForegroundColor Red
+            Read-Host "Press ENTER to exit"
+            exit
+        }
+    }
 } catch {
     Write-Host "Error. GitHub not synced." -ForegroundColor Red
 }
@@ -33,11 +43,11 @@ function Update-GitHubStatus($status) {
     $Fecha = Get-Date -Format "dd/MM/yyyy HH:mm"
     
     if ($status -eq "Online") {
-        $msg = "Online"
+        $msg = "online"
         $gitTarget = ".status" 
     } else {
         $status = "Offline" 
-        $msg = "Offline"
+        $msg = "offline"
         $gitTarget = "."
     }
     
