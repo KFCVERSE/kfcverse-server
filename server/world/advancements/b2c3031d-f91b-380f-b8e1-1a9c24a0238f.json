@@ -25343,15 +25343,15 @@
     },
     "done": true
   },
-  "cobbleverse:trainer/kanto/defeat_ltsurge": {
-    "criteria": {
-      "leader_defeated": "2026-03-18 23:34:54 +0100"
-    },
-    "done": true
-  },
   "gravestones:recipes/decorations/gravestone": {
     "criteria": {
       "has_stone": "2026-03-18 22:45:49 +0100"
+    },
+    "done": true
+  },
+  "cobbleverse:trainer/kanto/defeat_ltsurge": {
+    "criteria": {
+      "leader_defeated": "2026-03-18 23:34:54 +0100"
     },
     "done": true
   },

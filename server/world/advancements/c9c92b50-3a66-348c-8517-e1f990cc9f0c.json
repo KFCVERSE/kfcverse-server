@@ -25755,16 +25755,6 @@
     },
     "done": true
   },
-  "cobblemon:cook_all_regional_delicacies": {
-    "criteria": {
-      "casteliacone": "2026-03-18 22:40:10 +0100",
-      "big_malasada": "2026-03-18 22:40:07 +0100",
-      "old_gateau": "2026-03-18 22:40:11 +0100",
-      "pewter_crunchies": "2026-03-18 22:40:08 +0100",
-      "jubilife_muffin": "2026-03-18 22:40:10 +0100"
-    },
-    "done": false
-  },
   "lockandblock:recipes/redstone/keycard_reader": {
     "criteria": {
       "has_item": "2026-03-18 22:19:27 +0100"
@@ -25776,6 +25766,16 @@
       "has_item": "2026-03-18 22:19:27 +0100"
     },
     "done": true
+  },
+  "cobblemon:cook_all_regional_delicacies": {
+    "criteria": {
+      "casteliacone": "2026-03-18 22:40:10 +0100",
+      "big_malasada": "2026-03-18 22:40:07 +0100",
+      "old_gateau": "2026-03-18 22:40:11 +0100",
+      "pewter_crunchies": "2026-03-18 22:40:08 +0100",
+      "jubilife_muffin": "2026-03-18 22:40:10 +0100"
+    },
+    "done": false
   },
   "minecraft:nether/get_wither_skull": {
     "criteria": {

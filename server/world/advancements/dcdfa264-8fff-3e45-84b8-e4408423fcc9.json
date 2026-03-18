@@ -25677,51 +25677,15 @@
     },
     "done": true
   },
-  "moarconcrete:recipes/building_blocks/black_concrete_slab_from_black_concrete_stonecutting": {
-    "criteria": {
-      "has_black_concrete": "2026-03-18 23:29:51 +0100"
-    },
-    "done": true
-  },
   "moarconcrete:recipes/building_blocks/white_concrete_stairs_from_white_concrete_stonecutting": {
     "criteria": {
       "has_white_concrete": "2026-03-18 23:27:08 +0100"
     },
     "done": true
   },
-  "moarconcrete:recipes/building_blocks/black_concrete_stairs_from_black_concrete_stonecutting": {
-    "criteria": {
-      "has_black_concrete": "2026-03-18 23:29:51 +0100"
-    },
-    "done": true
-  },
-  "moarconcrete:recipes/building_blocks/black_concrete_bricks_from_black_concrete_stonecutting": {
-    "criteria": {
-      "has_black_concrete": "2026-03-18 23:29:51 +0100"
-    },
-    "done": true
-  },
-  "cobbleverse:trainer/kanto/defeat_ltsurge": {
-    "criteria": {
-      "leader_defeated": "2026-03-18 23:29:14 +0100"
-    },
-    "done": true
-  },
-  "moarconcrete:recipes/building_blocks/black_concrete_brick_slab_from_black_concrete_stonecutting": {
-    "criteria": {
-      "has_black_concrete": "2026-03-18 23:29:51 +0100"
-    },
-    "done": true
-  },
   "moarconcrete:recipes/building_blocks/white_concrete_panel_from_white_concrete_stonecutting": {
     "criteria": {
       "has_white_concrete": "2026-03-18 23:27:08 +0100"
-    },
-    "done": true
-  },
-  "moarconcrete:recipes/building_blocks/black_concrete_wall_from_black_concrete_stonecutting": {
-    "criteria": {
-      "has_black_concrete": "2026-03-18 23:29:51 +0100"
     },
     "done": true
   },
@@ -25743,15 +25707,51 @@
     },
     "done": true
   },
-  "moarconcrete:recipes/building_blocks/black_concrete_panel_from_black_concrete_stonecutting": {
+  "moarconcrete:recipes/building_blocks/white_concrete_brick_slab_from_white_concrete_stonecutting": {
+    "criteria": {
+      "has_white_concrete": "2026-03-18 23:27:08 +0100"
+    },
+    "done": true
+  },
+  "cobbleverse:trainer/kanto/defeat_ltsurge": {
+    "criteria": {
+      "leader_defeated": "2026-03-18 23:29:14 +0100"
+    },
+    "done": true
+  },
+  "moarconcrete:recipes/building_blocks/black_concrete_slab_from_black_concrete_stonecutting": {
     "criteria": {
       "has_black_concrete": "2026-03-18 23:29:51 +0100"
     },
     "done": true
   },
-  "moarconcrete:recipes/building_blocks/white_concrete_brick_slab_from_white_concrete_stonecutting": {
+  "moarconcrete:recipes/building_blocks/black_concrete_stairs_from_black_concrete_stonecutting": {
     "criteria": {
-      "has_white_concrete": "2026-03-18 23:27:08 +0100"
+      "has_black_concrete": "2026-03-18 23:29:51 +0100"
+    },
+    "done": true
+  },
+  "moarconcrete:recipes/building_blocks/black_concrete_bricks_from_black_concrete_stonecutting": {
+    "criteria": {
+      "has_black_concrete": "2026-03-18 23:29:51 +0100"
+    },
+    "done": true
+  },
+  "moarconcrete:recipes/building_blocks/black_concrete_brick_slab_from_black_concrete_stonecutting": {
+    "criteria": {
+      "has_black_concrete": "2026-03-18 23:29:51 +0100"
+    },
+    "done": true
+  },
+  "moarconcrete:recipes/building_blocks/black_concrete_wall_from_black_concrete_stonecutting": {
+    "criteria": {
+      "has_black_concrete": "2026-03-18 23:29:51 +0100"
+    },
+    "done": true
+  },
+  "moarconcrete:recipes/building_blocks/black_concrete_panel_from_black_concrete_stonecutting": {
+    "criteria": {
+      "has_black_concrete": "2026-03-18 23:29:51 +0100"
     },
     "done": true
   },

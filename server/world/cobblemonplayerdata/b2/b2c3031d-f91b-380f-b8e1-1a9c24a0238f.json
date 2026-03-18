@@ -8,9 +8,9 @@
   "extraData": {},
   "advancementData": {
     "totalCaptureCount": 8,
-    "totalEggsCollected": 18,
+    "totalEggsCollected": 21,
     "totalEggsHatched": 36,
-    "totalEvolvedCount": 5,
+    "totalEvolvedCount": 6,
     "totalBattleVictoryCount": 47,
     "totalPvPBattleVictoryCount": 0,
     "totalPvWBattleVictoryCount": 46,
@@ -106,6 +106,9 @@
       "cobblemon:golem": [
         "male",
         "alolan"
+      ],
+      "cobblemon:metang": [
+        "genderless"
       ]
     }
   }
