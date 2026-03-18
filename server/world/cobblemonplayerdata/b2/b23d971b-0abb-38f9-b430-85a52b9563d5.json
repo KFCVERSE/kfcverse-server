@@ -8,25 +8,27 @@
   "battleTheme": "cobblemon:battle.pvp.default",
   "extraData": {},
   "advancementData": {
-    "totalCaptureCount": 12,
+    "totalCaptureCount": 16,
     "totalEggsCollected": 0,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 3,
-    "totalBattleVictoryCount": 16,
+    "totalBattleVictoryCount": 21,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 15,
-    "totalPvNBattleVictoryCount": 1,
+    "totalPvWBattleVictoryCount": 19,
+    "totalPvNBattleVictoryCount": 2,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 3,
     "totalTypeCaptureCounts": {
       "fairy": 1,
       "normal": 3,
       "flying": 4,
-      "water": 4,
-      "ground": 1,
+      "water": 5,
+      "ground": 2,
       "steel": 1,
       "poison": 1,
-      "fighting": 1
+      "fighting": 1,
+      "psychic": 1,
+      "electric": 1
     },
     "totalDefeatedCounts": {
       "cobblemon:vulpix": 1,
@@ -86,6 +88,18 @@
         "metals-none"
       ],
       "cobblemon:goldeen": [
+        "male"
+      ],
+      "cobblemon:drilbur": [
+        "female"
+      ],
+      "cobblemon:munna": [
+        "female"
+      ],
+      "cobblemon:kingler": [
+        "female"
+      ],
+      "cobblemon:blitzle": [
         "male"
       ]
     }

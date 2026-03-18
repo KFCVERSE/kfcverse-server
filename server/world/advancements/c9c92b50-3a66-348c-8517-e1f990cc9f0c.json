@@ -8,12 +8,15 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2026-03-07 20:36:31 +0100",
+      "minecraft:snowy_slopes": "2026-03-18 22:56:35 +0100",
       "minecraft:old_growth_pine_taiga": "2026-03-06 18:01:18 +0100",
+      "minecraft:mushroom_fields": "2026-03-18 23:44:54 +0100",
       "minecraft:forest": "2026-03-06 18:51:25 +0100",
       "minecraft:taiga": "2026-03-07 20:33:29 +0100",
       "minecraft:deep_ocean": "2026-03-07 20:36:16 +0100",
       "minecraft:lush_caves": "2026-03-06 19:19:21 +0100",
       "minecraft:deep_cold_ocean": "2026-03-07 20:36:26 +0100",
+      "minecraft:frozen_river": "2026-03-18 23:20:33 +0100",
       "minecraft:windswept_forest": "2026-03-06 18:03:46 +0100",
       "minecraft:ocean": "2026-03-06 20:13:49 +0100",
       "minecraft:jungle": "2026-03-07 20:13:16 +0100",
@@ -35,6 +38,7 @@
       "minecraft:old_growth_birch_forest": "2026-03-06 17:28:42 +0100",
       "minecraft:deep_dark": "2026-03-07 18:46:14 +0100",
       "minecraft:grove": "2026-03-06 17:57:34 +0100",
+      "minecraft:meadow": "2026-03-18 22:56:54 +0100",
       "minecraft:savanna": "2026-03-06 18:10:00 +0100",
       "minecraft:plains": "2026-03-06 18:15:07 +0100",
       "minecraft:jagged_peaks": "2026-03-06 17:59:30 +0100"
@@ -10550,9 +10554,11 @@
       "net_ball": "2026-03-07 22:51:49 +0100",
       "dive_ball": "2026-03-07 22:50:56 +0100",
       "roseate_ball": "2026-03-07 19:42:26 +0100",
+      "lure_ball": "2026-03-18 23:11:49 +0100",
       "level_ball": "2026-03-07 22:52:04 +0100",
       "sport_ball": "2026-03-07 22:43:01 +0100",
       "ancient_ultra_ball": "2026-03-13 19:23:25 +0100",
+      "safari_ball": "2026-03-18 23:11:51 +0100",
       "premier_ball": "2026-03-06 20:04:49 +0100",
       "heavy_ball": "2026-03-07 22:43:49 +0100",
       "verdant_ball": "2026-03-07 18:22:51 +0100"
@@ -25385,6 +25391,7 @@
       "obtain_max_ether": "2026-03-08 21:18:14 +0100",
       "obtain_awakening": "2026-03-06 20:05:05 +0100",
       "obtain_antidote": "2026-03-14 00:03:58 +0100",
+      "obtain_paralyze_heal": "2026-03-18 20:09:53 +0100",
       "obtain_super_potion": "2026-03-08 20:23:30 +0100"
     },
     "done": false
@@ -25543,6 +25550,7 @@
   },
   "cobblemon:craft_apricorn_balls": {
     "criteria": {
+      "lure_ball": "2026-03-18 23:11:49 +0100",
       "level_ball": "2026-03-07 22:52:04 +0100",
       "moon_ball": "2026-03-07 23:38:09 +0100",
       "heavy_ball": "2026-03-07 22:43:49 +0100"
@@ -25726,6 +25734,52 @@
   "lockandblock:recipes/combat/land_mine": {
     "criteria": {
       "has_item": "2026-03-14 09:56:50 +0100"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2026-03-18 20:10:39 +0100"
+    },
+    "done": true
+  },
+  "lockandblock:recipes/redstone/keycard_cloner": {
+    "criteria": {
+      "has_item": "2026-03-18 22:19:27 +0100"
+    },
+    "done": true
+  },
+  "lockandblock:recipes/redstone/keypad": {
+    "criteria": {
+      "has_item": "2026-03-18 22:19:27 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:cook_all_regional_delicacies": {
+    "criteria": {
+      "casteliacone": "2026-03-18 22:40:10 +0100",
+      "big_malasada": "2026-03-18 22:40:07 +0100",
+      "old_gateau": "2026-03-18 22:40:11 +0100",
+      "pewter_crunchies": "2026-03-18 22:40:08 +0100",
+      "jubilife_muffin": "2026-03-18 22:40:10 +0100"
+    },
+    "done": false
+  },
+  "lockandblock:recipes/redstone/keycard_reader": {
+    "criteria": {
+      "has_item": "2026-03-18 22:19:27 +0100"
+    },
+    "done": true
+  },
+  "lockandblock:recipes/redstone/keycard_writer": {
+    "criteria": {
+      "has_item": "2026-03-18 22:19:27 +0100"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2026-03-18 22:45:58 +0100"
     },
     "done": true
   },

@@ -12,9 +12,9 @@
     "totalEggsCollected": 0,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 4,
-    "totalBattleVictoryCount": 38,
+    "totalBattleVictoryCount": 39,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 38,
+    "totalPvWBattleVictoryCount": 39,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 0,
@@ -31,7 +31,7 @@
       "ghost": 1
     },
     "totalDefeatedCounts": {
-      "cobblemon:meowth": 1,
+      "cobblemon:meowth": 2,
       "cobblemon:zigzagoon": 3,
       "cobblemon:taillow": 3,
       "cobblemon:snubbull": 1,

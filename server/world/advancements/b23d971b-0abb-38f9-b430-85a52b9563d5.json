@@ -14,14 +14,18 @@
       "minecraft:deep_ocean": "2026-03-06 20:02:22 +0100",
       "minecraft:lush_caves": "2026-02-27 21:03:49 +0100",
       "minecraft:deep_cold_ocean": "2026-03-07 20:40:08 +0100",
+      "minecraft:frozen_river": "2026-03-18 18:01:38 +0100",
       "minecraft:windswept_forest": "2026-03-01 19:38:23 +0100",
       "minecraft:ocean": "2026-02-27 20:46:36 +0100",
       "minecraft:sunflower_plains": "2026-03-13 21:03:57 +0100",
+      "minecraft:cherry_grove": "2026-03-18 17:52:43 +0100",
       "minecraft:birch_forest": "2026-03-07 20:28:58 +0100",
       "minecraft:old_growth_spruce_taiga": "2026-02-27 21:32:29 +0100",
+      "minecraft:deep_lukewarm_ocean": "2026-03-18 17:56:57 +0100",
       "minecraft:savanna_plateau": "2026-03-13 21:09:01 +0100",
       "minecraft:beach": "2026-03-01 19:40:08 +0100",
       "minecraft:dark_forest": "2026-02-27 20:39:11 +0100",
+      "minecraft:mangrove_swamp": "2026-03-18 17:58:44 +0100",
       "minecraft:river": "2026-02-27 20:47:10 +0100",
       "minecraft:lukewarm_ocean": "2026-03-08 20:28:35 +0100",
       "minecraft:stony_shore": "2026-03-08 21:00:37 +0100",
@@ -24571,6 +24575,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:cave_spider": "2026-03-18 17:24:03 +0100",
       "minecraft:skeleton": "2026-03-01 19:46:41 +0100",
       "minecraft:phantom": "2026-03-13 20:50:11 +0100",
       "minecraft:enderman": "2026-03-06 19:52:27 +0100",
@@ -24578,7 +24583,8 @@
       "minecraft:spider": "2026-03-01 19:47:21 +0100",
       "minecraft:zombie": "2026-02-27 20:49:12 +0100",
       "minecraft:creeper": "2026-03-06 19:50:11 +0100",
-      "minecraft:drowned": "2026-03-06 20:53:34 +0100"
+      "minecraft:drowned": "2026-03-06 20:53:34 +0100",
+      "minecraft:zombie_villager": "2026-03-18 17:03:14 +0100"
     },
     "done": false
   },
@@ -24605,6 +24611,7 @@
       "obtain_ice_heal": "2026-02-27 21:22:57 +0100",
       "obtain_burn_heal": "2026-02-27 21:24:43 +0100",
       "obtain_potion": "2026-03-06 20:14:11 +0100",
+      "obtain_awakening": "2026-03-18 17:57:38 +0100",
       "obtain_antidote": "2026-03-06 20:16:24 +0100",
       "obtain_paralyze_heal": "2026-03-06 20:16:29 +0100"
     },
@@ -25196,6 +25203,54 @@
   "lockandblock:recipes/building_blocks/reinforced_iron_stairs": {
     "criteria": {
       "has_reinforced_iron_block": "2026-03-13 21:33:32 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:craft_rod": {
+    "criteria": {
+      "craft_rod": "2026-03-18 18:53:13 +0100"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/copper_barrel": {
+    "criteria": {
+      "has_barrel": "2026-03-18 17:57:38 +0100"
+    },
+    "done": true
+  },
+  "cobbleverse:trainer/kanto/defeat_misty": {
+    "criteria": {
+      "leader_defeated": "2026-03-18 18:59:25 +0100"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2026-03-18 17:16:48 +0100"
+    },
+    "done": true
+  },
+  "carved_wood:recipes/redstone/pale_oak_lectern": {
+    "criteria": {
+      "has_book": "2026-03-18 17:33:56 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:craft_master_rod": {
+    "criteria": {
+      "craft_rod": "2026-03-18 18:53:18 +0100"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/iron_barrel": {
+    "criteria": {
+      "has_barrel": "2026-03-18 17:57:38 +0100"
+    },
+    "done": true
+  },
+  "gravestones:recipes/decorations/gravestone": {
+    "criteria": {
+      "has_stone": "2026-03-18 17:41:58 +0100"
     },
     "done": true
   },

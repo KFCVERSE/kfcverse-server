@@ -8,6 +8,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2026-02-22 21:35:10 +0100",
+      "minecraft:snowy_slopes": "2026-03-18 18:33:17 +0100",
       "minecraft:old_growth_pine_taiga": "2026-02-22 21:06:03 +0100",
       "minecraft:forest": "2026-02-22 21:40:48 +0100",
       "minecraft:taiga": "2026-02-18 21:08:45 +0100",
@@ -25,6 +26,7 @@
       "minecraft:savanna_plateau": "2026-02-27 21:53:14 +0100",
       "minecraft:beach": "2026-03-08 20:40:15 +0100",
       "minecraft:dark_forest": "2026-02-18 19:48:19 +0100",
+      "minecraft:sparse_jungle": "2026-03-18 18:10:19 +0100",
       "minecraft:river": "2026-02-18 20:24:23 +0100",
       "minecraft:lukewarm_ocean": "2026-02-27 22:07:37 +0100",
       "minecraft:stony_shore": "2026-02-18 19:53:09 +0100",
@@ -859,24 +861,28 @@
   "cobblemon:obtain_all_berries": {
     "criteria": {
       "obtain_lum_berry": "2026-02-18 21:00:55 +0100",
-      "obtain_oran_berry": "2026-02-18 19:51:52 +0100",
-      "obtain_haban_berry": "2026-02-18 21:06:38 +0100",
-      "obtain_bluk_berry": "2026-03-07 23:52:04 +0100",
+      "obtain_coba_berry": "2026-03-18 18:44:32 +0100",
+      "obtain_pinap_berry": "2026-03-18 19:00:03 +0100",
       "obtain_touga_berry": "2026-03-06 21:45:06 +0100",
       "obtain_yache_berry": "2026-03-06 22:05:36 +0100",
       "obtain_chilan_berry": "2026-03-07 15:09:43 +0100",
       "obtain_leppa_berry": "2026-02-27 22:28:38 +0100",
+      "obtain_aguav_berry": "2026-03-07 23:51:06 +0100",
+      "obtain_occa_berry": "2026-03-06 22:47:15 +0100",
+      "obtain_aspear_berry": "2026-02-22 20:33:18 +0100",
+      "obtain_rabuta_berry": "2026-02-22 20:33:18 +0100",
+      "obtain_nanab_berry": "2026-03-18 18:44:01 +0100",
+      "obtain_oran_berry": "2026-02-18 19:51:52 +0100",
+      "obtain_haban_berry": "2026-02-18 21:06:38 +0100",
+      "obtain_bluk_berry": "2026-03-07 23:52:04 +0100",
       "obtain_tanga_berry": "2026-03-07 22:46:49 +0100",
       "obtain_passho_berry": "2026-03-07 23:16:57 +0100",
-      "obtain_aguav_berry": "2026-03-07 23:51:06 +0100",
       "obtain_cheri_berry": "2026-02-18 21:00:55 +0100",
-      "obtain_occa_berry": "2026-03-06 22:47:15 +0100",
       "obtain_wiki_berry": "2026-02-27 22:28:31 +0100",
       "obtain_chople_berry": "2026-02-27 21:31:21 +0100",
       "obtain_colbur_berry": "2026-03-06 22:06:19 +0100",
       "obtain_wacan_berry": "2026-02-22 20:31:02 +0100",
-      "obtain_aspear_berry": "2026-02-22 20:33:18 +0100",
-      "obtain_rabuta_berry": "2026-02-22 20:33:18 +0100",
+      "obtain_enigma_berry": "2026-03-18 18:55:23 +0100",
       "obtain_chesto_berry": "2026-02-27 20:48:25 +0100",
       "obtain_kasib_berry": "2026-03-07 21:41:45 +0100"
     },
@@ -24709,6 +24715,7 @@
       "obtain_potion": "2026-02-27 21:57:17 +0100",
       "obtain_max_ether": "2026-03-07 15:15:48 +0100",
       "obtain_awakening": "2026-02-27 22:07:56 +0100",
+      "obtain_antidote": "2026-03-18 18:56:01 +0100",
       "obtain_paralyze_heal": "2026-03-11 18:42:45 +0100",
       "obtain_super_potion": "2026-03-06 22:13:06 +0100"
     },
@@ -25243,6 +25250,108 @@
   "lockandblock:recipes/redstone/tesla_coil": {
     "criteria": {
       "has_iron_block": "2026-03-18 16:23:18 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:use_pasture": {
+    "criteria": {
+      "use_pasture": "2026-03-18 17:03:27 +0100"
+    },
+    "done": true
+  },
+  "lockandblock:recipes/combat/trip_mine": {
+    "criteria": {
+      "has_prismarine_shard": "2026-03-18 17:55:45 +0100"
+    },
+    "done": true
+  },
+  "lockandblock:recipes/redstone/laser_sensor": {
+    "criteria": {
+      "has_prismarine_shard": "2026-03-18 17:55:45 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:interact_with_pokemon": {
+    "criteria": {
+      "bucket_interactable_pokemon": "2026-03-18 18:03:02 +0100"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2026-03-18 18:03:04 +0100"
+    },
+    "done": true
+  },
+  "cobblemonraiddens:tier_two": {
+    "criteria": {
+      "completed_tier_two": "2026-03-18 18:13:54 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:craft_master_rod": {
+    "criteria": {
+      "craft_rod": "2026-03-18 18:24:48 +0100"
+    },
+    "done": true
+  },
+  "cobblemonraiddens:tier_three": {
+    "criteria": {
+      "completed_tier_three": "2026-03-18 18:36:29 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/campfire_pot/sickly_candy": {
+    "criteria": {
+      "has_other_berry": "2026-03-18 18:55:23 +0100"
+    },
+    "done": false
+  },
+  "cobblemon:recipes/campfire_pot/numb_candy": {
+    "criteria": {
+      "has_other_berry": "2026-03-18 18:55:23 +0100"
+    },
+    "done": false
+  },
+  "cobblemon:recipes/campfire_pot/weak_candy": {
+    "criteria": {
+      "has_other_berry": "2026-03-18 18:55:23 +0100"
+    },
+    "done": false
+  },
+  "cobblemon:recipes/campfire_pot/slow_candy": {
+    "criteria": {
+      "has_other_berry": "2026-03-18 18:55:23 +0100"
+    },
+    "done": false
+  },
+  "cobblemon:recipes/campfire_pot/coward_candy": {
+    "criteria": {
+      "has_other_berry": "2026-03-18 18:55:23 +0100"
+    },
+    "done": false
+  },
+  "cobblemon:recipes/campfire_pot/brittle_candy": {
+    "criteria": {
+      "has_other_berry": "2026-03-18 18:55:23 +0100"
+    },
+    "done": false
+  },
+  "cobblemon:resurrect_pokemon": {
+    "criteria": {
+      "resurrected_pokemon": "2026-03-18 19:03:24 +0100"
+    },
+    "done": true
+  },
+  "cobbleverse:trainer/kanto/defeat_ltsurge": {
+    "criteria": {
+      "leader_defeated": "2026-03-18 23:34:54 +0100"
+    },
+    "done": true
+  },
+  "gravestones:recipes/decorations/gravestone": {
+    "criteria": {
+      "has_stone": "2026-03-18 22:45:49 +0100"
     },
     "done": true
   },

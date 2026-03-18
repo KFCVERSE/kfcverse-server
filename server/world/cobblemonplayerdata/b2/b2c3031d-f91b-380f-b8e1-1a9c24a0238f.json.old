@@ -7,22 +7,23 @@
   "battleTheme": "cobblemon:battle.pvp.default",
   "extraData": {},
   "advancementData": {
-    "totalCaptureCount": 5,
-    "totalEggsCollected": 0,
-    "totalEggsHatched": 0,
-    "totalEvolvedCount": 2,
-    "totalBattleVictoryCount": 33,
+    "totalCaptureCount": 8,
+    "totalEggsCollected": 18,
+    "totalEggsHatched": 36,
+    "totalEvolvedCount": 5,
+    "totalBattleVictoryCount": 47,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 33,
-    "totalPvNBattleVictoryCount": 0,
+    "totalPvWBattleVictoryCount": 46,
+    "totalPvNBattleVictoryCount": 1,
     "totalShinyCaptureCount": 0,
-    "totalTradedCount": 3,
+    "totalTradedCount": 4,
     "totalTypeCaptureCounts": {
-      "normal": 3,
+      "normal": 5,
       "bug": 1,
       "poison": 1,
       "fairy": 1,
-      "steel": 1
+      "steel": 1,
+      "psychic": 1
     },
     "totalDefeatedCounts": {
       "cobblemon:poliwhirl": 1,
@@ -32,22 +33,26 @@
       "cobblemon:pyukumuku": 1,
       "cobblemon:grimer": 1,
       "cobblemon:swellow": 1,
-      "cobblemon:voltorb": 2,
+      "cobblemon:voltorb": 3,
       "cobblemon:magmar": 1,
       "cobblemon:butterfree": 1,
       "cobblemon:wooloo": 1,
       "cobblemon:mareep": 2,
-      "cobblemon:medicham": 2,
+      "cobblemon:medicham": 5,
       "cobblemon:maractus": 1,
       "cobblemon:cacnea": 1,
       "cobblemon:skitty": 1,
-      "cobblemon:gimmighoul": 4,
+      "cobblemon:gimmighoul": 6,
       "cobblemon:minior": 1,
       "cobblemon:ninetales": 1,
       "cobblemon:rolycoly": 1,
       "cobblemon:ferroseed": 1,
       "cobblemon:murkrow": 1,
-      "cobblemon:rowlet": 1
+      "cobblemon:rowlet": 1,
+      "cobblemon:bellibolt": 1,
+      "cobblemon:remoraid": 2,
+      "cobblemon:torkoal": 2,
+      "cobblemon:kingler": 1
     },
     "aspectsCollected": {
       "cobblemon:ditto": [
@@ -80,6 +85,27 @@
       ],
       "cobblemon:meowth": [
         "male"
+      ],
+      "cobblemon:primarina": [
+        "male"
+      ],
+      "cobblemon:rattata": [
+        "female"
+      ],
+      "cobblemon:miltank": [
+        "female",
+        "mooshtank-false"
+      ],
+      "cobblemon:darmanitan": [
+        "female",
+        "standard-mode"
+      ],
+      "cobblemon:musharna": [
+        "male"
+      ],
+      "cobblemon:golem": [
+        "male",
+        "alolan"
       ]
     }
   }
