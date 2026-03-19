@@ -12,9 +12,9 @@
     "totalEggsCollected": 0,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 3,
-    "totalBattleVictoryCount": 23,
+    "totalBattleVictoryCount": 24,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 21,
+    "totalPvWBattleVictoryCount": 22,
     "totalPvNBattleVictoryCount": 2,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 3,
@@ -38,7 +38,8 @@
       "cobblemon:snubbull": 1,
       "cobblemon:purrloin": 1,
       "cobblemon:poliwag": 1,
-      "cobblemon:sandygast": 1
+      "cobblemon:sandygast": 1,
+      "cobblemon:haunter": 1
     },
     "aspectsCollected": {
       "cobblemon:togepi": [

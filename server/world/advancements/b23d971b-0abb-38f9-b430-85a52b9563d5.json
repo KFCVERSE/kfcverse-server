@@ -767,6 +767,7 @@
     "criteria": {
       "obtain_persim_berry": "2026-02-27 20:44:36 +0100",
       "obtain_grepa_berry": "2026-03-06 20:21:44 +0100",
+      "obtain_pinap_berry": "2026-03-19 20:46:52 +0100",
       "obtain_oran_berry": "2026-02-27 20:39:24 +0100"
     },
     "done": false
@@ -8197,6 +8198,7 @@
       "ancient_ivory_ball": "2026-03-06 20:12:24 +0100",
       "roseate_ball": "2026-03-07 20:24:30 +0100",
       "lure_ball": "2026-03-07 20:24:39 +0100",
+      "ancient_citrine_ball": "2026-03-19 20:51:21 +0100",
       "level_ball": "2026-03-06 20:08:13 +0100",
       "friend_ball": "2026-03-06 20:26:45 +0100",
       "sport_ball": "2026-03-06 20:23:34 +0100",
@@ -24706,6 +24708,7 @@
   "cobblemon:craft_ancient_balls": {
     "criteria": {
       "ancient_ivory_ball": "2026-03-06 20:12:24 +0100",
+      "ancient_citrine_ball": "2026-03-19 20:51:21 +0100",
       "ancient_verdant_ball": "2026-03-06 20:07:54 +0100",
       "ancient_feather_ball": "2026-03-06 20:24:37 +0100",
       "ancient_azure_ball": "2026-03-07 20:24:56 +0100"
@@ -25267,6 +25270,12 @@
   "minecraft:adventure/avoid_vibration": {
     "criteria": {
       "avoid_vibration": "2026-03-19 19:55:41 +0100"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2026-03-19 20:39:45 +0100"
     },
     "done": true
   },

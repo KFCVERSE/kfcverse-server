@@ -8,12 +8,12 @@
   "extraData": {},
   "advancementData": {
     "totalCaptureCount": 9,
-    "totalEggsCollected": 22,
-    "totalEggsHatched": 44,
+    "totalEggsCollected": 26,
+    "totalEggsHatched": 50,
     "totalEvolvedCount": 6,
-    "totalBattleVictoryCount": 57,
+    "totalBattleVictoryCount": 59,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 56,
+    "totalPvWBattleVictoryCount": 58,
     "totalPvNBattleVictoryCount": 1,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 4,
@@ -60,7 +60,9 @@
       "cobblemon:darumaka": 1,
       "cobblemon:centiskorch": 2,
       "cobblemon:magby": 1,
-      "cobblemon:slugma": 1
+      "cobblemon:slugma": 1,
+      "cobblemon:excadrill": 1,
+      "cobblemon:seismitoad": 1
     },
     "aspectsCollected": {
       "cobblemon:ditto": [

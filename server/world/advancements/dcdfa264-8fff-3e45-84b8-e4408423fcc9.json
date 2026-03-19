@@ -25757,5 +25757,11 @@
     },
     "done": true
   },
+  "cobblemon:interact_with_pokemon": {
+    "criteria": {
+      "shear_interactable_pokemon": "2026-03-19 21:10:10 +0100"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }

@@ -25,10 +25,13 @@
       "minecraft:birch_forest": "2026-03-14 09:54:54 +0100",
       "minecraft:old_growth_spruce_taiga": "2026-03-06 18:00:11 +0100",
       "minecraft:bamboo_jungle": "2026-03-13 22:59:52 +0100",
+      "minecraft:windswept_savanna": "2026-03-19 21:20:28 +0100",
+      "minecraft:deep_lukewarm_ocean": "2026-03-19 21:19:12 +0100",
       "minecraft:flower_forest": "2026-03-13 21:18:24 +0100",
       "minecraft:savanna_plateau": "2026-03-06 18:13:51 +0100",
       "minecraft:beach": "2026-03-06 18:10:30 +0100",
       "minecraft:dark_forest": "2026-03-06 17:25:33 +0100",
+      "minecraft:mangrove_swamp": "2026-03-19 21:20:05 +0100",
       "minecraft:sparse_jungle": "2026-03-07 20:17:52 +0100",
       "minecraft:river": "2026-03-06 18:01:11 +0100",
       "minecraft:lukewarm_ocean": "2026-03-06 19:06:21 +0100",
@@ -38,6 +41,7 @@
       "minecraft:old_growth_birch_forest": "2026-03-06 17:28:42 +0100",
       "minecraft:deep_dark": "2026-03-07 18:46:14 +0100",
       "minecraft:grove": "2026-03-06 17:57:34 +0100",
+      "minecraft:swamp": "2026-03-19 22:05:23 +0100",
       "minecraft:meadow": "2026-03-18 22:56:54 +0100",
       "minecraft:savanna": "2026-03-06 18:10:00 +0100",
       "minecraft:plains": "2026-03-06 18:15:07 +0100",
@@ -1373,14 +1377,18 @@
   },
   "cobblemon:obtain_all_berries": {
     "criteria": {
+      "obtain_babiri_berry": "2026-03-19 22:28:12 +0100",
       "obtain_persim_berry": "2026-03-06 18:55:00 +0100",
       "obtain_spelon_berry": "2026-03-13 23:03:17 +0100",
       "obtain_shuca_berry": "2026-03-07 19:05:59 +0100",
       "obtain_cheri_berry": "2026-03-07 16:58:16 +0100",
       "obtain_oran_berry": "2026-03-06 17:28:16 +0100",
       "obtain_ganlon_berry": "2026-03-13 23:03:26 +0100",
+      "obtain_starf_berry": "2026-03-19 22:28:13 +0100",
+      "obtain_wacan_berry": "2026-03-19 22:27:34 +0100",
       "obtain_aspear_berry": "2026-03-07 22:54:41 +0100",
-      "obtain_chesto_berry": "2026-03-13 23:45:32 +0100"
+      "obtain_chesto_berry": "2026-03-13 23:45:32 +0100",
+      "obtain_kasib_berry": "2026-03-19 22:28:12 +0100"
     },
     "done": false
   },
@@ -10561,7 +10569,8 @@
       "safari_ball": "2026-03-18 23:11:51 +0100",
       "premier_ball": "2026-03-06 20:04:49 +0100",
       "heavy_ball": "2026-03-07 22:43:49 +0100",
-      "verdant_ball": "2026-03-07 18:22:51 +0100"
+      "verdant_ball": "2026-03-07 18:22:51 +0100",
+      "fast_ball": "2026-03-19 22:28:13 +0100"
     },
     "done": false
   },
@@ -25235,6 +25244,7 @@
       "minecraft:pillager": "2026-03-07 18:32:13 +0100",
       "minecraft:skeleton": "2026-03-06 18:33:14 +0100",
       "minecraft:phantom": "2026-03-13 21:05:14 +0100",
+      "minecraft:zombified_piglin": "2026-03-19 22:12:39 +0100",
       "minecraft:witch": "2026-03-07 17:33:32 +0100",
       "minecraft:spider": "2026-03-06 18:37:04 +0100",
       "minecraft:zombie": "2026-03-06 18:19:03 +0100",
@@ -25553,7 +25563,8 @@
       "lure_ball": "2026-03-18 23:11:49 +0100",
       "level_ball": "2026-03-07 22:52:04 +0100",
       "moon_ball": "2026-03-07 23:38:09 +0100",
-      "heavy_ball": "2026-03-07 22:43:49 +0100"
+      "heavy_ball": "2026-03-07 22:43:49 +0100",
+      "fast_ball": "2026-03-19 22:28:13 +0100"
     },
     "done": false
   },
@@ -25780,6 +25791,12 @@
   "minecraft:nether/get_wither_skull": {
     "criteria": {
       "wither_skull": "2026-03-18 22:45:58 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:interact_with_pokemon": {
+    "criteria": {
+      "bucket_interactable_pokemon": "2026-03-19 22:34:07 +0100"
     },
     "done": true
   },
