@@ -867,6 +867,7 @@
       "obtain_yache_berry": "2026-03-06 22:05:36 +0100",
       "obtain_chilan_berry": "2026-03-07 15:09:43 +0100",
       "obtain_leppa_berry": "2026-02-27 22:28:38 +0100",
+      "obtain_persim_berry": "2026-03-19 19:34:12 +0100",
       "obtain_aguav_berry": "2026-03-07 23:51:06 +0100",
       "obtain_occa_berry": "2026-03-06 22:47:15 +0100",
       "obtain_aspear_berry": "2026-02-22 20:33:18 +0100",
@@ -25366,6 +25367,24 @@
   "carved_wood:recipes/redstone/pale_oak_lectern": {
     "criteria": {
       "has_book": "2026-03-19 12:46:48 +0100"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2026-03-19 19:06:20 +0100"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/copper_backpack": {
+    "criteria": {
+      "has_backpack": "2026-03-19 19:38:58 +0100"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack": {
+    "criteria": {
+      "has_backpack": "2026-03-19 19:38:58 +0100"
     },
     "done": true
   },

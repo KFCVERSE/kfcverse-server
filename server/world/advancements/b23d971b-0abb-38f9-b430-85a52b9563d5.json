@@ -17,21 +17,25 @@
       "minecraft:frozen_river": "2026-03-18 18:01:38 +0100",
       "minecraft:windswept_forest": "2026-03-01 19:38:23 +0100",
       "minecraft:ocean": "2026-02-27 20:46:36 +0100",
+      "minecraft:jungle": "2026-03-19 19:05:48 +0100",
       "minecraft:sunflower_plains": "2026-03-13 21:03:57 +0100",
       "minecraft:cherry_grove": "2026-03-18 17:52:43 +0100",
       "minecraft:birch_forest": "2026-03-07 20:28:58 +0100",
       "minecraft:old_growth_spruce_taiga": "2026-02-27 21:32:29 +0100",
+      "minecraft:bamboo_jungle": "2026-03-19 19:23:33 +0100",
       "minecraft:deep_lukewarm_ocean": "2026-03-18 17:56:57 +0100",
       "minecraft:savanna_plateau": "2026-03-13 21:09:01 +0100",
       "minecraft:beach": "2026-03-01 19:40:08 +0100",
       "minecraft:dark_forest": "2026-02-27 20:39:11 +0100",
       "minecraft:mangrove_swamp": "2026-03-18 17:58:44 +0100",
+      "minecraft:sparse_jungle": "2026-03-19 19:22:18 +0100",
       "minecraft:river": "2026-02-27 20:47:10 +0100",
       "minecraft:lukewarm_ocean": "2026-03-08 20:28:35 +0100",
       "minecraft:stony_shore": "2026-03-08 21:00:37 +0100",
       "minecraft:dripstone_caves": "2026-03-06 20:52:20 +0100",
       "minecraft:frozen_peaks": "2026-02-27 21:03:23 +0100",
       "minecraft:old_growth_birch_forest": "2026-02-27 20:41:40 +0100",
+      "minecraft:deep_dark": "2026-03-19 19:54:00 +0100",
       "minecraft:grove": "2026-02-27 21:14:43 +0100",
       "minecraft:savanna": "2026-03-08 20:52:17 +0100",
       "minecraft:plains": "2026-03-01 19:41:33 +0100",
@@ -25206,24 +25210,6 @@
     },
     "done": true
   },
-  "cobblemon:craft_rod": {
-    "criteria": {
-      "craft_rod": "2026-03-18 18:53:13 +0100"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/copper_barrel": {
-    "criteria": {
-      "has_barrel": "2026-03-18 17:57:38 +0100"
-    },
-    "done": true
-  },
-  "cobbleverse:trainer/kanto/defeat_misty": {
-    "criteria": {
-      "leader_defeated": "2026-03-18 18:59:25 +0100"
-    },
-    "done": true
-  },
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_chestplate": "2026-03-18 17:16:48 +0100"
@@ -25236,9 +25222,15 @@
     },
     "done": true
   },
-  "cobblemon:craft_master_rod": {
+  "gravestones:recipes/decorations/gravestone": {
     "criteria": {
-      "craft_rod": "2026-03-18 18:53:18 +0100"
+      "has_stone": "2026-03-18 17:41:58 +0100"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/copper_barrel": {
+    "criteria": {
+      "has_barrel": "2026-03-18 17:57:38 +0100"
     },
     "done": true
   },
@@ -25248,9 +25240,33 @@
     },
     "done": true
   },
-  "gravestones:recipes/decorations/gravestone": {
+  "cobblemon:craft_rod": {
     "criteria": {
-      "has_stone": "2026-03-18 17:41:58 +0100"
+      "craft_rod": "2026-03-18 18:53:13 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:craft_master_rod": {
+    "criteria": {
+      "craft_rod": "2026-03-18 18:53:18 +0100"
+    },
+    "done": true
+  },
+  "cobbleverse:trainer/kanto/defeat_misty": {
+    "criteria": {
+      "leader_defeated": "2026-03-18 18:59:25 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:obtain_revival_herb": {
+    "criteria": {
+      "check_inv": "2026-03-19 19:51:52 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2026-03-19 19:55:41 +0100"
     },
     "done": true
   },

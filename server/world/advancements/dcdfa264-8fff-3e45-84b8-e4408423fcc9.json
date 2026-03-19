@@ -555,6 +555,7 @@
   },
   "cobblemon:obtain_all_berries": {
     "criteria": {
+      "obtain_babiri_berry": "2026-03-19 19:28:26 +0100",
       "obtain_shuca_berry": "2026-03-07 21:07:30 +0100",
       "obtain_apicot_berry": "2026-03-18 19:31:25 +0100",
       "obtain_grepa_berry": "2026-03-18 17:14:56 +0100",
@@ -25213,6 +25214,7 @@
       "minecraft:phantom": "2026-03-07 21:34:23 +0100",
       "minecraft:spider": "2026-03-06 20:47:04 +0100",
       "minecraft:zombie": "2026-03-06 19:22:35 +0100",
+      "minecraft:creeper": "2026-03-19 19:57:22 +0100",
       "minecraft:drowned": "2026-03-07 21:33:27 +0100",
       "minecraft:zombie_villager": "2026-03-13 21:22:00 +0100"
     },

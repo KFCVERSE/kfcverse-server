@@ -11,9 +11,9 @@
     "totalEggsCollected": 22,
     "totalEggsHatched": 44,
     "totalEvolvedCount": 6,
-    "totalBattleVictoryCount": 54,
+    "totalBattleVictoryCount": 57,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 53,
+    "totalPvWBattleVictoryCount": 56,
     "totalPvNBattleVictoryCount": 1,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 4,
@@ -39,7 +39,7 @@
       "cobblemon:butterfree": 1,
       "cobblemon:wooloo": 1,
       "cobblemon:mareep": 2,
-      "cobblemon:medicham": 5,
+      "cobblemon:medicham": 6,
       "cobblemon:maractus": 1,
       "cobblemon:cacnea": 1,
       "cobblemon:skitty": 1,
@@ -58,7 +58,9 @@
       "cobblemon:komala": 1,
       "cobblemon:venipede": 1,
       "cobblemon:darumaka": 1,
-      "cobblemon:centiskorch": 2
+      "cobblemon:centiskorch": 2,
+      "cobblemon:magby": 1,
+      "cobblemon:slugma": 1
     },
     "aspectsCollected": {
       "cobblemon:ditto": [

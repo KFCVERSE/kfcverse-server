@@ -8,13 +8,13 @@
   "battleTheme": "cobblemon:battle.pvp.default",
   "extraData": {},
   "advancementData": {
-    "totalCaptureCount": 16,
+    "totalCaptureCount": 17,
     "totalEggsCollected": 0,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 3,
-    "totalBattleVictoryCount": 21,
+    "totalBattleVictoryCount": 23,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 19,
+    "totalPvWBattleVictoryCount": 21,
     "totalPvNBattleVictoryCount": 2,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 3,
@@ -28,7 +28,7 @@
       "poison": 1,
       "fighting": 1,
       "psychic": 1,
-      "electric": 1
+      "electric": 2
     },
     "totalDefeatedCounts": {
       "cobblemon:vulpix": 1,
@@ -37,7 +37,8 @@
       "cobblemon:zigzagoon": 1,
       "cobblemon:snubbull": 1,
       "cobblemon:purrloin": 1,
-      "cobblemon:poliwag": 1
+      "cobblemon:poliwag": 1,
+      "cobblemon:sandygast": 1
     },
     "aspectsCollected": {
       "cobblemon:togepi": [
@@ -100,6 +101,9 @@
         "female"
       ],
       "cobblemon:blitzle": [
+        "male"
+      ],
+      "cobblemon:plusle": [
         "male"
       ]
     }
