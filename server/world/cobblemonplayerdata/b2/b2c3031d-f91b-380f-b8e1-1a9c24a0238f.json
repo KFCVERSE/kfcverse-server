@@ -8,13 +8,13 @@
   "extraData": {},
   "advancementData": {
     "totalCaptureCount": 9,
-    "totalEggsCollected": 26,
-    "totalEggsHatched": 50,
-    "totalEvolvedCount": 6,
-    "totalBattleVictoryCount": 59,
+    "totalEggsCollected": 30,
+    "totalEggsHatched": 54,
+    "totalEvolvedCount": 8,
+    "totalBattleVictoryCount": 60,
     "totalPvPBattleVictoryCount": 0,
     "totalPvWBattleVictoryCount": 58,
-    "totalPvNBattleVictoryCount": 1,
+    "totalPvNBattleVictoryCount": 2,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 4,
     "totalTypeCaptureCounts": {
@@ -122,6 +122,12 @@
       ],
       "cobblemon:impidimp": [
         "male"
+      ],
+      "cobblemon:shelgon": [
+        "female"
+      ],
+      "cobblemon:metagross": [
+        "genderless"
       ]
     }
   }

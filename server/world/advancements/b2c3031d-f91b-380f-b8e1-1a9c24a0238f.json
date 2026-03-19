@@ -13,6 +13,8 @@
       "minecraft:forest": "2026-02-22 21:40:48 +0100",
       "minecraft:taiga": "2026-02-18 21:08:45 +0100",
       "minecraft:lush_caves": "2026-02-18 20:26:08 +0100",
+      "minecraft:deep_cold_ocean": "2026-03-19 23:08:21 +0100",
+      "minecraft:frozen_river": "2026-03-19 23:05:50 +0100",
       "minecraft:windswept_forest": "2026-03-07 18:02:40 +0100",
       "minecraft:ocean": "2026-02-18 20:21:57 +0100",
       "minecraft:jungle": "2026-03-07 20:01:39 +0100",
@@ -24665,13 +24667,17 @@
       "minecraft:blaze": "2026-03-07 21:04:50 +0100",
       "minecraft:skeleton": "2026-02-22 21:04:35 +0100",
       "minecraft:phantom": "2026-03-08 21:01:59 +0100",
+      "minecraft:witch": "2026-03-19 23:35:45 +0100",
+      "minecraft:wither_skeleton": "2026-03-07 21:04:02 +0100",
+      "minecraft:ghast": "2026-03-11 18:09:36 +0100",
+      "minecraft:vindicator": "2026-03-19 23:33:55 +0100",
       "minecraft:enderman": "2026-03-07 16:18:02 +0100",
       "minecraft:spider": "2026-03-06 20:43:51 +0100",
-      "minecraft:wither_skeleton": "2026-03-07 21:04:02 +0100",
+      "minecraft:vex": "2026-03-19 23:28:33 +0100",
       "minecraft:zombie": "2026-02-22 21:26:03 +0100",
       "minecraft:creeper": "2026-03-07 20:07:18 +0100",
       "minecraft:drowned": "2026-03-08 19:19:00 +0100",
-      "minecraft:ghast": "2026-03-11 18:09:36 +0100"
+      "minecraft:evoker": "2026-03-19 23:28:33 +0100"
     },
     "done": false
   },
@@ -25391,6 +25397,12 @@
   "minecraft:adventure/voluntary_exile": {
     "criteria": {
       "voluntary_exile": "2026-03-19 22:26:20 +0100"
+    },
+    "done": true
+  },
+  "cobbleverse:trainer/kanto/defeat_erika": {
+    "criteria": {
+      "leader_defeated": "2026-03-19 23:15:34 +0100"
     },
     "done": true
   },
