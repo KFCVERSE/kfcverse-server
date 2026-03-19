@@ -7,13 +7,13 @@
   "battleTheme": "cobblemon:battle.pvp.default",
   "extraData": {},
   "advancementData": {
-    "totalCaptureCount": 8,
-    "totalEggsCollected": 21,
-    "totalEggsHatched": 36,
+    "totalCaptureCount": 9,
+    "totalEggsCollected": 22,
+    "totalEggsHatched": 44,
     "totalEvolvedCount": 6,
-    "totalBattleVictoryCount": 47,
+    "totalBattleVictoryCount": 54,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 46,
+    "totalPvWBattleVictoryCount": 53,
     "totalPvNBattleVictoryCount": 1,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 4,
@@ -21,9 +21,10 @@
       "normal": 5,
       "bug": 1,
       "poison": 1,
-      "fairy": 1,
+      "fairy": 2,
       "steel": 1,
-      "psychic": 1
+      "psychic": 1,
+      "dark": 1
     },
     "totalDefeatedCounts": {
       "cobblemon:poliwhirl": 1,
@@ -42,7 +43,7 @@
       "cobblemon:maractus": 1,
       "cobblemon:cacnea": 1,
       "cobblemon:skitty": 1,
-      "cobblemon:gimmighoul": 6,
+      "cobblemon:gimmighoul": 7,
       "cobblemon:minior": 1,
       "cobblemon:ninetales": 1,
       "cobblemon:rolycoly": 1,
@@ -52,7 +53,12 @@
       "cobblemon:bellibolt": 1,
       "cobblemon:remoraid": 2,
       "cobblemon:torkoal": 2,
-      "cobblemon:kingler": 1
+      "cobblemon:kingler": 1,
+      "cobblemon:spearow": 1,
+      "cobblemon:komala": 1,
+      "cobblemon:venipede": 1,
+      "cobblemon:darumaka": 1,
+      "cobblemon:centiskorch": 2
     },
     "aspectsCollected": {
       "cobblemon:ditto": [
@@ -109,6 +115,9 @@
       ],
       "cobblemon:metang": [
         "genderless"
+      ],
+      "cobblemon:impidimp": [
+        "male"
       ]
     }
   }

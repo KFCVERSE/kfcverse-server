@@ -10057,11 +10057,13 @@
       "quick_ball": "2026-03-06 22:15:41 +0100",
       "great_ball": "2026-03-06 21:45:06 +0100",
       "ancient_leaden_ball": "2026-03-07 21:41:36 +0100",
+      "dusk_ball": "2026-03-19 12:51:08 +0100",
       "timer_ball": "2026-03-06 22:14:20 +0100",
       "ancient_poke_ball": "2026-03-07 18:19:20 +0100",
       "repeat_ball": "2026-03-06 22:14:47 +0100",
       "azure_ball": "2026-02-22 20:30:20 +0100",
       "love_ball": "2026-03-07 18:17:46 +0100",
+      "ancient_jet_ball": "2026-03-19 12:40:30 +0100",
       "net_ball": "2026-03-07 18:40:04 +0100",
       "dive_ball": "2026-02-27 22:07:55 +0100",
       "ancient_citrine_ball": "2026-03-07 18:17:46 +0100",
@@ -10078,8 +10080,10 @@
       "poke_ball": "2026-02-18 19:51:52 +0100",
       "citrine_ball": "2026-03-06 22:15:26 +0100",
       "ancient_azure_ball": "2026-03-07 18:19:20 +0100",
+      "ancient_ivory_ball": "2026-03-19 12:52:12 +0100",
       "roseate_ball": "2026-03-06 20:27:46 +0100",
       "lure_ball": "2026-03-06 22:15:44 +0100",
+      "friend_ball": "2026-03-19 12:39:48 +0100",
       "ancient_roseate_ball": "2026-03-07 19:47:13 +0100",
       "premier_ball": "2026-02-22 20:33:18 +0100"
     },
@@ -24970,6 +24974,7 @@
     "criteria": {
       "lure_ball": "2026-03-06 22:15:44 +0100",
       "level_ball": "2026-03-07 22:31:21 +0100",
+      "friend_ball": "2026-03-19 12:39:48 +0100",
       "love_ball": "2026-03-07 18:17:46 +0100",
       "fast_ball": "2026-03-07 19:52:16 +0100"
     },
@@ -25073,13 +25078,15 @@
   },
   "cobblemon:craft_ancient_balls": {
     "criteria": {
+      "ancient_ivory_ball": "2026-03-19 12:52:12 +0100",
       "ancient_citrine_ball": "2026-03-07 18:17:46 +0100",
       "ancient_leaden_ball": "2026-03-07 21:41:36 +0100",
       "ancient_wing_ball": "2026-03-07 23:51:04 +0100",
       "ancient_feather_ball": "2026-03-07 18:17:15 +0100",
       "ancient_roseate_ball": "2026-03-07 19:47:13 +0100",
       "ancient_poke_ball": "2026-03-07 18:19:20 +0100",
-      "ancient_azure_ball": "2026-03-07 18:19:20 +0100"
+      "ancient_azure_ball": "2026-03-07 18:19:20 +0100",
+      "ancient_jet_ball": "2026-03-19 12:40:30 +0100"
     },
     "done": false
   },
@@ -25117,9 +25124,10 @@
       "minecraft:crimson_forest": "2026-03-07 21:03:02 +0100",
       "minecraft:nether_wastes": "2026-03-07 21:01:17 +0100",
       "minecraft:soul_sand_valley": "2026-03-07 21:01:44 +0100",
-      "minecraft:basalt_deltas": "2026-03-08 21:17:13 +0100"
+      "minecraft:basalt_deltas": "2026-03-08 21:17:13 +0100",
+      "minecraft:warped_forest": "2026-03-19 13:01:23 +0100"
     },
-    "done": false
+    "done": true
   },
   "minecraft:story/enter_the_nether": {
     "criteria": {
@@ -25352,6 +25360,12 @@
   "cobbleverse:trainer/kanto/defeat_ltsurge": {
     "criteria": {
       "leader_defeated": "2026-03-18 23:34:54 +0100"
+    },
+    "done": true
+  },
+  "carved_wood:recipes/redstone/pale_oak_lectern": {
+    "criteria": {
+      "has_book": "2026-03-19 12:46:48 +0100"
     },
     "done": true
   },
