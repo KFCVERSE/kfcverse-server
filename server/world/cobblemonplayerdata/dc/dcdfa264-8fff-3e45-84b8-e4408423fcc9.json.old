@@ -9,15 +9,15 @@
   "extraData": {},
   "advancementData": {
     "totalCaptureCount": 46,
-    "totalEggsCollected": 36,
-    "totalEggsHatched": 88,
-    "totalEvolvedCount": 14,
-    "totalBattleVictoryCount": 55,
+    "totalEggsCollected": 44,
+    "totalEggsHatched": 150,
+    "totalEvolvedCount": 15,
+    "totalBattleVictoryCount": 56,
     "totalPvPBattleVictoryCount": 0,
     "totalPvWBattleVictoryCount": 51,
-    "totalPvNBattleVictoryCount": 4,
+    "totalPvNBattleVictoryCount": 5,
     "totalShinyCaptureCount": 5,
-    "totalTradedCount": 1,
+    "totalTradedCount": 4,
     "totalTypeCaptureCounts": {
       "psychic": 2,
       "ground": 3,
@@ -192,6 +192,12 @@
       ],
       "cobblemon:flaaffy": [
         "female"
+      ],
+      "cobblemon:drilbur": [
+        "female"
+      ],
+      "cobblemon:charizard": [
+        "male"
       ]
     }
   }

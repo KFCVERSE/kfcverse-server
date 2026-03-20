@@ -8,24 +8,29 @@
   "battleTheme": "cobblemon:battle.pvp.default",
   "extraData": {},
   "advancementData": {
-    "totalCaptureCount": 5,
+    "totalCaptureCount": 9,
     "totalEggsCollected": 0,
     "totalEggsHatched": 0,
-    "totalEvolvedCount": 1,
-    "totalBattleVictoryCount": 6,
+    "totalEvolvedCount": 2,
+    "totalBattleVictoryCount": 13,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 5,
-    "totalPvNBattleVictoryCount": 1,
-    "totalShinyCaptureCount": 0,
+    "totalPvWBattleVictoryCount": 11,
+    "totalPvNBattleVictoryCount": 2,
+    "totalShinyCaptureCount": 1,
     "totalTradedCount": 0,
     "totalTypeCaptureCounts": {
       "electric": 3,
       "psychic": 1,
-      "normal": 1,
-      "poison": 1
+      "normal": 2,
+      "poison": 1,
+      "ground": 1,
+      "water": 2,
+      "flying": 1
     },
     "totalDefeatedCounts": {
-      "cobblemon:elekid": 1
+      "cobblemon:elekid": 1,
+      "cobblemon:purrloin": 1,
+      "cobblemon:shuppet": 1
     },
     "aspectsCollected": {
       "cobblemon:voltorb": [
@@ -44,6 +49,26 @@
         "genderless"
       ],
       "cobblemon:toxel": [
+        "female"
+      ],
+      "cobblemon:diglett": [
+        "male"
+      ],
+      "cobblemon:gyarados": [
+        "female",
+        "magikarp-jump-standard",
+        "gyarados-eye-color-red"
+      ],
+      "cobblemon:flaaffy": [
+        "female"
+      ],
+      "cobblemon:magikarp": [
+        "shiny",
+        "female",
+        "magikarp-jump-standard",
+        "gyarados-eye-color-purple"
+      ],
+      "cobblemon:zangoose": [
         "female"
       ]
     }

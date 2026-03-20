@@ -25412,7 +25412,9 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "minecraft:silverfish": "2026-03-19 20:14:53 +0100"
+      "minecraft:silverfish": "2026-03-19 20:14:53 +0100",
+      "minecraft:zombie": "2026-03-20 18:19:34 +0100",
+      "minecraft:creeper": "2026-03-20 17:43:53 +0100"
     },
     "done": false
   },
@@ -25466,7 +25468,8 @@
   },
   "cobblemon:brew_all": {
     "criteria": {
-      "obtain_potion": "2026-03-19 20:38:00 +0100"
+      "obtain_potion": "2026-03-19 20:38:00 +0100",
+      "obtain_super_potion": "2026-03-20 17:46:14 +0100"
     },
     "done": false
   },
@@ -25543,6 +25546,72 @@
   "cobblemon:harvest_apricorn": {
     "criteria": {
       "check_inv": "2026-03-20 14:13:42 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:use_revive": {
+    "criteria": {
+      "use_revive": "2026-03-20 17:38:30 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:first_shiny_catch": {
+    "criteria": {
+      "catch": "2026-03-20 17:51:15 +0100"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2026-03-20 18:18:27 +0100"
+    },
+    "done": false
+  },
+  "moarconcrete:recipes/building_blocks/black_concrete_slab_from_black_concrete_stonecutting": {
+    "criteria": {
+      "has_black_concrete": "2026-03-20 18:16:34 +0100"
+    },
+    "done": true
+  },
+  "moarconcrete:recipes/building_blocks/black_concrete_stairs_from_black_concrete_stonecutting": {
+    "criteria": {
+      "has_black_concrete": "2026-03-20 18:16:34 +0100"
+    },
+    "done": true
+  },
+  "moarconcrete:recipes/building_blocks/black_concrete_bricks_from_black_concrete_stonecutting": {
+    "criteria": {
+      "has_black_concrete": "2026-03-20 18:16:34 +0100"
+    },
+    "done": true
+  },
+  "moarconcrete:recipes/building_blocks/black_concrete_brick_slab_from_black_concrete_stonecutting": {
+    "criteria": {
+      "has_black_concrete": "2026-03-20 18:16:34 +0100"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2026-03-20 18:18:26 +0100"
+    },
+    "done": true
+  },
+  "moarconcrete:recipes/building_blocks/black_concrete_wall_from_black_concrete_stonecutting": {
+    "criteria": {
+      "has_black_concrete": "2026-03-20 18:16:34 +0100"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2026-03-20 18:18:26 +0100"
+    },
+    "done": true
+  },
+  "moarconcrete:recipes/building_blocks/black_concrete_panel_from_black_concrete_stonecutting": {
+    "criteria": {
+      "has_black_concrete": "2026-03-20 18:16:34 +0100"
     },
     "done": true
   },

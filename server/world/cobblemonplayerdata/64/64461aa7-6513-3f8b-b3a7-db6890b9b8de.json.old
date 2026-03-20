@@ -8,18 +8,18 @@
   "battleTheme": "cobblemon:battle.pvp.default",
   "extraData": {},
   "advancementData": {
-    "totalCaptureCount": 21,
+    "totalCaptureCount": 23,
     "totalEggsCollected": 0,
     "totalEggsHatched": 0,
-    "totalEvolvedCount": 2,
-    "totalBattleVictoryCount": 47,
+    "totalEvolvedCount": 5,
+    "totalBattleVictoryCount": 54,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 46,
-    "totalPvNBattleVictoryCount": 1,
+    "totalPvWBattleVictoryCount": 52,
+    "totalPvNBattleVictoryCount": 2,
     "totalShinyCaptureCount": 0,
-    "totalTradedCount": 0,
+    "totalTradedCount": 1,
     "totalTypeCaptureCounts": {
-      "normal": 5,
+      "normal": 7,
       "flying": 2,
       "fighting": 3,
       "electric": 4,
@@ -29,15 +29,16 @@
       "poison": 1,
       "rock": 1,
       "water": 4,
-      "dark": 1
+      "dark": 1,
+      "grass": 1
     },
     "totalDefeatedCounts": {
       "cobblemon:snubbull": 1,
       "cobblemon:meowth": 2,
       "cobblemon:glameow": 2,
       "cobblemon:patrat": 1,
-      "cobblemon:sentret": 1,
-      "cobblemon:lillipup": 2,
+      "cobblemon:sentret": 2,
+      "cobblemon:lillipup": 3,
       "cobblemon:litleo": 1,
       "cobblemon:mareep": 3,
       "cobblemon:igglybuff": 1,
@@ -50,7 +51,9 @@
       "cobblemon:poliwag": 1,
       "cobblemon:dachsbun": 1,
       "cobblemon:golduck": 1,
-      "cobblemon:swellow": 1
+      "cobblemon:swellow": 1,
+      "cobblemon:magikarp": 1,
+      "cobblemon:buizel": 1
     },
     "aspectsCollected": {
       "cobblemon:hoothoot": [
@@ -110,6 +113,22 @@
         "male"
       ],
       "cobblemon:purrloin": [
+        "male"
+      ],
+      "cobblemon:sawsbuck": [
+        "female",
+        "spring"
+      ],
+      "cobblemon:boltund": [
+        "male"
+      ],
+      "cobblemon:flaaffy": [
+        "female"
+      ],
+      "cobblemon:liepard": [
+        "male"
+      ],
+      "cobblemon:meowth": [
         "male"
       ]
     }

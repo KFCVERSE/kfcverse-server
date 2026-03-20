@@ -766,6 +766,7 @@
   "cobblemon:obtain_all_berries": {
     "criteria": {
       "obtain_persim_berry": "2026-02-27 20:44:36 +0100",
+      "obtain_cheri_berry": "2026-03-20 17:35:07 +0100",
       "obtain_grepa_berry": "2026-03-06 20:21:44 +0100",
       "obtain_pinap_berry": "2026-03-19 20:46:52 +0100",
       "obtain_oran_berry": "2026-02-27 20:39:24 +0100"
@@ -25276,6 +25277,84 @@
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2026-03-19 20:39:45 +0100"
+    },
+    "done": true
+  },
+  "cobbleverse:trainer/kanto/defeat_ltsurge": {
+    "criteria": {
+      "leader_defeated": "2026-03-20 17:37:31 +0100"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2026-03-20 17:54:08 +0100"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2026-03-20 17:54:08 +0100"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2026-03-20 17:54:09 +0100"
+    },
+    "done": false
+  },
+  "moarconcrete:recipes/building_blocks/light_blue_concrete_slab_from_light_blue_concrete_stonecutting": {
+    "criteria": {
+      "has_light_blue_concrete": "2026-03-20 17:58:44 +0100"
+    },
+    "done": true
+  },
+  "moarconcrete:recipes/building_blocks/light_blue_concrete_panel_from_light_blue_concrete_stonecutting": {
+    "criteria": {
+      "has_light_blue_concrete": "2026-03-20 17:58:44 +0100"
+    },
+    "done": true
+  },
+  "moarconcrete:recipes/building_blocks/light_blue_concrete_stairs_from_light_blue_concrete_stonecutting": {
+    "criteria": {
+      "has_light_blue_concrete": "2026-03-20 17:58:44 +0100"
+    },
+    "done": true
+  },
+  "moarconcrete:recipes/building_blocks/light_blue_concrete_brick_slab_from_light_blue_concrete_stonecutting": {
+    "criteria": {
+      "has_light_blue_concrete": "2026-03-20 17:58:44 +0100"
+    },
+    "done": true
+  },
+  "moarconcrete:recipes/building_blocks/light_blue_concrete_wall_from_light_blue_concrete_stonecutting": {
+    "criteria": {
+      "has_light_blue_concrete": "2026-03-20 17:58:44 +0100"
+    },
+    "done": true
+  },
+  "moarconcrete:recipes/building_blocks/light_blue_concrete_bricks_from_light_blue_concrete_stonecutting": {
+    "criteria": {
+      "has_light_blue_concrete": "2026-03-20 17:58:44 +0100"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2026-03-20 18:08:51 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:interact_with_pokemon": {
+    "criteria": {
+      "bucket_interactable_pokemon": "2026-03-20 18:11:27 +0100"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2026-03-20 18:11:35 +0100"
     },
     "done": true
   },

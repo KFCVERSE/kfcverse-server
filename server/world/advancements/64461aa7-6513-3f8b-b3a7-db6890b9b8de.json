@@ -104,8 +104,10 @@
     "criteria": {
       "roseate_ball": "2026-03-06 19:37:58 +0100",
       "poke_ball": "2026-02-18 19:51:47 +0100",
+      "premier_ball": "2026-03-20 17:10:27 +0100",
       "azure_ball": "2026-02-18 20:38:18 +0100",
-      "verdant_ball": "2026-03-07 20:44:09 +0100"
+      "verdant_ball": "2026-03-07 20:44:09 +0100",
+      "citrine_ball": "2026-03-20 17:09:58 +0100"
     },
     "done": false
   },
@@ -427,8 +429,10 @@
       "quick_ball": "2026-03-20 13:00:22 +0100",
       "ancient_poke_ball": "2026-03-20 13:00:12 +0100",
       "poke_ball": "2026-02-18 19:51:47 +0100",
+      "premier_ball": "2026-03-20 17:10:27 +0100",
       "azure_ball": "2026-02-18 20:38:18 +0100",
-      "verdant_ball": "2026-03-07 20:44:09 +0100"
+      "verdant_ball": "2026-03-07 20:44:09 +0100",
+      "citrine_ball": "2026-03-20 17:09:58 +0100"
     },
     "done": false
   },
@@ -25029,6 +25033,66 @@
   "cobbleverse:trainer/kanto/defeat_brock": {
     "criteria": {
       "leader_defeated": "2026-03-20 13:56:12 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:trade_pokemon": {
+    "criteria": {
+      "trade": "2026-03-20 17:53:52 +0100"
+    },
+    "done": true
+  },
+  "moarconcrete:recipes/building_blocks/black_concrete_slab_from_black_concrete_stonecutting": {
+    "criteria": {
+      "has_black_concrete": "2026-03-20 18:11:41 +0100"
+    },
+    "done": true
+  },
+  "moarconcrete:recipes/building_blocks/black_concrete_stairs_from_black_concrete_stonecutting": {
+    "criteria": {
+      "has_black_concrete": "2026-03-20 18:11:41 +0100"
+    },
+    "done": true
+  },
+  "moarconcrete:recipes/building_blocks/black_concrete_bricks_from_black_concrete_stonecutting": {
+    "criteria": {
+      "has_black_concrete": "2026-03-20 18:11:41 +0100"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/copper_barrel": {
+    "criteria": {
+      "has_barrel": "2026-03-20 18:12:12 +0100"
+    },
+    "done": true
+  },
+  "cobbleverse:trainer/kanto/defeat_misty": {
+    "criteria": {
+      "leader_defeated": "2026-03-20 17:37:12 +0100"
+    },
+    "done": true
+  },
+  "moarconcrete:recipes/building_blocks/black_concrete_brick_slab_from_black_concrete_stonecutting": {
+    "criteria": {
+      "has_black_concrete": "2026-03-20 18:11:41 +0100"
+    },
+    "done": true
+  },
+  "moarconcrete:recipes/building_blocks/black_concrete_wall_from_black_concrete_stonecutting": {
+    "criteria": {
+      "has_black_concrete": "2026-03-20 18:11:41 +0100"
+    },
+    "done": true
+  },
+  "moarconcrete:recipes/building_blocks/black_concrete_panel_from_black_concrete_stonecutting": {
+    "criteria": {
+      "has_black_concrete": "2026-03-20 18:11:41 +0100"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/iron_barrel": {
+    "criteria": {
+      "has_barrel": "2026-03-20 18:12:12 +0100"
     },
     "done": true
   },

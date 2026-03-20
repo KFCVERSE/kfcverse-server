@@ -25764,5 +25764,17 @@
     },
     "done": true
   },
+  "lockandblock:recipes/redstone/forcefield_generator": {
+    "criteria": {
+      "has_item": "2026-03-20 17:23:54 +0100"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2026-03-20 18:17:01 +0100"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }
