@@ -8,10 +8,10 @@
   "battleTheme": "cobblemon:battle.pvp.default",
   "extraData": {},
   "advancementData": {
-    "totalCaptureCount": 1,
+    "totalCaptureCount": 2,
     "totalEggsCollected": 0,
     "totalEggsHatched": 0,
-    "totalEvolvedCount": 0,
+    "totalEvolvedCount": 1,
     "totalBattleVictoryCount": 1,
     "totalPvPBattleVictoryCount": 0,
     "totalPvWBattleVictoryCount": 1,
@@ -19,12 +19,18 @@
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 0,
     "totalTypeCaptureCounts": {
-      "electric": 1
+      "electric": 2
     },
     "totalDefeatedCounts": {},
     "aspectsCollected": {
       "cobblemon:voltorb": [
         "genderless"
+      ],
+      "cobblemon:raichu": [
+        "male"
+      ],
+      "cobblemon:mareep": [
+        "female"
       ]
     }
   }

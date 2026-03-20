@@ -8,12 +8,12 @@
   "extraData": {},
   "advancementData": {
     "totalCaptureCount": 9,
-    "totalEggsCollected": 30,
-    "totalEggsHatched": 54,
+    "totalEggsCollected": 35,
+    "totalEggsHatched": 68,
     "totalEvolvedCount": 8,
-    "totalBattleVictoryCount": 60,
+    "totalBattleVictoryCount": 66,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 58,
+    "totalPvWBattleVictoryCount": 64,
     "totalPvNBattleVictoryCount": 2,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 4,
@@ -39,11 +39,11 @@
       "cobblemon:butterfree": 1,
       "cobblemon:wooloo": 1,
       "cobblemon:mareep": 2,
-      "cobblemon:medicham": 6,
+      "cobblemon:medicham": 7,
       "cobblemon:maractus": 1,
       "cobblemon:cacnea": 1,
       "cobblemon:skitty": 1,
-      "cobblemon:gimmighoul": 7,
+      "cobblemon:gimmighoul": 11,
       "cobblemon:minior": 1,
       "cobblemon:ninetales": 1,
       "cobblemon:rolycoly": 1,
@@ -62,7 +62,8 @@
       "cobblemon:magby": 1,
       "cobblemon:slugma": 1,
       "cobblemon:excadrill": 1,
-      "cobblemon:seismitoad": 1
+      "cobblemon:seismitoad": 1,
+      "cobblemon:wormadam": 1
     },
     "aspectsCollected": {
       "cobblemon:ditto": [

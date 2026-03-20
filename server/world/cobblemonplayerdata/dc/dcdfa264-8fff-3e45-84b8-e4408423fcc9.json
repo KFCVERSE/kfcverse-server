@@ -9,9 +9,9 @@
   "extraData": {},
   "advancementData": {
     "totalCaptureCount": 46,
-    "totalEggsCollected": 12,
-    "totalEggsHatched": 20,
-    "totalEvolvedCount": 12,
+    "totalEggsCollected": 28,
+    "totalEggsHatched": 54,
+    "totalEvolvedCount": 14,
     "totalBattleVictoryCount": 55,
     "totalPvPBattleVictoryCount": 0,
     "totalPvWBattleVictoryCount": 51,
@@ -185,6 +185,12 @@
       ],
       "cobblemon:meowth": [
         "male",
+        "female"
+      ],
+      "cobblemon:meowscarada": [
+        "male"
+      ],
+      "cobblemon:flaaffy": [
         "female"
       ]
     }

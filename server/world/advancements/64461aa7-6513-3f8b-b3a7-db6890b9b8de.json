@@ -8,23 +8,27 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2026-02-22 20:37:01 +0100",
-      "minecraft:savanna_plateau": "2026-02-27 22:08:16 +0100",
       "minecraft:old_growth_pine_taiga": "2026-02-27 21:58:36 +0100",
-      "minecraft:dark_forest": "2026-02-18 17:40:54 +0100",
       "minecraft:forest": "2026-02-27 22:01:19 +0100",
       "minecraft:taiga": "2026-02-22 20:33:15 +0100",
       "minecraft:deep_ocean": "2026-02-27 21:54:18 +0100",
+      "minecraft:lush_caves": "2026-02-18 20:26:23 +0100",
+      "minecraft:deep_cold_ocean": "2026-03-20 12:58:18 +0100",
+      "minecraft:windswept_forest": "2026-03-20 12:49:05 +0100",
+      "minecraft:ocean": "2026-02-18 20:24:02 +0100",
+      "minecraft:sunflower_plains": "2026-02-27 22:21:20 +0100",
+      "minecraft:cherry_grove": "2026-03-20 12:49:02 +0100",
+      "minecraft:old_growth_spruce_taiga": "2026-02-18 19:58:01 +0100",
+      "minecraft:savanna_plateau": "2026-02-27 22:08:16 +0100",
+      "minecraft:beach": "2026-03-20 12:48:29 +0100",
+      "minecraft:dark_forest": "2026-02-18 17:40:54 +0100",
       "minecraft:river": "2026-02-18 20:22:05 +0100",
       "minecraft:lukewarm_ocean": "2026-02-27 22:09:01 +0100",
       "minecraft:stony_shore": "2026-02-18 19:53:05 +0100",
-      "minecraft:lush_caves": "2026-02-18 20:26:23 +0100",
       "minecraft:dripstone_caves": "2026-03-06 20:03:25 +0100",
       "minecraft:frozen_peaks": "2026-02-22 21:01:08 +0100",
       "minecraft:old_growth_birch_forest": "2026-02-18 19:52:42 +0100",
-      "minecraft:ocean": "2026-02-18 20:24:02 +0100",
-      "minecraft:sunflower_plains": "2026-02-27 22:21:20 +0100",
       "minecraft:grove": "2026-02-18 20:02:48 +0100",
-      "minecraft:old_growth_spruce_taiga": "2026-02-18 19:58:01 +0100",
       "minecraft:savanna": "2026-02-27 22:05:10 +0100",
       "minecraft:plains": "2026-02-27 22:01:45 +0100",
       "minecraft:jagged_peaks": "2026-02-18 20:34:35 +0100"
@@ -415,6 +419,8 @@
   "cobblemon:craft_all_balls": {
     "criteria": {
       "roseate_ball": "2026-03-06 19:37:58 +0100",
+      "quick_ball": "2026-03-20 13:00:22 +0100",
+      "ancient_poke_ball": "2026-03-20 13:00:12 +0100",
       "poke_ball": "2026-02-18 19:51:47 +0100",
       "azure_ball": "2026-02-18 20:38:18 +0100",
       "verdant_ball": "2026-03-07 20:44:09 +0100"
@@ -24874,21 +24880,42 @@
     },
     "done": true
   },
+  "cobblemon:cook_all_regional_delicacies": {
+    "criteria": {
+      "old_gateau": "2026-03-19 20:43:22 +0100"
+    },
+    "done": false
+  },
   "cobblemon:obtain_revival_herb": {
     "criteria": {
       "check_inv": "2026-03-19 20:54:43 +0100"
     },
     "done": true
   },
-  "cobblemon:craft_rod": {
+  "cobblemon:obtain_big_root": {
     "criteria": {
-      "craft_rod": "2026-03-19 20:56:06 +0100"
+      "check_inv": "2026-03-19 20:54:49 +0100"
     },
     "done": true
   },
-  "moarconcrete:recipes/building_blocks/white_concrete_stairs_from_white_concrete_stonecutting": {
+  "cobblemon:brew_all": {
     "criteria": {
-      "has_white_concrete": "2026-03-19 20:57:49 +0100"
+      "obtain_burn_heal": "2026-03-19 20:55:55 +0100",
+      "obtain_potion": "2026-03-19 20:56:06 +0100",
+      "obtain_max_ether": "2026-03-19 20:56:05 +0100",
+      "obtain_antidote": "2026-03-20 13:00:28 +0100"
+    },
+    "done": false
+  },
+  "minecraft:adventure/salvage_sherd": {
+    "criteria": {
+      "has_sherd": "2026-03-19 20:56:03 +0100"
+    },
+    "done": false
+  },
+  "cobblemon:craft_rod": {
+    "criteria": {
+      "craft_rod": "2026-03-19 20:56:06 +0100"
     },
     "done": true
   },
@@ -24898,11 +24925,11 @@
     },
     "done": true
   },
-  "cobblemon:cook_all_regional_delicacies": {
+  "moarconcrete:recipes/building_blocks/white_concrete_stairs_from_white_concrete_stonecutting": {
     "criteria": {
-      "old_gateau": "2026-03-19 20:43:22 +0100"
+      "has_white_concrete": "2026-03-19 20:57:49 +0100"
     },
-    "done": false
+    "done": true
   },
   "moarconcrete:recipes/building_blocks/white_concrete_panel_from_white_concrete_stonecutting": {
     "criteria": {
@@ -24916,25 +24943,11 @@
     },
     "done": true
   },
-  "cobblemon:brew_all": {
-    "criteria": {
-      "obtain_burn_heal": "2026-03-19 20:55:55 +0100",
-      "obtain_potion": "2026-03-19 20:56:06 +0100",
-      "obtain_max_ether": "2026-03-19 20:56:05 +0100"
-    },
-    "done": false
-  },
   "moarconcrete:recipes/building_blocks/white_concrete_bricks_from_white_concrete_stonecutting": {
     "criteria": {
       "has_white_concrete": "2026-03-19 20:57:49 +0100"
     },
     "done": true
-  },
-  "minecraft:adventure/salvage_sherd": {
-    "criteria": {
-      "has_sherd": "2026-03-19 20:56:03 +0100"
-    },
-    "done": false
   },
   "moarconcrete:recipes/building_blocks/white_concrete_wall_from_white_concrete_stonecutting": {
     "criteria": {
@@ -24942,15 +24955,51 @@
     },
     "done": true
   },
-  "cobblemon:obtain_big_root": {
-    "criteria": {
-      "check_inv": "2026-03-19 20:54:49 +0100"
-    },
-    "done": true
-  },
   "moarconcrete:recipes/building_blocks/white_concrete_brick_slab_from_white_concrete_stonecutting": {
     "criteria": {
       "has_white_concrete": "2026-03-19 20:57:49 +0100"
+    },
+    "done": true
+  },
+  "lockandblock:recipes/redstone/tesla_coil": {
+    "criteria": {
+      "has_copper_ingot": "2026-03-20 12:21:23 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:craft_remedy": {
+    "criteria": {
+      "check_inv": "2026-03-20 12:47:03 +0100"
+    },
+    "done": true
+  },
+  "cobblemonraiddens:join_raid": {
+    "criteria": {
+      "joined_raid": "2026-03-20 12:59:35 +0100"
+    },
+    "done": true
+  },
+  "cobblemonraiddens:raid_tera": {
+    "criteria": {
+      "completed_tera": "2026-03-20 12:59:59 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:ride_pokemon": {
+    "criteria": {
+      "check_inv": "2026-03-20 12:35:55 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:craft_ancient_balls": {
+    "criteria": {
+      "ancient_poke_ball": "2026-03-20 13:00:12 +0100"
+    },
+    "done": false
+  },
+  "cobblemonraiddens:tier_two": {
+    "criteria": {
+      "completed_tier_two": "2026-03-20 12:59:59 +0100"
     },
     "done": true
   },
