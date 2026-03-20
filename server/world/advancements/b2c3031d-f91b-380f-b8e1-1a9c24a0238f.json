@@ -870,7 +870,9 @@
       "obtain_pinap_berry": "2026-03-18 19:00:03 +0100",
       "obtain_touga_berry": "2026-03-06 21:45:06 +0100",
       "obtain_yache_berry": "2026-03-06 22:05:36 +0100",
+      "obtain_payapa_berry": "2026-03-20 14:17:35 +0100",
       "obtain_chilan_berry": "2026-03-07 15:09:43 +0100",
+      "obtain_micle_berry": "2026-03-20 14:07:02 +0100",
       "obtain_leppa_berry": "2026-02-27 22:28:38 +0100",
       "obtain_persim_berry": "2026-03-19 19:34:12 +0100",
       "obtain_aguav_berry": "2026-03-07 23:51:06 +0100",
@@ -24689,6 +24691,7 @@
       "minecraft:zombie": "2026-02-22 21:26:03 +0100",
       "minecraft:creeper": "2026-03-07 20:07:18 +0100",
       "minecraft:drowned": "2026-03-08 19:19:00 +0100",
+      "minecraft:zombie_villager": "2026-03-20 14:39:31 +0100",
       "minecraft:evoker": "2026-03-19 23:28:33 +0100"
     },
     "done": false
@@ -25439,6 +25442,12 @@
   "cobblemon:place_campfire_pot": {
     "criteria": {
       "place_pot": "2026-03-20 12:41:26 +0100"
+    },
+    "done": true
+  },
+  "lockandblock:recipes/redstone/forcefield_generator": {
+    "criteria": {
+      "has_item": "2026-03-20 14:10:38 +0100"
     },
     "done": true
   },

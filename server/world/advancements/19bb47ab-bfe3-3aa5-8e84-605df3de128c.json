@@ -147,8 +147,11 @@
   },
   "cobblemon:craft_base_balls": {
     "criteria": {
+      "roseate_ball": "2026-03-20 14:05:01 +0100",
       "poke_ball": "2026-03-19 19:45:00 +0100",
-      "premier_ball": "2026-03-19 21:07:52 +0100"
+      "premier_ball": "2026-03-19 21:07:52 +0100",
+      "verdant_ball": "2026-03-20 14:11:21 +0100",
+      "citrine_ball": "2026-03-20 14:14:02 +0100"
     },
     "done": false
   },
@@ -598,16 +601,25 @@
   },
   "cobblemon:craft_all_balls": {
     "criteria": {
-      "net_ball": "2026-03-19 20:52:01 +0100",
-      "dive_ball": "2026-03-19 20:11:26 +0100",
       "quick_ball": "2026-03-19 20:45:27 +0100",
+      "dusk_ball": "2026-03-20 14:13:28 +0100",
       "ancient_wing_ball": "2026-03-19 20:45:33 +0100",
       "timer_ball": "2026-03-19 20:48:20 +0100",
       "ancient_poke_ball": "2026-03-19 20:42:30 +0100",
       "poke_ball": "2026-03-19 19:45:00 +0100",
       "repeat_ball": "2026-03-19 20:44:06 +0100",
+      "citrine_ball": "2026-03-20 14:14:02 +0100",
+      "net_ball": "2026-03-19 20:52:01 +0100",
+      "dive_ball": "2026-03-19 20:11:26 +0100",
+      "roseate_ball": "2026-03-20 14:05:01 +0100",
+      "ancient_slate_ball": "2026-03-20 14:11:20 +0100",
+      "level_ball": "2026-03-20 14:13:50 +0100",
+      "friend_ball": "2026-03-20 14:13:33 +0100",
       "premier_ball": "2026-03-19 21:07:52 +0100",
-      "dream_ball": "2026-03-19 20:51:40 +0100"
+      "park_ball": "2026-03-20 14:13:53 +0100",
+      "dream_ball": "2026-03-19 20:51:40 +0100",
+      "verdant_ball": "2026-03-20 14:11:21 +0100",
+      "ancient_heavy_ball": "2026-03-20 14:13:31 +0100"
     },
     "done": false
   },
@@ -25461,7 +25473,9 @@
   "cobblemon:craft_ancient_balls": {
     "criteria": {
       "ancient_wing_ball": "2026-03-19 20:45:33 +0100",
-      "ancient_poke_ball": "2026-03-19 20:42:30 +0100"
+      "ancient_slate_ball": "2026-03-20 14:11:20 +0100",
+      "ancient_poke_ball": "2026-03-19 20:42:30 +0100",
+      "ancient_heavy_ball": "2026-03-20 14:13:31 +0100"
     },
     "done": false
   },
@@ -25471,9 +25485,9 @@
     },
     "done": true
   },
-  "cobblemon:craft_remedy": {
+  "cobblemon:ride_pokemon": {
     "criteria": {
-      "check_inv": "2026-03-20 12:37:22 +0100"
+      "check_inv": "2026-03-20 12:25:18 +0100"
     },
     "done": true
   },
@@ -25489,12 +25503,6 @@
     },
     "done": true
   },
-  "cobblemon:ride_pokemon": {
-    "criteria": {
-      "check_inv": "2026-03-20 12:25:18 +0100"
-    },
-    "done": true
-  },
   "cobblemonraiddens:tier_two": {
     "criteria": {
       "completed_tier_two": "2026-03-20 12:26:58 +0100"
@@ -25504,6 +25512,37 @@
   "cobblemon:first_evolution": {
     "criteria": {
       "evolve": "2026-03-20 12:32:14 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:craft_remedy": {
+    "criteria": {
+      "check_inv": "2026-03-20 12:37:22 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:full_party": {
+    "criteria": {
+      "full_party": "2026-03-20 13:51:16 +0100"
+    },
+    "done": true
+  },
+  "cobbleverse:trainer/kanto/defeat_brock": {
+    "criteria": {
+      "leader_defeated": "2026-03-20 14:00:03 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:craft_apricorn_balls": {
+    "criteria": {
+      "level_ball": "2026-03-20 14:13:50 +0100",
+      "friend_ball": "2026-03-20 14:13:33 +0100"
+    },
+    "done": false
+  },
+  "cobblemon:harvest_apricorn": {
+    "criteria": {
+      "check_inv": "2026-03-20 14:13:42 +0100"
     },
     "done": true
   },

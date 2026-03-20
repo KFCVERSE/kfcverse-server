@@ -7,14 +7,14 @@
   "battleTheme": "cobblemon:battle.pvp.default",
   "extraData": {},
   "advancementData": {
-    "totalCaptureCount": 9,
+    "totalCaptureCount": 10,
     "totalEggsCollected": 35,
     "totalEggsHatched": 68,
     "totalEvolvedCount": 8,
-    "totalBattleVictoryCount": 66,
+    "totalBattleVictoryCount": 71,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 64,
-    "totalPvNBattleVictoryCount": 2,
+    "totalPvWBattleVictoryCount": 68,
+    "totalPvNBattleVictoryCount": 3,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 4,
     "totalTypeCaptureCounts": {
@@ -24,7 +24,9 @@
       "fairy": 2,
       "steel": 1,
       "psychic": 1,
-      "dark": 1
+      "dark": 1,
+      "rock": 1,
+      "electric": 1
     },
     "totalDefeatedCounts": {
       "cobblemon:poliwhirl": 1,
@@ -39,11 +41,11 @@
       "cobblemon:butterfree": 1,
       "cobblemon:wooloo": 1,
       "cobblemon:mareep": 2,
-      "cobblemon:medicham": 7,
+      "cobblemon:medicham": 8,
       "cobblemon:maractus": 1,
       "cobblemon:cacnea": 1,
       "cobblemon:skitty": 1,
-      "cobblemon:gimmighoul": 11,
+      "cobblemon:gimmighoul": 13,
       "cobblemon:minior": 1,
       "cobblemon:ninetales": 1,
       "cobblemon:rolycoly": 1,
@@ -128,6 +130,9 @@
         "female"
       ],
       "cobblemon:metagross": [
+        "genderless"
+      ],
+      "cobblemon:ironthorns": [
         "genderless"
       ]
     }
