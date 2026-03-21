@@ -8,29 +8,36 @@
   "battleTheme": "cobblemon:battle.pvp.default",
   "extraData": {},
   "advancementData": {
-    "totalCaptureCount": 9,
+    "totalCaptureCount": 18,
     "totalEggsCollected": 0,
     "totalEggsHatched": 0,
-    "totalEvolvedCount": 2,
-    "totalBattleVictoryCount": 13,
+    "totalEvolvedCount": 3,
+    "totalBattleVictoryCount": 28,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 11,
-    "totalPvNBattleVictoryCount": 2,
+    "totalPvWBattleVictoryCount": 25,
+    "totalPvNBattleVictoryCount": 3,
     "totalShinyCaptureCount": 1,
     "totalTradedCount": 0,
     "totalTypeCaptureCounts": {
-      "electric": 3,
-      "psychic": 1,
-      "normal": 2,
-      "poison": 1,
+      "electric": 4,
+      "psychic": 2,
+      "normal": 4,
+      "poison": 2,
       "ground": 1,
-      "water": 2,
-      "flying": 1
+      "water": 3,
+      "flying": 3,
+      "bug": 2,
+      "fire": 1
     },
     "totalDefeatedCounts": {
       "cobblemon:elekid": 1,
       "cobblemon:purrloin": 1,
-      "cobblemon:shuppet": 1
+      "cobblemon:shuppet": 1,
+      "cobblemon:tauros": 1,
+      "cobblemon:staravia": 1,
+      "cobblemon:hoppip": 1,
+      "cobblemon:meowth": 1,
+      "cobblemon:goldeen": 1
     },
     "aspectsCollected": {
       "cobblemon:voltorb": [
@@ -70,6 +77,37 @@
       ],
       "cobblemon:zangoose": [
         "female"
+      ],
+      "cobblemon:drowzee": [
+        "male"
+      ],
+      "cobblemon:illumise": [
+        "female"
+      ],
+      "cobblemon:hypno": [
+        "male"
+      ],
+      "cobblemon:combee": [
+        "male",
+        "has_nectar"
+      ],
+      "cobblemon:growlithe": [
+        "male"
+      ],
+      "cobblemon:persian": [
+        "male"
+      ],
+      "cobblemon:tranquill": [
+        "female"
+      ],
+      "cobblemon:golduck": [
+        "male"
+      ],
+      "cobblemon:nidoranf": [
+        "female"
+      ],
+      "cobblemon:boltund": [
+        "male"
       ]
     }
   }

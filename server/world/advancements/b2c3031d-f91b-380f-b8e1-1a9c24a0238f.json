@@ -40,6 +40,7 @@
       "minecraft:old_growth_birch_forest": "2026-02-18 19:52:41 +0100",
       "minecraft:deep_dark": "2026-03-13 20:57:44 +0100",
       "minecraft:grove": "2026-02-18 20:46:16 +0100",
+      "minecraft:swamp": "2026-03-21 17:47:44 +0100",
       "minecraft:meadow": "2026-03-08 20:33:49 +0100",
       "minecraft:savanna": "2026-02-27 21:52:43 +0100",
       "minecraft:plains": "2026-02-27 21:51:46 +0100",
@@ -25448,6 +25449,42 @@
   "lockandblock:recipes/redstone/forcefield_generator": {
     "criteria": {
       "has_item": "2026-03-20 14:10:38 +0100"
+    },
+    "done": true
+  },
+  "minecraft:nether/fast_travel": {
+    "criteria": {
+      "travelled": "2026-03-21 16:19:35 +0100"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2026-03-21 16:54:22 +0100"
+    },
+    "done": true
+  },
+  "lockandblock:recipes/redstone/keycard_cloner": {
+    "criteria": {
+      "has_item": "2026-03-21 17:35:11 +0100"
+    },
+    "done": true
+  },
+  "lockandblock:recipes/redstone/keypad": {
+    "criteria": {
+      "has_item": "2026-03-21 17:35:11 +0100"
+    },
+    "done": true
+  },
+  "lockandblock:recipes/redstone/keycard_reader": {
+    "criteria": {
+      "has_item": "2026-03-21 17:35:11 +0100"
+    },
+    "done": true
+  },
+  "lockandblock:recipes/redstone/keycard_writer": {
+    "criteria": {
+      "has_item": "2026-03-21 17:35:11 +0100"
     },
     "done": true
   },

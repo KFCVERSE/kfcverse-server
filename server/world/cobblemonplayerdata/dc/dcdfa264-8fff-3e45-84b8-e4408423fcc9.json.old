@@ -8,13 +8,13 @@
   "battleTheme": "cobblemon:battle.pvp.default",
   "extraData": {},
   "advancementData": {
-    "totalCaptureCount": 46,
-    "totalEggsCollected": 44,
-    "totalEggsHatched": 150,
+    "totalCaptureCount": 47,
+    "totalEggsCollected": 52,
+    "totalEggsHatched": 168,
     "totalEvolvedCount": 15,
-    "totalBattleVictoryCount": 56,
+    "totalBattleVictoryCount": 58,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 51,
+    "totalPvWBattleVictoryCount": 53,
     "totalPvNBattleVictoryCount": 5,
     "totalShinyCaptureCount": 5,
     "totalTradedCount": 4,
@@ -26,7 +26,7 @@
       "flying": 6,
       "rock": 4,
       "dragon": 2,
-      "ghost": 2,
+      "ghost": 3,
       "fairy": 4,
       "normal": 18,
       "dark": 1,
@@ -40,7 +40,8 @@
       "cobblemon:gimmighoul": 7,
       "cobblemon:oricorio": 1,
       "cobblemon:elekid": 1,
-      "cobblemon:cyndaquil": 1
+      "cobblemon:cyndaquil": 1,
+      "cobblemon:voltorb": 1
     },
     "aspectsCollected": {
       "cobblemon:hatenna": [

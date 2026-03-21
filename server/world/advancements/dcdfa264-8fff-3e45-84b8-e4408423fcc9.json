@@ -22,12 +22,14 @@
       "minecraft:birch_forest": "2026-03-07 20:33:52 +0100",
       "minecraft:old_growth_spruce_taiga": "2026-03-06 20:57:42 +0100",
       "minecraft:bamboo_jungle": "2026-03-07 19:24:58 +0100",
+      "minecraft:windswept_savanna": "2026-03-21 16:44:28 +0100",
       "minecraft:deep_lukewarm_ocean": "2026-03-07 20:35:25 +0100",
       "minecraft:flower_forest": "2026-03-13 23:19:29 +0100",
       "minecraft:savanna_plateau": "2026-03-07 19:15:28 +0100",
       "minecraft:beach": "2026-03-06 20:01:20 +0100",
       "minecraft:dark_forest": "2026-03-06 19:15:13 +0100",
       "minecraft:mangrove_swamp": "2026-03-07 20:38:54 +0100",
+      "minecraft:sparse_jungle": "2026-03-21 16:43:39 +0100",
       "minecraft:river": "2026-03-06 20:01:25 +0100",
       "minecraft:lukewarm_ocean": "2026-03-07 19:14:44 +0100",
       "minecraft:stony_shore": "2026-03-07 20:16:13 +0100",
@@ -25411,7 +25413,8 @@
       "obtain_potion": "2026-03-07 19:19:52 +0100",
       "obtain_full_restore": "2026-03-13 23:27:46 +0100",
       "obtain_elixir": "2026-03-18 19:31:25 +0100",
-      "obtain_hyper_potion": "2026-03-18 16:32:43 +0100"
+      "obtain_hyper_potion": "2026-03-18 16:32:43 +0100",
+      "obtain_super_potion": "2026-03-21 13:18:08 +0100"
     },
     "done": false
   },
@@ -25773,6 +25776,18 @@
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_chestplate": "2026-03-20 18:17:01 +0100"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/copper_barrel": {
+    "criteria": {
+      "has_barrel": "2026-03-21 13:17:54 +0100"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/iron_barrel": {
+    "criteria": {
+      "has_barrel": "2026-03-21 13:17:54 +0100"
     },
     "done": true
   },

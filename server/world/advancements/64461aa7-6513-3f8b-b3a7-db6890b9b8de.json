@@ -33,6 +33,7 @@
       "minecraft:frozen_peaks": "2026-02-22 21:01:08 +0100",
       "minecraft:old_growth_birch_forest": "2026-02-18 19:52:42 +0100",
       "minecraft:grove": "2026-02-18 20:02:48 +0100",
+      "minecraft:meadow": "2026-03-21 17:54:51 +0100",
       "minecraft:savanna": "2026-02-27 22:05:10 +0100",
       "minecraft:plains": "2026-02-27 22:01:45 +0100",
       "minecraft:jagged_peaks": "2026-02-18 20:34:35 +0100"
@@ -426,9 +427,12 @@
   "cobblemon:craft_all_balls": {
     "criteria": {
       "roseate_ball": "2026-03-06 19:37:58 +0100",
+      "lure_ball": "2026-03-21 17:58:40 +0100",
       "quick_ball": "2026-03-20 13:00:22 +0100",
       "ancient_poke_ball": "2026-03-20 13:00:12 +0100",
+      "moon_ball": "2026-03-21 17:57:50 +0100",
       "poke_ball": "2026-02-18 19:51:47 +0100",
+      "safari_ball": "2026-03-21 17:58:10 +0100",
       "premier_ball": "2026-03-20 17:10:27 +0100",
       "azure_ball": "2026-02-18 20:38:18 +0100",
       "verdant_ball": "2026-03-07 20:44:09 +0100",
@@ -24584,6 +24588,7 @@
       "minecraft:spider": "2026-02-27 22:23:43 +0100",
       "minecraft:zombie": "2026-02-22 21:04:07 +0100",
       "minecraft:drowned": "2026-03-18 17:09:36 +0100",
+      "minecraft:zombie_villager": "2026-03-21 18:01:29 +0100",
       "minecraft:ghast": "2026-03-19 19:25:41 +0100"
     },
     "done": false
@@ -25036,6 +25041,12 @@
     },
     "done": true
   },
+  "cobbleverse:trainer/kanto/defeat_misty": {
+    "criteria": {
+      "leader_defeated": "2026-03-20 17:37:12 +0100"
+    },
+    "done": true
+  },
   "cobblemon:trade_pokemon": {
     "criteria": {
       "trade": "2026-03-20 17:53:52 +0100"
@@ -25060,18 +25071,6 @@
     },
     "done": true
   },
-  "sophisticatedstorage:recipes/misc/copper_barrel": {
-    "criteria": {
-      "has_barrel": "2026-03-20 18:12:12 +0100"
-    },
-    "done": true
-  },
-  "cobbleverse:trainer/kanto/defeat_misty": {
-    "criteria": {
-      "leader_defeated": "2026-03-20 17:37:12 +0100"
-    },
-    "done": true
-  },
   "moarconcrete:recipes/building_blocks/black_concrete_brick_slab_from_black_concrete_stonecutting": {
     "criteria": {
       "has_black_concrete": "2026-03-20 18:11:41 +0100"
@@ -25090,11 +25089,30 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/copper_barrel": {
+    "criteria": {
+      "has_barrel": "2026-03-20 18:12:12 +0100"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/misc/iron_barrel": {
     "criteria": {
       "has_barrel": "2026-03-20 18:12:12 +0100"
     },
     "done": true
+  },
+  "cobblemon:recipes/misc/relic_coin_pouch": {
+    "criteria": {
+      "has_coin": "2026-03-21 17:57:59 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:craft_apricorn_balls": {
+    "criteria": {
+      "lure_ball": "2026-03-21 17:58:40 +0100",
+      "moon_ball": "2026-03-21 17:57:50 +0100"
+    },
+    "done": false
   },
   "DataVersion": 3955
 }

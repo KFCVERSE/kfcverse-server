@@ -9,11 +9,11 @@
   "advancementData": {
     "totalCaptureCount": 10,
     "totalEggsCollected": 35,
-    "totalEggsHatched": 68,
-    "totalEvolvedCount": 8,
-    "totalBattleVictoryCount": 71,
+    "totalEggsHatched": 70,
+    "totalEvolvedCount": 10,
+    "totalBattleVictoryCount": 80,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 68,
+    "totalPvWBattleVictoryCount": 77,
     "totalPvNBattleVictoryCount": 3,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 4,
@@ -34,18 +34,18 @@
       "cobblemon:araquanid": 1,
       "cobblemon:sandygast": 1,
       "cobblemon:pyukumuku": 1,
-      "cobblemon:grimer": 1,
+      "cobblemon:grimer": 4,
       "cobblemon:swellow": 1,
       "cobblemon:voltorb": 3,
       "cobblemon:magmar": 1,
       "cobblemon:butterfree": 1,
       "cobblemon:wooloo": 1,
       "cobblemon:mareep": 2,
-      "cobblemon:medicham": 8,
+      "cobblemon:medicham": 9,
       "cobblemon:maractus": 1,
       "cobblemon:cacnea": 1,
       "cobblemon:skitty": 1,
-      "cobblemon:gimmighoul": 13,
+      "cobblemon:gimmighoul": 14,
       "cobblemon:minior": 1,
       "cobblemon:ninetales": 1,
       "cobblemon:rolycoly": 1,
@@ -65,7 +65,11 @@
       "cobblemon:slugma": 1,
       "cobblemon:excadrill": 1,
       "cobblemon:seismitoad": 1,
-      "cobblemon:wormadam": 1
+      "cobblemon:wormadam": 1,
+      "cobblemon:claydol": 1,
+      "cobblemon:swoobat": 1,
+      "cobblemon:galvantula": 1,
+      "cobblemon:mareanie": 1
     },
     "aspectsCollected": {
       "cobblemon:ditto": [
@@ -134,6 +138,13 @@
       ],
       "cobblemon:ironthorns": [
         "genderless"
+      ],
+      "cobblemon:dragonair": [
+        "female"
+      ],
+      "cobblemon:sinistcha": [
+        "genderless",
+        "unremarkable"
       ]
     }
   }
