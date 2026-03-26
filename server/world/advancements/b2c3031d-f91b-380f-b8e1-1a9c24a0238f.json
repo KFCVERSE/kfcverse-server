@@ -10113,7 +10113,8 @@
       "friend_ball": "2026-03-19 12:39:48 +0100",
       "ancient_roseate_ball": "2026-03-07 19:47:13 +0100",
       "premier_ball": "2026-02-22 20:33:18 +0100",
-      "park_ball": "2026-03-20 10:36:22 +0100"
+      "park_ball": "2026-03-20 10:36:22 +0100",
+      "master_ball": "2026-03-26 19:47:00 +0100"
     },
     "done": false
   },
@@ -24985,13 +24986,14 @@
   "cobblemon:rainbow_apricorns": {
     "criteria": {
       "place_black": "2026-03-07 15:11:09 +0100",
+      "place_green": "2026-03-26 20:41:32 +0100",
       "place_white": "2026-03-07 18:37:16 +0100",
       "place_pink": "2026-03-07 15:20:58 +0100",
       "place_yellow": "2026-03-07 18:37:13 +0100",
       "place_red": "2026-03-06 21:14:10 +0100",
       "place_blue": "2026-03-07 15:21:09 +0100"
     },
-    "done": false
+    "done": true
   },
   "cobblemon:obtain_fossil": {
     "criteria": {
@@ -25542,6 +25544,12 @@
       "has_berry": "2026-03-22 15:01:09 +0100"
     },
     "done": false
+  },
+  "vanillabackport:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2026-03-26 20:44:02 +0100"
+    },
+    "done": true
   },
   "DataVersion": 3955
 }

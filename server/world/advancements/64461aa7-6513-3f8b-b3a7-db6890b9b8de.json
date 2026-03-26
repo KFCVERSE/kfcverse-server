@@ -90,6 +90,7 @@
   },
   "cobblemon:obtain_all_berries": {
     "criteria": {
+      "obtain_babiri_berry": "2026-03-26 20:01:31 +0100",
       "obtain_passho_berry": "2026-03-06 21:44:39 +0100",
       "obtain_lum_berry": "2026-03-06 21:10:50 +0100",
       "obtain_cheri_berry": "2026-03-06 18:44:06 +0100",
@@ -97,7 +98,8 @@
       "obtain_wiki_berry": "2026-03-19 20:56:03 +0100",
       "obtain_rawst_berry": "2026-03-20 14:36:31 +0100",
       "obtain_wacan_berry": "2026-03-18 17:46:07 +0100",
-      "obtain_chesto_berry": "2026-03-06 20:00:56 +0100"
+      "obtain_chesto_berry": "2026-03-06 20:00:56 +0100",
+      "obtain_kasib_berry": "2026-03-26 20:01:25 +0100"
     },
     "done": false
   },
@@ -25111,6 +25113,18 @@
   "cobblemon:recipes/misc/relic_coin_pouch": {
     "criteria": {
       "has_coin": "2026-03-21 17:57:59 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:obtain_fossil": {
+    "criteria": {
+      "check_inv": "2026-03-26 20:01:32 +0100"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2026-03-26 20:09:13 +0100"
     },
     "done": true
   },
