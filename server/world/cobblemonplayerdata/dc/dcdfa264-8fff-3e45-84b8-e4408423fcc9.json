@@ -8,14 +8,14 @@
   "battleTheme": "cobblemon:battle.pvp.default",
   "extraData": {},
   "advancementData": {
-    "totalCaptureCount": 47,
-    "totalEggsCollected": 52,
+    "totalCaptureCount": 50,
+    "totalEggsCollected": 58,
     "totalEggsHatched": 168,
-    "totalEvolvedCount": 15,
-    "totalBattleVictoryCount": 58,
+    "totalEvolvedCount": 16,
+    "totalBattleVictoryCount": 62,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 53,
-    "totalPvNBattleVictoryCount": 5,
+    "totalPvWBattleVictoryCount": 56,
+    "totalPvNBattleVictoryCount": 6,
     "totalShinyCaptureCount": 5,
     "totalTradedCount": 4,
     "totalTypeCaptureCounts": {
@@ -26,14 +26,14 @@
       "flying": 6,
       "rock": 4,
       "dragon": 2,
-      "ghost": 3,
+      "ghost": 5,
       "fairy": 4,
       "normal": 18,
       "dark": 1,
       "bug": 1,
       "water": 3,
       "fighting": 1,
-      "fire": 5,
+      "fire": 6,
       "electric": 2
     },
     "totalDefeatedCounts": {
@@ -198,6 +198,12 @@
         "female"
       ],
       "cobblemon:charizard": [
+        "male"
+      ],
+      "cobblemon:garchomp": [
+        "male"
+      ],
+      "cobblemon:scorbunny": [
         "male"
       ]
     }

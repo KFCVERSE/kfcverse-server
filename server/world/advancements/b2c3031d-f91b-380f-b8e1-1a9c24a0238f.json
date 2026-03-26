@@ -15,14 +15,18 @@
       "minecraft:deep_ocean": "2026-03-20 12:55:28 +0100",
       "minecraft:lush_caves": "2026-02-18 20:26:08 +0100",
       "minecraft:deep_cold_ocean": "2026-03-19 23:08:21 +0100",
+      "minecraft:frozen_ocean": "2026-03-22 15:30:00 +0100",
       "minecraft:frozen_river": "2026-03-19 23:05:50 +0100",
       "minecraft:windswept_forest": "2026-03-07 18:02:40 +0100",
+      "minecraft:deep_frozen_ocean": "2026-03-22 15:32:03 +0100",
       "minecraft:ocean": "2026-02-18 20:21:57 +0100",
       "minecraft:jungle": "2026-03-07 20:01:39 +0100",
       "minecraft:sunflower_plains": "2026-02-27 21:53:10 +0100",
       "minecraft:cherry_grove": "2026-03-07 18:05:24 +0100",
       "minecraft:birch_forest": "2026-03-07 20:01:25 +0100",
+      "minecraft:windswept_hills": "2026-03-22 13:42:22 +0100",
       "minecraft:old_growth_spruce_taiga": "2026-02-22 21:13:14 +0100",
+      "minecraft:snowy_beach": "2026-03-22 15:50:07 +0100",
       "minecraft:bamboo_jungle": "2026-03-07 22:30:41 +0100",
       "minecraft:windswept_savanna": "2026-03-20 10:42:16 +0100",
       "minecraft:deep_lukewarm_ocean": "2026-03-11 18:15:02 +0100",
@@ -36,6 +40,7 @@
       "minecraft:lukewarm_ocean": "2026-02-27 22:07:37 +0100",
       "minecraft:stony_shore": "2026-02-18 19:53:09 +0100",
       "minecraft:dripstone_caves": "2026-03-06 19:41:48 +0100",
+      "minecraft:snowy_taiga": "2026-03-22 15:56:03 +0100",
       "minecraft:frozen_peaks": "2026-02-22 20:21:33 +0100",
       "minecraft:old_growth_birch_forest": "2026-02-18 19:52:41 +0100",
       "minecraft:deep_dark": "2026-03-13 20:57:44 +0100",
@@ -872,8 +877,10 @@
       "obtain_touga_berry": "2026-03-06 21:45:06 +0100",
       "obtain_yache_berry": "2026-03-06 22:05:36 +0100",
       "obtain_payapa_berry": "2026-03-20 14:17:35 +0100",
+      "obtain_charti_berry": "2026-03-22 15:19:38 +0100",
       "obtain_chilan_berry": "2026-03-07 15:09:43 +0100",
       "obtain_micle_berry": "2026-03-20 14:07:02 +0100",
+      "obtain_iapapa_berry": "2026-03-22 15:21:07 +0100",
       "obtain_leppa_berry": "2026-02-27 22:28:38 +0100",
       "obtain_persim_berry": "2026-03-19 19:34:12 +0100",
       "obtain_aguav_berry": "2026-03-07 23:51:06 +0100",
@@ -886,7 +893,9 @@
       "obtain_oran_berry": "2026-02-18 19:51:52 +0100",
       "obtain_haban_berry": "2026-02-18 21:06:38 +0100",
       "obtain_bluk_berry": "2026-03-07 23:52:04 +0100",
+      "obtain_hondew_berry": "2026-03-22 15:01:09 +0100",
       "obtain_tanga_berry": "2026-03-07 22:46:49 +0100",
+      "obtain_babiri_berry": "2026-03-22 15:19:39 +0100",
       "obtain_passho_berry": "2026-03-07 23:16:57 +0100",
       "obtain_kee_berry": "2026-03-20 11:47:25 +0100",
       "obtain_cheri_berry": "2026-02-18 21:00:55 +0100",
@@ -10065,6 +10074,7 @@
   "cobblemon:craft_all_balls": {
     "criteria": {
       "luxury_ball": "2026-03-07 18:40:51 +0100",
+      "ancient_gigaton_ball": "2026-03-22 15:00:59 +0100",
       "nest_ball": "2026-03-07 18:40:02 +0100",
       "quick_ball": "2026-03-06 22:15:41 +0100",
       "great_ball": "2026-03-06 21:45:06 +0100",
@@ -24636,6 +24646,7 @@
   },
   "cobblemon:obtain_all_mints": {
     "criteria": {
+      "obtain_white_mint_leaf": "2026-03-22 13:47:11 +0100",
       "obtain_pink_mint_leaf": "2026-02-18 20:43:30 +0100"
     },
     "done": false
@@ -25104,18 +25115,19 @@
   },
   "cobblemon:craft_ancient_balls": {
     "criteria": {
+      "ancient_gigaton_ball": "2026-03-22 15:00:59 +0100",
+      "ancient_leaden_ball": "2026-03-07 21:41:36 +0100",
+      "ancient_wing_ball": "2026-03-07 23:51:04 +0100",
+      "ancient_feather_ball": "2026-03-07 18:17:15 +0100",
+      "ancient_poke_ball": "2026-03-07 18:19:20 +0100",
+      "ancient_azure_ball": "2026-03-07 18:19:20 +0100",
+      "ancient_jet_ball": "2026-03-19 12:40:30 +0100",
       "ancient_ivory_ball": "2026-03-19 12:52:12 +0100",
       "ancient_great_ball": "2026-03-20 10:26:33 +0100",
       "ancient_citrine_ball": "2026-03-07 18:17:46 +0100",
-      "ancient_leaden_ball": "2026-03-07 21:41:36 +0100",
-      "ancient_wing_ball": "2026-03-07 23:51:04 +0100",
       "ancient_slate_ball": "2026-03-20 10:27:54 +0100",
-      "ancient_feather_ball": "2026-03-07 18:17:15 +0100",
       "ancient_roseate_ball": "2026-03-07 19:47:13 +0100",
-      "ancient_poke_ball": "2026-03-07 18:19:20 +0100",
-      "ancient_ultra_ball": "2026-03-20 10:27:47 +0100",
-      "ancient_azure_ball": "2026-03-07 18:19:20 +0100",
-      "ancient_jet_ball": "2026-03-19 12:40:30 +0100"
+      "ancient_ultra_ball": "2026-03-20 10:27:47 +0100"
     },
     "done": false
   },
@@ -25346,9 +25358,10 @@
   },
   "cobblemon:recipes/campfire_pot/numb_candy": {
     "criteria": {
-      "has_other_berry": "2026-03-18 18:55:23 +0100"
+      "has_other_berry": "2026-03-18 18:55:23 +0100",
+      "has_berry": "2026-03-22 15:01:09 +0100"
     },
-    "done": false
+    "done": true
   },
   "cobblemon:recipes/campfire_pot/weak_candy": {
     "criteria": {
@@ -25487,6 +25500,48 @@
       "has_item": "2026-03-21 17:35:11 +0100"
     },
     "done": true
+  },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2026-03-22 13:21:00 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:use_revive": {
+    "criteria": {
+      "use_revive": "2026-03-22 13:30:25 +0100"
+    },
+    "done": true
+  },
+  "cobbleverse:trainer/kanto/defeat_koga": {
+    "criteria": {
+      "leader_defeated": "2026-03-22 13:30:56 +0100"
+    },
+    "done": true
+  },
+  "cobblemonraiddens:great_friend": {
+    "criteria": {
+      "heal_cheer": "2026-03-22 13:46:08 +0100"
+    },
+    "done": false
+  },
+  "cobbleverse:pokemon/catch_zapdos": {
+    "criteria": {
+      "caught_zapdos": "2026-03-22 14:00:37 +0100"
+    },
+    "done": true
+  },
+  "lockandblock:recipes/redstone/player_sensor": {
+    "criteria": {
+      "has_item": "2026-03-22 14:24:16 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/campfire_pot/smart_candy": {
+    "criteria": {
+      "has_berry": "2026-03-22 15:01:09 +0100"
+    },
+    "done": false
   },
   "DataVersion": 3955
 }

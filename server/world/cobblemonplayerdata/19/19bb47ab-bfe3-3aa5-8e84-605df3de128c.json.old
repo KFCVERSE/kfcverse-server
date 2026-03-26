@@ -8,26 +8,28 @@
   "battleTheme": "cobblemon:battle.pvp.default",
   "extraData": {},
   "advancementData": {
-    "totalCaptureCount": 18,
+    "totalCaptureCount": 22,
     "totalEggsCollected": 0,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 3,
-    "totalBattleVictoryCount": 28,
+    "totalBattleVictoryCount": 34,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 25,
+    "totalPvWBattleVictoryCount": 31,
     "totalPvNBattleVictoryCount": 3,
     "totalShinyCaptureCount": 1,
     "totalTradedCount": 0,
     "totalTypeCaptureCounts": {
       "electric": 4,
       "psychic": 2,
-      "normal": 4,
+      "normal": 7,
       "poison": 2,
       "ground": 1,
       "water": 3,
-      "flying": 3,
+      "flying": 4,
       "bug": 2,
-      "fire": 1
+      "fire": 1,
+      "steel": 1,
+      "rock": 1
     },
     "totalDefeatedCounts": {
       "cobblemon:elekid": 1,
@@ -37,7 +39,9 @@
       "cobblemon:staravia": 1,
       "cobblemon:hoppip": 1,
       "cobblemon:meowth": 1,
-      "cobblemon:goldeen": 1
+      "cobblemon:goldeen": 1,
+      "cobblemon:krabby": 1,
+      "cobblemon:nidoranm": 1
     },
     "aspectsCollected": {
       "cobblemon:voltorb": [
@@ -108,6 +112,18 @@
       ],
       "cobblemon:boltund": [
         "male"
+      ],
+      "cobblemon:bidoof": [
+        "male"
+      ],
+      "cobblemon:aron": [
+        "male"
+      ],
+      "cobblemon:farfetchd": [
+        "male"
+      ],
+      "cobblemon:bouffalant": [
+        "female"
       ]
     }
   }

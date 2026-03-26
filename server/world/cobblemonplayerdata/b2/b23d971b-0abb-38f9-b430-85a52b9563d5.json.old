@@ -8,19 +8,19 @@
   "battleTheme": "cobblemon:battle.pvp.default",
   "extraData": {},
   "advancementData": {
-    "totalCaptureCount": 18,
-    "totalEggsCollected": 0,
-    "totalEggsHatched": 0,
-    "totalEvolvedCount": 6,
-    "totalBattleVictoryCount": 28,
+    "totalCaptureCount": 19,
+    "totalEggsCollected": 4,
+    "totalEggsHatched": 60,
+    "totalEvolvedCount": 7,
+    "totalBattleVictoryCount": 35,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 24,
+    "totalPvWBattleVictoryCount": 31,
     "totalPvNBattleVictoryCount": 4,
-    "totalShinyCaptureCount": 0,
-    "totalTradedCount": 5,
+    "totalShinyCaptureCount": 2,
+    "totalTradedCount": 6,
     "totalTypeCaptureCounts": {
       "fairy": 1,
-      "normal": 3,
+      "normal": 4,
       "flying": 4,
       "water": 5,
       "ground": 3,
@@ -40,7 +40,13 @@
       "cobblemon:poliwag": 1,
       "cobblemon:sandygast": 1,
       "cobblemon:haunter": 1,
-      "cobblemon:fearow": 1
+      "cobblemon:fearow": 1,
+      "cobblemon:hoothoot": 1,
+      "cobblemon:yamper": 1,
+      "cobblemon:buneary": 1,
+      "cobblemon:spritzee": 1,
+      "cobblemon:mankey": 1,
+      "cobblemon:minior": 1
     },
     "aspectsCollected": {
       "cobblemon:togepi": [
@@ -121,6 +127,18 @@
         "male"
       ],
       "cobblemon:zoroark": [
+        "male",
+        "hisuian"
+      ],
+      "cobblemon:cubone": [
+        "male",
+        "region-bias-alola"
+      ],
+      "cobblemon:lillipup": [
+        "shiny",
+        "male"
+      ],
+      "cobblemon:typhlosion": [
         "male",
         "hisuian"
       ]

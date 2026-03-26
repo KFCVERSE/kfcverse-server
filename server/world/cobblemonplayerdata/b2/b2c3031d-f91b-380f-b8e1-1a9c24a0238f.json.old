@@ -7,26 +7,27 @@
   "battleTheme": "cobblemon:battle.pvp.default",
   "extraData": {},
   "advancementData": {
-    "totalCaptureCount": 10,
+    "totalCaptureCount": 13,
     "totalEggsCollected": 35,
-    "totalEggsHatched": 70,
-    "totalEvolvedCount": 10,
-    "totalBattleVictoryCount": 80,
+    "totalEggsHatched": 76,
+    "totalEvolvedCount": 11,
+    "totalBattleVictoryCount": 90,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 77,
-    "totalPvNBattleVictoryCount": 3,
+    "totalPvWBattleVictoryCount": 86,
+    "totalPvNBattleVictoryCount": 4,
     "totalShinyCaptureCount": 0,
-    "totalTradedCount": 4,
+    "totalTradedCount": 5,
     "totalTypeCaptureCounts": {
       "normal": 5,
-      "bug": 1,
+      "bug": 2,
       "poison": 1,
       "fairy": 2,
-      "steel": 1,
+      "steel": 3,
       "psychic": 1,
       "dark": 1,
-      "rock": 1,
-      "electric": 1
+      "rock": 2,
+      "electric": 2,
+      "flying": 1
     },
     "totalDefeatedCounts": {
       "cobblemon:poliwhirl": 1,
@@ -41,7 +42,7 @@
       "cobblemon:butterfree": 1,
       "cobblemon:wooloo": 1,
       "cobblemon:mareep": 2,
-      "cobblemon:medicham": 9,
+      "cobblemon:medicham": 11,
       "cobblemon:maractus": 1,
       "cobblemon:cacnea": 1,
       "cobblemon:skitty": 1,
@@ -69,7 +70,11 @@
       "cobblemon:claydol": 1,
       "cobblemon:swoobat": 1,
       "cobblemon:galvantula": 1,
-      "cobblemon:mareanie": 1
+      "cobblemon:mareanie": 1,
+      "cobblemon:toxicroak": 1,
+      "cobblemon:crabrawler": 1,
+      "cobblemon:azurill": 1,
+      "cobblemon:munna": 1
     },
     "aspectsCollected": {
       "cobblemon:ditto": [
@@ -145,6 +150,19 @@
       "cobblemon:sinistcha": [
         "genderless",
         "unremarkable"
+      ],
+      "cobblemon:escavalier": [
+        "male"
+      ],
+      "cobblemon:zapdos": [
+        "genderless",
+        "legendary"
+      ],
+      "cobblemon:salamence": [
+        "female"
+      ],
+      "cobblemon:aron": [
+        "female"
       ]
     }
   }

@@ -9,6 +9,7 @@
     "criteria": {
       "minecraft:cold_ocean": "2026-02-27 20:50:26 +0100",
       "minecraft:old_growth_pine_taiga": "2026-03-07 20:48:54 +0100",
+      "minecraft:mushroom_fields": "2026-03-22 16:26:54 +0100",
       "minecraft:forest": "2026-03-01 19:31:36 +0100",
       "minecraft:taiga": "2026-02-27 20:50:39 +0100",
       "minecraft:deep_ocean": "2026-03-06 20:02:22 +0100",
@@ -37,6 +38,7 @@
       "minecraft:old_growth_birch_forest": "2026-02-27 20:41:40 +0100",
       "minecraft:deep_dark": "2026-03-19 19:54:00 +0100",
       "minecraft:grove": "2026-02-27 21:14:43 +0100",
+      "minecraft:meadow": "2026-03-22 16:56:35 +0100",
       "minecraft:savanna": "2026-03-08 20:52:17 +0100",
       "minecraft:plains": "2026-03-01 19:41:33 +0100",
       "minecraft:jagged_peaks": "2026-02-27 21:20:51 +0100"
@@ -766,6 +768,7 @@
   "cobblemon:obtain_all_berries": {
     "criteria": {
       "obtain_persim_berry": "2026-02-27 20:44:36 +0100",
+      "obtain_shuca_berry": "2026-03-22 15:52:45 +0100",
       "obtain_cheri_berry": "2026-03-20 17:35:07 +0100",
       "obtain_grepa_berry": "2026-03-06 20:21:44 +0100",
       "obtain_pinap_berry": "2026-03-19 20:46:52 +0100",
@@ -1241,10 +1244,11 @@
       "slate_ball": "2026-03-06 20:12:26 +0100",
       "poke_ball": "2026-02-27 20:39:24 +0100",
       "premier_ball": "2026-03-06 20:27:46 +0100",
+      "azure_ball": "2026-03-22 15:52:45 +0100",
       "citrine_ball": "2026-03-06 20:12:32 +0100",
       "verdant_ball": "2026-03-07 20:23:08 +0100"
     },
-    "done": false
+    "done": true
   },
   "handcrafted:recipes/misc/light_blue_cushion": {
     "criteria": {
@@ -8187,27 +8191,28 @@
       "luxury_ball": "2026-03-07 20:24:28 +0100",
       "nest_ball": "2026-03-06 20:12:35 +0100",
       "great_ball": "2026-03-06 20:18:36 +0100",
+      "moon_ball": "2026-03-06 20:12:28 +0100",
+      "azure_ball": "2026-03-22 15:52:45 +0100",
+      "love_ball": "2026-03-07 20:24:39 +0100",
+      "net_ball": "2026-03-07 20:23:07 +0100",
+      "ancient_citrine_ball": "2026-03-19 20:51:21 +0100",
+      "level_ball": "2026-03-06 20:08:13 +0100",
+      "sport_ball": "2026-03-06 20:23:34 +0100",
+      "safari_ball": "2026-03-06 20:08:13 +0100",
+      "verdant_ball": "2026-03-07 20:23:08 +0100",
+      "ultra_ball": "2026-03-06 21:06:24 +0100",
       "slate_ball": "2026-03-06 20:12:26 +0100",
       "ancient_verdant_ball": "2026-03-06 20:07:54 +0100",
       "ancient_feather_ball": "2026-03-06 20:24:37 +0100",
-      "moon_ball": "2026-03-06 20:12:28 +0100",
       "poke_ball": "2026-02-27 20:39:24 +0100",
-      "love_ball": "2026-03-07 20:24:39 +0100",
       "citrine_ball": "2026-03-06 20:12:32 +0100",
       "ancient_azure_ball": "2026-03-07 20:24:56 +0100",
-      "net_ball": "2026-03-07 20:23:07 +0100",
       "ancient_ivory_ball": "2026-03-06 20:12:24 +0100",
       "roseate_ball": "2026-03-07 20:24:30 +0100",
       "lure_ball": "2026-03-07 20:24:39 +0100",
-      "ancient_citrine_ball": "2026-03-19 20:51:21 +0100",
-      "level_ball": "2026-03-06 20:08:13 +0100",
       "friend_ball": "2026-03-06 20:26:45 +0100",
-      "sport_ball": "2026-03-06 20:23:34 +0100",
-      "safari_ball": "2026-03-06 20:08:13 +0100",
       "premier_ball": "2026-03-06 20:27:46 +0100",
-      "park_ball": "2026-03-06 20:10:08 +0100",
-      "verdant_ball": "2026-03-07 20:23:08 +0100",
-      "ultra_ball": "2026-03-06 21:06:24 +0100"
+      "park_ball": "2026-03-06 20:10:08 +0100"
     },
     "done": false
   },
@@ -24615,6 +24620,7 @@
   },
   "cobblemon:brew_all": {
     "criteria": {
+      "obtain_full_heal": "2026-03-22 15:52:46 +0100",
       "obtain_ice_heal": "2026-02-27 21:22:57 +0100",
       "obtain_burn_heal": "2026-02-27 21:24:43 +0100",
       "obtain_potion": "2026-03-06 20:14:11 +0100",
@@ -25355,6 +25361,36 @@
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2026-03-20 18:11:35 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:use_pasture": {
+    "criteria": {
+      "use_pasture": "2026-03-22 14:15:42 +0100"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2026-03-22 14:25:29 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:first_shiny_catch": {
+    "criteria": {
+      "catch": "2026-03-22 14:34:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2026-03-22 16:49:36 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:obtain_fossil": {
+    "criteria": {
+      "check_inv": "2026-03-22 16:55:28 +0100"
     },
     "done": true
   },

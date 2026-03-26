@@ -20,6 +20,7 @@
       "minecraft:cherry_grove": "2026-03-19 21:28:25 +0100",
       "minecraft:sunflower_plains": "2026-03-20 12:30:30 +0100",
       "minecraft:birch_forest": "2026-03-19 19:51:38 +0100",
+      "minecraft:windswept_hills": "2026-03-22 14:38:03 +0100",
       "minecraft:bamboo_jungle": "2026-03-19 21:17:02 +0100",
       "minecraft:windswept_savanna": "2026-03-19 21:06:36 +0100",
       "minecraft:deep_lukewarm_ocean": "2026-03-19 21:13:39 +0100",
@@ -32,6 +33,7 @@
       "minecraft:lukewarm_ocean": "2026-03-19 21:11:31 +0100",
       "minecraft:stony_shore": "2026-03-19 19:45:50 +0100",
       "minecraft:old_growth_birch_forest": "2026-03-19 19:51:11 +0100",
+      "minecraft:windswept_gravelly_hills": "2026-03-22 14:37:55 +0100",
       "minecraft:savanna": "2026-03-19 21:09:52 +0100",
       "minecraft:plains": "2026-03-19 21:06:30 +0100"
     },
@@ -111,7 +113,8 @@
   },
   "cobblemon:obtain_all_berries": {
     "criteria": {
-      "obtain_oran_berry": "2026-03-19 19:45:00 +0100"
+      "obtain_oran_berry": "2026-03-19 19:45:00 +0100",
+      "obtain_chesto_berry": "2026-03-22 14:25:09 +0100"
     },
     "done": false
   },
@@ -612,6 +615,7 @@
       "dive_ball": "2026-03-19 20:11:26 +0100",
       "ancient_slate_ball": "2026-03-20 14:11:20 +0100",
       "level_ball": "2026-03-20 14:13:50 +0100",
+      "sport_ball": "2026-03-22 14:32:16 +0100",
       "safari_ball": "2026-03-21 13:03:47 +0100",
       "dream_ball": "2026-03-19 20:51:40 +0100",
       "verdant_ball": "2026-03-20 14:11:21 +0100",
@@ -25422,6 +25426,7 @@
     "criteria": {
       "minecraft:skeleton": "2026-03-21 12:26:47 +0100",
       "minecraft:silverfish": "2026-03-19 20:14:53 +0100",
+      "minecraft:spider": "2026-03-22 14:23:20 +0100",
       "minecraft:zombie": "2026-03-20 18:19:34 +0100",
       "minecraft:creeper": "2026-03-20 17:43:53 +0100"
     },
@@ -25647,6 +25652,30 @@
   "minecraft:adventure/trade": {
     "criteria": {
       "traded": "2026-03-21 13:56:47 +0100"
+    },
+    "done": true
+  },
+  "vanillabackport:recipes/combat/saddle": {
+    "criteria": {
+      "has_leather": "2026-03-22 13:41:44 +0100"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/battery_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2026-03-22 13:48:36 +0100"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/pump_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2026-03-22 13:48:36 +0100"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/tank_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2026-03-22 13:48:36 +0100"
     },
     "done": true
   },

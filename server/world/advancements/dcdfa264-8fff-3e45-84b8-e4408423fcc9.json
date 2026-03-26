@@ -13,14 +13,18 @@
       "minecraft:forest": "2026-03-06 20:59:09 +0100",
       "minecraft:taiga": "2026-03-07 19:51:42 +0100",
       "minecraft:deep_ocean": "2026-03-06 20:02:23 +0100",
+      "minecraft:deep_cold_ocean": "2026-03-22 15:45:24 +0100",
+      "minecraft:frozen_ocean": "2026-03-22 16:20:26 +0100",
       "minecraft:frozen_river": "2026-03-07 20:58:03 +0100",
       "minecraft:windswept_forest": "2026-03-06 20:03:28 +0100",
+      "minecraft:deep_frozen_ocean": "2026-03-22 16:20:47 +0100",
       "minecraft:ocean": "2026-03-06 19:58:29 +0100",
       "minecraft:jungle": "2026-03-07 19:24:29 +0100",
       "minecraft:cherry_grove": "2026-03-07 19:11:36 +0100",
       "minecraft:sunflower_plains": "2026-03-07 19:17:11 +0100",
       "minecraft:birch_forest": "2026-03-07 20:33:52 +0100",
       "minecraft:old_growth_spruce_taiga": "2026-03-06 20:57:42 +0100",
+      "minecraft:snowy_beach": "2026-03-22 16:20:25 +0100",
       "minecraft:bamboo_jungle": "2026-03-07 19:24:58 +0100",
       "minecraft:windswept_savanna": "2026-03-21 16:44:28 +0100",
       "minecraft:deep_lukewarm_ocean": "2026-03-07 20:35:25 +0100",
@@ -35,6 +39,7 @@
       "minecraft:stony_shore": "2026-03-07 20:16:13 +0100",
       "minecraft:snowy_plains": "2026-03-08 19:15:53 +0100",
       "minecraft:dripstone_caves": "2026-03-06 20:54:55 +0100",
+      "minecraft:snowy_taiga": "2026-03-22 16:23:00 +0100",
       "minecraft:frozen_peaks": "2026-03-08 20:40:07 +0100",
       "minecraft:old_growth_birch_forest": "2026-03-06 19:19:57 +0100",
       "minecraft:grove": "2026-03-07 19:23:27 +0100",
@@ -557,18 +562,25 @@
   },
   "cobblemon:obtain_all_berries": {
     "criteria": {
-      "obtain_babiri_berry": "2026-03-19 19:28:26 +0100",
-      "obtain_shuca_berry": "2026-03-07 21:07:30 +0100",
       "obtain_apicot_berry": "2026-03-18 19:31:25 +0100",
-      "obtain_cheri_berry": "2026-03-20 12:29:15 +0100",
-      "obtain_grepa_berry": "2026-03-18 17:14:56 +0100",
       "obtain_pinap_berry": "2026-03-18 22:55:14 +0100",
       "obtain_oran_berry": "2026-03-06 19:18:18 +0100",
+      "obtain_haban_berry": "2026-03-22 15:26:30 +0100",
       "obtain_touga_berry": "2026-03-07 21:07:41 +0100",
-      "obtain_colbur_berry": "2026-03-06 20:28:55 +0100",
       "obtain_payapa_berry": "2026-03-18 19:31:19 +0100",
+      "obtain_charti_berry": "2026-03-22 15:14:03 +0100",
+      "obtain_iapapa_berry": "2026-03-22 15:18:25 +0100",
+      "obtain_babiri_berry": "2026-03-19 19:28:26 +0100",
+      "obtain_shuca_berry": "2026-03-07 21:07:30 +0100",
+      "obtain_cheri_berry": "2026-03-20 12:29:15 +0100",
+      "obtain_grepa_berry": "2026-03-18 17:14:56 +0100",
+      "obtain_rawst_berry": "2026-03-22 15:56:55 +0100",
+      "obtain_colbur_berry": "2026-03-06 20:28:55 +0100",
+      "obtain_wacan_berry": "2026-03-22 15:55:54 +0100",
+      "obtain_kebia_berry": "2026-03-22 15:18:09 +0100",
       "obtain_enigma_berry": "2026-03-13 23:15:45 +0100",
-      "obtain_chesto_berry": "2026-03-07 21:07:31 +0100"
+      "obtain_chesto_berry": "2026-03-07 21:07:31 +0100",
+      "obtain_razz_berry": "2026-03-22 15:14:02 +0100"
     },
     "done": false
   },
@@ -25215,7 +25227,9 @@
       "minecraft:pillager": "2026-03-08 19:16:15 +0100",
       "minecraft:skeleton": "2026-03-06 19:50:07 +0100",
       "minecraft:phantom": "2026-03-07 21:34:23 +0100",
+      "minecraft:vindicator": "2026-03-22 16:56:10 +0100",
       "minecraft:spider": "2026-03-06 20:47:04 +0100",
+      "minecraft:vex": "2026-03-22 16:56:08 +0100",
       "minecraft:zombie": "2026-03-06 19:22:35 +0100",
       "minecraft:creeper": "2026-03-19 19:57:22 +0100",
       "minecraft:drowned": "2026-03-07 21:33:27 +0100",
@@ -25788,6 +25802,18 @@
   "sophisticatedstorage:recipes/misc/iron_barrel": {
     "criteria": {
       "has_barrel": "2026-03-21 13:17:54 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:obtain_leek": {
+    "criteria": {
+      "check_inv": "2026-03-22 15:18:40 +0100"
+    },
+    "done": true
+  },
+  "cobbleverse:trainer/kanto/defeat_erika": {
+    "criteria": {
+      "leader_defeated": "2026-03-22 15:42:02 +0100"
     },
     "done": true
   },
