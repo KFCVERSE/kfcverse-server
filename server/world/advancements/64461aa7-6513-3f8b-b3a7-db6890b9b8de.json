@@ -25101,18 +25101,18 @@
     },
     "done": true
   },
-  "cobblemon:recipes/misc/relic_coin_pouch": {
-    "criteria": {
-      "has_coin": "2026-03-21 17:57:59 +0100"
-    },
-    "done": true
-  },
   "cobblemon:craft_apricorn_balls": {
     "criteria": {
       "lure_ball": "2026-03-21 17:58:40 +0100",
       "moon_ball": "2026-03-21 17:57:50 +0100"
     },
     "done": false
+  },
+  "cobblemon:recipes/misc/relic_coin_pouch": {
+    "criteria": {
+      "has_coin": "2026-03-21 17:57:59 +0100"
+    },
+    "done": true
   },
   "DataVersion": 3955
 }
