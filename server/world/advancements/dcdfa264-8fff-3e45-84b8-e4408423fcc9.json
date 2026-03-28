@@ -5441,6 +5441,7 @@
       "level_ball": "2026-03-06 20:12:10 +0100",
       "ancient_slate_ball": "2026-03-18 16:32:08 +0100",
       "sport_ball": "2026-03-06 20:13:32 +0100",
+      "ancient_ultra_ball": "2026-03-27 17:28:23 +0100",
       "safari_ball": "2026-03-06 20:10:54 +0100",
       "heavy_ball": "2026-03-07 18:59:03 +0100",
       "dream_ball": "2026-03-06 20:13:33 +0100",
@@ -5459,7 +5460,8 @@
       "friend_ball": "2026-03-18 16:30:56 +0100",
       "ancient_roseate_ball": "2026-03-06 20:11:33 +0100",
       "park_ball": "2026-03-06 20:12:26 +0100",
-      "premier_ball": "2026-03-06 20:28:14 +0100"
+      "premier_ball": "2026-03-06 20:28:14 +0100",
+      "master_ball": "2026-03-27 17:33:29 +0100"
     },
     "done": false
   },
@@ -25314,6 +25316,7 @@
       "ancient_feather_ball": "2026-03-06 20:12:23 +0100",
       "ancient_roseate_ball": "2026-03-06 20:11:33 +0100",
       "ancient_poke_ball": "2026-03-06 20:14:54 +0100",
+      "ancient_ultra_ball": "2026-03-27 17:28:23 +0100",
       "ancient_azure_ball": "2026-03-06 20:08:11 +0100",
       "ancient_jet_ball": "2026-03-06 20:12:08 +0100"
     },
@@ -25428,7 +25431,8 @@
       "obtain_full_restore": "2026-03-13 23:27:46 +0100",
       "obtain_elixir": "2026-03-18 19:31:25 +0100",
       "obtain_hyper_potion": "2026-03-18 16:32:43 +0100",
-      "obtain_super_potion": "2026-03-21 13:18:08 +0100"
+      "obtain_super_potion": "2026-03-21 13:18:08 +0100",
+      "obtain_ether": "2026-03-27 17:41:22 +0100"
     },
     "done": false
   },
@@ -25814,6 +25818,12 @@
   "cobbleverse:trainer/kanto/defeat_erika": {
     "criteria": {
       "leader_defeated": "2026-03-22 15:42:02 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:craft_master_rod": {
+    "criteria": {
+      "craft_rod": "2026-03-27 18:22:33 +0100"
     },
     "done": true
   },

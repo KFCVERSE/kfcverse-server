@@ -32,6 +32,7 @@
       "minecraft:dripstone_caves": "2026-03-06 20:03:25 +0100",
       "minecraft:frozen_peaks": "2026-02-22 21:01:08 +0100",
       "minecraft:old_growth_birch_forest": "2026-02-18 19:52:42 +0100",
+      "minecraft:deep_dark": "2026-03-27 17:52:03 +0100",
       "minecraft:grove": "2026-02-18 20:02:48 +0100",
       "minecraft:meadow": "2026-03-21 17:54:51 +0100",
       "minecraft:savanna": "2026-02-27 22:05:10 +0100",
@@ -428,6 +429,7 @@
   },
   "cobblemon:craft_all_balls": {
     "criteria": {
+      "dive_ball": "2026-03-27 16:41:54 +0100",
       "roseate_ball": "2026-03-06 19:37:58 +0100",
       "lure_ball": "2026-03-21 17:58:40 +0100",
       "quick_ball": "2026-03-20 13:00:22 +0100",
@@ -24589,6 +24591,7 @@
       "minecraft:witch": "2026-03-07 20:40:39 +0100",
       "minecraft:spider": "2026-02-27 22:23:43 +0100",
       "minecraft:zombie": "2026-02-22 21:04:07 +0100",
+      "minecraft:creeper": "2026-03-27 17:26:31 +0100",
       "minecraft:drowned": "2026-03-18 17:09:36 +0100",
       "minecraft:zombie_villager": "2026-03-21 18:01:29 +0100",
       "minecraft:ghast": "2026-03-19 19:25:41 +0100"
@@ -25125,6 +25128,18 @@
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2026-03-26 20:09:13 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:use_pasture": {
+    "criteria": {
+      "use_pasture": "2026-03-27 16:56:36 +0100"
+    },
+    "done": true
+  },
+  "lockandblock:recipes/redstone/redstone_laser": {
+    "criteria": {
+      "has_item": "2026-03-27 17:52:24 +0100"
     },
     "done": true
   },

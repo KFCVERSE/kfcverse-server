@@ -8,40 +8,51 @@
   "battleTheme": "cobblemon:battle.pvp.default",
   "extraData": {},
   "advancementData": {
-    "totalCaptureCount": 22,
+    "totalCaptureCount": 32,
     "totalEggsCollected": 0,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 3,
-    "totalBattleVictoryCount": 34,
+    "totalBattleVictoryCount": 55,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 31,
+    "totalPvWBattleVictoryCount": 52,
     "totalPvNBattleVictoryCount": 3,
     "totalShinyCaptureCount": 1,
     "totalTradedCount": 0,
     "totalTypeCaptureCounts": {
-      "electric": 4,
+      "electric": 5,
       "psychic": 2,
-      "normal": 7,
-      "poison": 2,
+      "normal": 10,
+      "poison": 3,
       "ground": 1,
-      "water": 3,
+      "water": 5,
       "flying": 4,
       "bug": 2,
-      "fire": 1,
-      "steel": 1,
-      "rock": 1
+      "fire": 2,
+      "steel": 2,
+      "rock": 1,
+      "ice": 2
     },
     "totalDefeatedCounts": {
       "cobblemon:elekid": 1,
       "cobblemon:purrloin": 1,
       "cobblemon:shuppet": 1,
-      "cobblemon:tauros": 1,
+      "cobblemon:tauros": 2,
       "cobblemon:staravia": 1,
       "cobblemon:hoppip": 1,
       "cobblemon:meowth": 1,
       "cobblemon:goldeen": 1,
       "cobblemon:krabby": 1,
-      "cobblemon:nidoranm": 1
+      "cobblemon:nidoranm": 1,
+      "cobblemon:bouffalant": 1,
+      "cobblemon:exeggcute": 1,
+      "cobblemon:fearow": 1,
+      "cobblemon:oddish": 1,
+      "cobblemon:spiritomb": 1,
+      "cobblemon:voltorb": 1,
+      "cobblemon:sinistea": 1,
+      "cobblemon:varoom": 1,
+      "cobblemon:smeargle": 1,
+      "cobblemon:braviary": 1
     },
     "aspectsCollected": {
       "cobblemon:voltorb": [
@@ -124,6 +135,39 @@
       ],
       "cobblemon:bouffalant": [
         "female"
+      ],
+      "cobblemon:pikachu": [
+        "male"
+      ],
+      "cobblemon:heatmor": [
+        "female"
+      ],
+      "cobblemon:eevee": [
+        "male"
+      ],
+      "cobblemon:tauros": [
+        "male",
+        "combat-breed"
+      ],
+      "cobblemon:krabby": [
+        "female"
+      ],
+      "cobblemon:kingler": [
+        "male"
+      ],
+      "cobblemon:nidoranm": [
+        "male"
+      ],
+      "cobblemon:furfrou": [
+        "female",
+        "natural-trim"
+      ],
+      "cobblemon:avalugg": [
+        "male"
+      ],
+      "cobblemon:sandslash": [
+        "female",
+        "alolan"
       ]
     }
   }

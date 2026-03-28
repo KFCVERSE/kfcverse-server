@@ -1381,11 +1381,15 @@
       "obtain_pinap_berry": "2026-03-20 18:14:58 +0100",
       "obtain_oran_berry": "2026-03-06 17:28:16 +0100",
       "obtain_starf_berry": "2026-03-19 22:28:13 +0100",
+      "obtain_iapapa_berry": "2026-03-27 18:08:32 +0100",
+      "obtain_micle_berry": "2026-03-27 17:27:58 +0100",
       "obtain_babiri_berry": "2026-03-19 22:28:12 +0100",
       "obtain_persim_berry": "2026-03-06 18:55:00 +0100",
       "obtain_shuca_berry": "2026-03-07 19:05:59 +0100",
       "obtain_cheri_berry": "2026-03-07 16:58:16 +0100",
+      "obtain_occa_berry": "2026-03-27 18:06:34 +0100",
       "obtain_ganlon_berry": "2026-03-13 23:03:26 +0100",
+      "obtain_colbur_berry": "2026-03-27 17:27:55 +0100",
       "obtain_wacan_berry": "2026-03-19 22:27:34 +0100",
       "obtain_aspear_berry": "2026-03-07 22:54:41 +0100",
       "obtain_chesto_berry": "2026-03-13 23:45:32 +0100",
@@ -10556,6 +10560,7 @@
       "nest_ball": "2026-03-08 21:20:08 +0100",
       "timer_ball": "2026-03-07 22:45:54 +0100",
       "slate_ball": "2026-03-06 20:04:33 +0100",
+      "ancient_verdant_ball": "2026-03-27 18:08:32 +0100",
       "moon_ball": "2026-03-07 23:38:09 +0100",
       "poke_ball": "2026-03-06 17:28:16 +0100",
       "azure_ball": "2026-03-07 15:57:00 +0100",
@@ -10569,6 +10574,7 @@
       "ancient_ultra_ball": "2026-03-13 19:23:25 +0100",
       "safari_ball": "2026-03-18 23:11:51 +0100",
       "premier_ball": "2026-03-06 20:04:49 +0100",
+      "park_ball": "2026-03-27 18:08:31 +0100",
       "heavy_ball": "2026-03-07 22:43:49 +0100",
       "verdant_ball": "2026-03-07 18:22:51 +0100",
       "fast_ball": "2026-03-19 22:28:13 +0100"
@@ -25398,6 +25404,7 @@
     "criteria": {
       "obtain_full_heal": "2026-03-08 20:28:43 +0100",
       "obtain_ice_heal": "2026-03-13 23:22:44 +0100",
+      "obtain_burn_heal": "2026-03-28 00:07:56 +0100",
       "obtain_potion": "2026-03-13 22:59:31 +0100",
       "obtain_max_ether": "2026-03-08 21:18:14 +0100",
       "obtain_awakening": "2026-03-06 20:05:05 +0100",
@@ -25655,6 +25662,7 @@
   },
   "cobblemon:craft_ancient_balls": {
     "criteria": {
+      "ancient_verdant_ball": "2026-03-27 18:08:32 +0100",
       "ancient_ultra_ball": "2026-03-13 19:23:25 +0100"
     },
     "done": false
@@ -25804,6 +25812,30 @@
   "minecraft:story/enchant_item": {
     "criteria": {
       "enchanted_item": "2026-03-20 17:23:59 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:craft_rod": {
+    "criteria": {
+      "craft_rod": "2026-03-27 16:48:51 +0100"
+    },
+    "done": true
+  },
+  "cobblemonraiddens:tier_one": {
+    "criteria": {
+      "completed_tier_one": "2026-03-27 23:59:01 +0100"
+    },
+    "done": true
+  },
+  "cobblemonraiddens:join_raid": {
+    "criteria": {
+      "joined_raid": "2026-03-27 23:57:59 +0100"
+    },
+    "done": true
+  },
+  "cobblemonraiddens:raid_tera": {
+    "criteria": {
+      "completed_tera": "2026-03-27 23:59:01 +0100"
     },
     "done": true
   },

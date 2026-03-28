@@ -9,14 +9,14 @@
   "extraData": {},
   "advancementData": {
     "totalCaptureCount": 19,
-    "totalEggsCollected": 4,
-    "totalEggsHatched": 60,
-    "totalEvolvedCount": 7,
-    "totalBattleVictoryCount": 35,
+    "totalEggsCollected": 13,
+    "totalEggsHatched": 104,
+    "totalEvolvedCount": 9,
+    "totalBattleVictoryCount": 37,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 31,
-    "totalPvNBattleVictoryCount": 4,
-    "totalShinyCaptureCount": 2,
+    "totalPvWBattleVictoryCount": 32,
+    "totalPvNBattleVictoryCount": 5,
+    "totalShinyCaptureCount": 3,
     "totalTradedCount": 6,
     "totalTypeCaptureCounts": {
       "fairy": 1,
@@ -46,7 +46,8 @@
       "cobblemon:buneary": 1,
       "cobblemon:spritzee": 1,
       "cobblemon:mankey": 1,
-      "cobblemon:minior": 1
+      "cobblemon:minior": 1,
+      "cobblemon:gimmighoul": 1
     },
     "aspectsCollected": {
       "cobblemon:togepi": [
@@ -141,6 +142,12 @@
       "cobblemon:typhlosion": [
         "male",
         "hisuian"
+      ],
+      "cobblemon:blastoise": [
+        "male"
+      ],
+      "cobblemon:charizard": [
+        "male"
       ]
     }
   }

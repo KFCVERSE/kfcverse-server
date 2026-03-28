@@ -9,12 +9,12 @@
   "extraData": {},
   "advancementData": {
     "totalCaptureCount": 50,
-    "totalEggsCollected": 58,
-    "totalEggsHatched": 168,
+    "totalEggsCollected": 69,
+    "totalEggsHatched": 218,
     "totalEvolvedCount": 16,
-    "totalBattleVictoryCount": 62,
+    "totalBattleVictoryCount": 63,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 56,
+    "totalPvWBattleVictoryCount": 57,
     "totalPvNBattleVictoryCount": 6,
     "totalShinyCaptureCount": 5,
     "totalTradedCount": 4,
@@ -41,7 +41,8 @@
       "cobblemon:oricorio": 1,
       "cobblemon:elekid": 1,
       "cobblemon:cyndaquil": 1,
-      "cobblemon:voltorb": 1
+      "cobblemon:voltorb": 1,
+      "cobblemon:lillipup": 1
     },
     "aspectsCollected": {
       "cobblemon:hatenna": [
