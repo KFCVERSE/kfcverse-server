@@ -8,7 +8,7 @@
   "battleTheme": "cobblemon:battle.pvp.default",
   "extraData": {},
   "advancementData": {
-    "totalCaptureCount": 50,
+    "totalCaptureCount": 51,
     "totalEggsCollected": 69,
     "totalEggsHatched": 218,
     "totalEvolvedCount": 16,
@@ -16,16 +16,16 @@
     "totalPvPBattleVictoryCount": 0,
     "totalPvWBattleVictoryCount": 57,
     "totalPvNBattleVictoryCount": 6,
-    "totalShinyCaptureCount": 5,
+    "totalShinyCaptureCount": 6,
     "totalTradedCount": 4,
     "totalTypeCaptureCounts": {
       "psychic": 2,
       "ground": 3,
       "steel": 4,
       "poison": 1,
-      "flying": 6,
+      "flying": 7,
       "rock": 4,
-      "dragon": 2,
+      "dragon": 3,
       "ghost": 5,
       "fairy": 4,
       "normal": 18,
@@ -206,6 +206,10 @@
       ],
       "cobblemon:scorbunny": [
         "male"
+      ],
+      "cobblemon:rayquaza": [
+        "shiny",
+        "genderless"
       ]
     }
   }
