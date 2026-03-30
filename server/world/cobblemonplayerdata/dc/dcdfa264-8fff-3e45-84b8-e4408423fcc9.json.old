@@ -9,9 +9,9 @@
   "extraData": {},
   "advancementData": {
     "totalCaptureCount": 51,
-    "totalEggsCollected": 69,
-    "totalEggsHatched": 218,
-    "totalEvolvedCount": 16,
+    "totalEggsCollected": 72,
+    "totalEggsHatched": 224,
+    "totalEvolvedCount": 18,
     "totalBattleVictoryCount": 63,
     "totalPvPBattleVictoryCount": 0,
     "totalPvWBattleVictoryCount": 57,
@@ -210,6 +210,13 @@
       "cobblemon:rayquaza": [
         "shiny",
         "genderless"
+      ],
+      "cobblemon:togekiss": [
+        "male"
+      ],
+      "cobblemon:gholdengo": [
+        "genderless",
+        "netherite-coating-none"
       ]
     }
   }

@@ -15,12 +15,18 @@
       "minecraft:deep_ocean": "2026-02-27 21:54:18 +0100",
       "minecraft:lush_caves": "2026-02-18 20:26:23 +0100",
       "minecraft:deep_cold_ocean": "2026-03-20 12:58:18 +0100",
+      "minecraft:ice_spikes": "2026-03-29 20:37:54 +0200",
+      "minecraft:frozen_ocean": "2026-03-29 20:21:05 +0200",
+      "minecraft:desert": "2026-03-29 20:37:02 +0200",
+      "minecraft:frozen_river": "2026-03-29 20:21:03 +0200",
       "minecraft:windswept_forest": "2026-03-20 12:49:05 +0100",
       "minecraft:ocean": "2026-02-18 20:24:02 +0100",
       "minecraft:sunflower_plains": "2026-02-27 22:21:20 +0100",
       "minecraft:cherry_grove": "2026-03-20 12:49:02 +0100",
       "minecraft:birch_forest": "2026-03-20 14:32:19 +0100",
       "minecraft:old_growth_spruce_taiga": "2026-02-18 19:58:01 +0100",
+      "minecraft:snowy_beach": "2026-03-29 20:22:58 +0200",
+      "minecraft:wooded_badlands": "2026-03-29 20:20:39 +0200",
       "minecraft:deep_lukewarm_ocean": "2026-03-20 14:33:27 +0100",
       "minecraft:flower_forest": "2026-03-20 13:13:21 +0100",
       "minecraft:savanna_plateau": "2026-02-27 22:08:16 +0100",
@@ -29,7 +35,9 @@
       "minecraft:river": "2026-02-18 20:22:05 +0100",
       "minecraft:lukewarm_ocean": "2026-02-27 22:09:01 +0100",
       "minecraft:stony_shore": "2026-02-18 19:53:05 +0100",
+      "minecraft:snowy_plains": "2026-03-29 20:23:02 +0200",
       "minecraft:dripstone_caves": "2026-03-06 20:03:25 +0100",
+      "minecraft:snowy_taiga": "2026-03-29 20:25:31 +0200",
       "minecraft:frozen_peaks": "2026-02-22 21:01:08 +0100",
       "minecraft:old_growth_birch_forest": "2026-02-18 19:52:42 +0100",
       "minecraft:deep_dark": "2026-03-27 17:52:03 +0100",
@@ -91,30 +99,33 @@
   },
   "cobblemon:obtain_all_berries": {
     "criteria": {
-      "obtain_babiri_berry": "2026-03-26 20:01:31 +0100",
-      "obtain_passho_berry": "2026-03-06 21:44:39 +0100",
       "obtain_lum_berry": "2026-03-06 21:10:50 +0100",
-      "obtain_cheri_berry": "2026-03-06 18:44:06 +0100",
       "obtain_pinap_berry": "2026-03-29 19:35:08 +0200",
       "obtain_oran_berry": "2026-02-18 19:51:47 +0100",
+      "obtain_payapa_berry": "2026-03-29 19:45:39 +0200",
+      "obtain_babiri_berry": "2026-03-26 20:01:31 +0100",
+      "obtain_passho_berry": "2026-03-06 21:44:39 +0100",
+      "obtain_cheri_berry": "2026-03-06 18:44:06 +0100",
       "obtain_wiki_berry": "2026-03-19 20:56:03 +0100",
       "obtain_rawst_berry": "2026-03-20 14:36:31 +0100",
       "obtain_wacan_berry": "2026-03-18 17:46:07 +0100",
       "obtain_chesto_berry": "2026-03-06 20:00:56 +0100",
-      "obtain_kasib_berry": "2026-03-26 20:01:25 +0100"
+      "obtain_kasib_berry": "2026-03-26 20:01:25 +0100",
+      "obtain_razz_berry": "2026-03-29 19:46:05 +0200"
     },
     "done": false
   },
   "cobblemon:craft_base_balls": {
     "criteria": {
       "roseate_ball": "2026-03-06 19:37:58 +0100",
+      "slate_ball": "2026-03-30 13:51:03 +0200",
       "poke_ball": "2026-02-18 19:51:47 +0100",
       "premier_ball": "2026-03-20 17:10:27 +0100",
       "azure_ball": "2026-02-18 20:38:18 +0100",
       "verdant_ball": "2026-03-07 20:44:09 +0100",
       "citrine_ball": "2026-03-20 17:09:58 +0100"
     },
-    "done": false
+    "done": true
   },
   "tmcraft:recipes/misc/tm_hiddenpower": {
     "criteria": {
@@ -430,8 +441,12 @@
   },
   "cobblemon:craft_all_balls": {
     "criteria": {
+      "heal_ball": "2026-03-29 19:46:07 +0200",
       "nest_ball": "2026-03-29 19:29:12 +0200",
       "quick_ball": "2026-03-20 13:00:22 +0100",
+      "timer_ball": "2026-03-30 13:51:02 +0200",
+      "slate_ball": "2026-03-30 13:51:03 +0200",
+      "ancient_feather_ball": "2026-03-30 13:50:57 +0200",
       "ancient_poke_ball": "2026-03-20 13:00:12 +0100",
       "moon_ball": "2026-03-21 17:57:50 +0100",
       "poke_ball": "2026-02-18 19:51:47 +0100",
@@ -443,7 +458,8 @@
       "safari_ball": "2026-03-21 17:58:10 +0100",
       "premier_ball": "2026-03-20 17:10:27 +0100",
       "heavy_ball": "2026-03-29 19:27:57 +0200",
-      "verdant_ball": "2026-03-07 20:44:09 +0100"
+      "verdant_ball": "2026-03-07 20:44:09 +0100",
+      "dream_ball": "2026-03-30 13:48:03 +0200"
     },
     "done": false
   },
@@ -25021,6 +25037,7 @@
   },
   "cobblemon:craft_ancient_balls": {
     "criteria": {
+      "ancient_feather_ball": "2026-03-30 13:50:57 +0200",
       "ancient_poke_ball": "2026-03-20 13:00:12 +0100"
     },
     "done": false
@@ -25150,6 +25167,30 @@
   "minecraft:story/lava_bucket": {
     "criteria": {
       "lava_bucket": "2026-03-29 19:37:41 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2026-03-29 19:43:51 +0200"
+    },
+    "done": true
+  },
+  "gravestones:recipes/decorations/gravestone_damaged": {
+    "criteria": {
+      "has_stone_slab": "2026-03-29 20:32:14 +0200"
+    },
+    "done": true
+  },
+  "gravestones:recipes/decorations/gravestone_chipped": {
+    "criteria": {
+      "has_stone_slab": "2026-03-29 20:32:14 +0200"
+    },
+    "done": true
+  },
+  "gravestones:recipes/decorations/gravestone": {
+    "criteria": {
+      "has_stone_slab": "2026-03-29 20:32:14 +0200"
     },
     "done": true
   },

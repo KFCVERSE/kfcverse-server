@@ -39,6 +39,7 @@
       "minecraft:river": "2026-02-18 20:24:23 +0100",
       "minecraft:lukewarm_ocean": "2026-02-27 22:07:37 +0100",
       "minecraft:stony_shore": "2026-02-18 19:53:09 +0100",
+      "minecraft:snowy_plains": "2026-03-29 20:19:50 +0200",
       "minecraft:dripstone_caves": "2026-03-06 19:41:48 +0100",
       "minecraft:snowy_taiga": "2026-03-22 15:56:03 +0100",
       "minecraft:frozen_peaks": "2026-02-22 20:21:33 +0100",
@@ -10093,6 +10094,7 @@
       "ancient_citrine_ball": "2026-03-07 18:17:46 +0100",
       "level_ball": "2026-03-07 22:31:21 +0100",
       "ancient_slate_ball": "2026-03-20 10:27:54 +0100",
+      "sport_ball": "2026-03-29 20:57:34 +0200",
       "ancient_ultra_ball": "2026-03-20 10:27:47 +0100",
       "safari_ball": "2026-03-06 22:15:31 +0100",
       "heavy_ball": "2026-03-20 10:38:08 +0100",
@@ -24699,6 +24701,7 @@
       "minecraft:ghast": "2026-03-11 18:09:36 +0100",
       "minecraft:vindicator": "2026-03-19 23:33:55 +0100",
       "minecraft:enderman": "2026-03-07 16:18:02 +0100",
+      "minecraft:stray": "2026-03-29 20:25:38 +0200",
       "minecraft:spider": "2026-03-06 20:43:51 +0100",
       "minecraft:vex": "2026-03-19 23:28:33 +0100",
       "minecraft:zombie": "2026-02-22 21:26:03 +0100",
@@ -24757,6 +24760,7 @@
       "obtain_antidote": "2026-03-18 18:56:01 +0100",
       "obtain_paralyze_heal": "2026-03-11 18:42:45 +0100",
       "obtain_super_potion": "2026-03-06 22:13:06 +0100",
+      "obtain_hyper_potion": "2026-03-29 20:57:15 +0200",
       "obtain_ether": "2026-03-20 11:47:25 +0100"
     },
     "done": false
@@ -25554,6 +25558,18 @@
   "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
     "criteria": {
       "has_diamond_backpack": "2026-03-27 16:41:38 +0100"
+    },
+    "done": true
+  },
+  "lockandblock:recipes/combat/detonator_mine": {
+    "criteria": {
+      "has_item": "2026-03-29 20:57:03 +0200"
+    },
+    "done": true
+  },
+  "lockandblock:recipes/combat/land_mine": {
+    "criteria": {
+      "has_item": "2026-03-29 20:57:03 +0200"
     },
     "done": true
   },

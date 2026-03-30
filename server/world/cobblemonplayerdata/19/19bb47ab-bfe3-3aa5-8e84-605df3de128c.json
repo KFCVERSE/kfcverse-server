@@ -8,14 +8,14 @@
   "battleTheme": "cobblemon:battle.pvp.default",
   "extraData": {},
   "advancementData": {
-    "totalCaptureCount": 32,
+    "totalCaptureCount": 33,
     "totalEggsCollected": 0,
     "totalEggsHatched": 0,
-    "totalEvolvedCount": 3,
-    "totalBattleVictoryCount": 55,
+    "totalEvolvedCount": 8,
+    "totalBattleVictoryCount": 58,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 52,
-    "totalPvNBattleVictoryCount": 3,
+    "totalPvWBattleVictoryCount": 53,
+    "totalPvNBattleVictoryCount": 5,
     "totalShinyCaptureCount": 1,
     "totalTradedCount": 0,
     "totalTypeCaptureCounts": {
@@ -23,13 +23,13 @@
       "psychic": 2,
       "normal": 10,
       "poison": 3,
-      "ground": 1,
+      "ground": 2,
       "water": 5,
       "flying": 4,
       "bug": 2,
       "fire": 2,
       "steel": 2,
-      "rock": 1,
+      "rock": 2,
       "ice": 2
     },
     "totalDefeatedCounts": {
@@ -79,7 +79,9 @@
       "cobblemon:gyarados": [
         "female",
         "magikarp-jump-standard",
-        "gyarados-eye-color-red"
+        "gyarados-eye-color-red",
+        "shiny",
+        "gyarados-eye-color-purple"
       ],
       "cobblemon:flaaffy": [
         "female"
@@ -168,6 +170,21 @@
       "cobblemon:sandslash": [
         "female",
         "alolan"
+      ],
+      "cobblemon:rhydon": [
+        "female"
+      ],
+      "cobblemon:nidorino": [
+        "male"
+      ],
+      "cobblemon:nidoking": [
+        "male"
+      ],
+      "cobblemon:arcanine": [
+        "male"
+      ],
+      "cobblemon:gabite": [
+        "female"
       ]
     }
   }

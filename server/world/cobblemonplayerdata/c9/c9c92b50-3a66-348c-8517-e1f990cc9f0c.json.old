@@ -8,13 +8,13 @@
   "battleTheme": "cobblemon:battle.pvp.default",
   "extraData": {},
   "advancementData": {
-    "totalCaptureCount": 18,
+    "totalCaptureCount": 19,
     "totalEggsCollected": 0,
     "totalEggsHatched": 2,
     "totalEvolvedCount": 4,
-    "totalBattleVictoryCount": 40,
+    "totalBattleVictoryCount": 41,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 40,
+    "totalPvWBattleVictoryCount": 41,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 0,
@@ -25,10 +25,11 @@
       "flying": 6,
       "dark": 1,
       "rock": 1,
-      "ground": 2,
+      "ground": 3,
       "normal": 10,
       "steel": 2,
-      "ghost": 1
+      "ghost": 1,
+      "grass": 1
     },
     "totalDefeatedCounts": {
       "cobblemon:meowth": 2,
@@ -129,6 +130,9 @@
         "male"
       ],
       "cobblemon:doublade": [
+        "female"
+      ],
+      "cobblemon:toedscruel": [
         "female"
       ]
     }

@@ -27,6 +27,7 @@
       "minecraft:old_growth_spruce_taiga": "2026-03-06 20:57:42 +0100",
       "minecraft:snowy_beach": "2026-03-22 16:20:25 +0100",
       "minecraft:bamboo_jungle": "2026-03-07 19:24:58 +0100",
+      "minecraft:wooded_badlands": "2026-03-29 20:19:34 +0200",
       "minecraft:windswept_savanna": "2026-03-21 16:44:28 +0100",
       "minecraft:deep_lukewarm_ocean": "2026-03-07 20:35:25 +0100",
       "minecraft:flower_forest": "2026-03-13 23:19:29 +0100",
@@ -563,25 +564,33 @@
   },
   "cobblemon:obtain_all_berries": {
     "criteria": {
-      "obtain_apicot_berry": "2026-03-18 19:31:25 +0100",
       "obtain_pinap_berry": "2026-03-18 22:55:14 +0100",
-      "obtain_oran_berry": "2026-03-06 19:18:18 +0100",
-      "obtain_haban_berry": "2026-03-22 15:26:30 +0100",
       "obtain_touga_berry": "2026-03-07 21:07:41 +0100",
       "obtain_payapa_berry": "2026-03-18 19:31:19 +0100",
       "obtain_charti_berry": "2026-03-22 15:14:03 +0100",
       "obtain_iapapa_berry": "2026-03-22 15:18:25 +0100",
-      "obtain_babiri_berry": "2026-03-19 19:28:26 +0100",
+      "obtain_chilan_berry": "2026-03-30 13:31:56 +0200",
       "obtain_shuca_berry": "2026-03-07 21:07:30 +0100",
-      "obtain_cheri_berry": "2026-03-20 12:29:15 +0100",
       "obtain_grepa_berry": "2026-03-18 17:14:56 +0100",
+      "obtain_mago_berry": "2026-03-29 22:05:15 +0200",
       "obtain_rawst_berry": "2026-03-22 15:56:55 +0100",
+      "obtain_kebia_berry": "2026-03-22 15:18:09 +0100",
+      "obtain_aspear_berry": "2026-03-29 21:55:11 +0200",
+      "obtain_razz_berry": "2026-03-22 15:14:02 +0100",
+      "obtain_pecha_berry": "2026-03-29 21:53:37 +0200",
+      "obtain_nanab_berry": "2026-03-30 13:31:40 +0200",
+      "obtain_apicot_berry": "2026-03-18 19:31:25 +0100",
+      "obtain_custap_berry": "2026-03-29 22:05:15 +0200",
+      "obtain_oran_berry": "2026-03-06 19:18:18 +0100",
+      "obtain_haban_berry": "2026-03-22 15:26:30 +0100",
+      "obtain_babiri_berry": "2026-03-19 19:28:26 +0100",
+      "obtain_cheri_berry": "2026-03-20 12:29:15 +0100",
       "obtain_colbur_berry": "2026-03-06 20:28:55 +0100",
       "obtain_wacan_berry": "2026-03-22 15:55:54 +0100",
-      "obtain_kebia_berry": "2026-03-22 15:18:09 +0100",
       "obtain_enigma_berry": "2026-03-13 23:15:45 +0100",
       "obtain_chesto_berry": "2026-03-07 21:07:31 +0100",
-      "obtain_razz_berry": "2026-03-22 15:14:02 +0100"
+      "obtain_petaya_berry": "2026-03-29 22:05:15 +0200",
+      "obtain_kasib_berry": "2026-03-29 21:52:08 +0200"
     },
     "done": false
   },
@@ -25232,6 +25241,7 @@
       "minecraft:phantom": "2026-03-07 21:34:23 +0100",
       "minecraft:vindicator": "2026-03-22 16:56:10 +0100",
       "minecraft:silverfish": "2026-03-29 19:20:16 +0200",
+      "minecraft:stray": "2026-03-29 20:31:50 +0200",
       "minecraft:spider": "2026-03-06 20:47:04 +0100",
       "minecraft:vex": "2026-03-22 16:56:08 +0100",
       "minecraft:zombie": "2026-03-06 19:22:35 +0100",
@@ -25428,12 +25438,16 @@
   },
   "cobblemon:brew_all": {
     "criteria": {
+      "obtain_full_heal": "2026-03-29 21:53:42 +0200",
+      "obtain_max_elixir": "2026-03-29 20:45:42 +0200",
       "obtain_burn_heal": "2026-03-13 23:30:12 +0100",
       "obtain_potion": "2026-03-07 19:19:52 +0100",
+      "obtain_max_ether": "2026-03-29 20:03:52 +0200",
       "obtain_full_restore": "2026-03-13 23:27:46 +0100",
       "obtain_elixir": "2026-03-18 19:31:25 +0100",
       "obtain_hyper_potion": "2026-03-18 16:32:43 +0100",
       "obtain_super_potion": "2026-03-21 13:18:08 +0100",
+      "obtain_max_potion": "2026-03-30 00:02:04 +0200",
       "obtain_ether": "2026-03-27 17:41:22 +0100"
     },
     "done": false
@@ -25856,6 +25870,36 @@
   "minecraft:end/root": {
     "criteria": {
       "entered_end": "2026-03-29 19:20:33 +0200"
+    },
+    "done": true
+  },
+  "cobblemon:obtain_revival_herb": {
+    "criteria": {
+      "check_inv": "2026-03-29 20:45:48 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2026-03-29 21:32:41 +0200"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/consumables/vivichoke_dip": {
+    "criteria": {
+      "has_vivichoke": "2026-03-29 23:54:43 +0200"
+    },
+    "done": true
+  },
+  "cobblemon:obtain_big_root": {
+    "criteria": {
+      "check_inv": "2026-03-30 12:33:34 +0200"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/misc/relic_coin": {
+    "criteria": {
+      "has_pouch": "2026-03-30 13:51:28 +0200"
     },
     "done": true
   },

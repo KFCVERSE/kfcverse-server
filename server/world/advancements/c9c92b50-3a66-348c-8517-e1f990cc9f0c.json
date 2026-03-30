@@ -23,6 +23,7 @@
       "minecraft:cherry_grove": "2026-03-06 18:12:45 +0100",
       "minecraft:sunflower_plains": "2026-03-06 18:17:08 +0100",
       "minecraft:birch_forest": "2026-03-14 09:54:54 +0100",
+      "minecraft:windswept_hills": "2026-03-30 11:33:03 +0200",
       "minecraft:old_growth_spruce_taiga": "2026-03-06 18:00:11 +0100",
       "minecraft:bamboo_jungle": "2026-03-13 22:59:52 +0100",
       "minecraft:windswept_savanna": "2026-03-19 21:20:28 +0100",
@@ -1378,22 +1379,28 @@
   "cobblemon:obtain_all_berries": {
     "criteria": {
       "obtain_spelon_berry": "2026-03-13 23:03:17 +0100",
+      "obtain_coba_berry": "2026-03-30 00:03:16 +0200",
       "obtain_pinap_berry": "2026-03-20 18:14:58 +0100",
       "obtain_oran_berry": "2026-03-06 17:28:16 +0100",
       "obtain_starf_berry": "2026-03-19 22:28:13 +0100",
       "obtain_iapapa_berry": "2026-03-27 18:08:32 +0100",
       "obtain_micle_berry": "2026-03-27 17:27:58 +0100",
+      "obtain_durin_berry": "2026-03-30 12:20:13 +0200",
       "obtain_babiri_berry": "2026-03-19 22:28:12 +0100",
       "obtain_persim_berry": "2026-03-06 18:55:00 +0100",
+      "obtain_figy_berry": "2026-03-30 00:03:41 +0200",
       "obtain_shuca_berry": "2026-03-07 19:05:59 +0100",
       "obtain_cheri_berry": "2026-03-07 16:58:16 +0100",
       "obtain_occa_berry": "2026-03-27 18:06:34 +0100",
       "obtain_ganlon_berry": "2026-03-13 23:03:26 +0100",
+      "obtain_maranga_berry": "2026-03-30 11:08:39 +0200",
       "obtain_colbur_berry": "2026-03-27 17:27:55 +0100",
       "obtain_wacan_berry": "2026-03-19 22:27:34 +0100",
       "obtain_aspear_berry": "2026-03-07 22:54:41 +0100",
       "obtain_chesto_berry": "2026-03-13 23:45:32 +0100",
-      "obtain_kasib_berry": "2026-03-19 22:28:12 +0100"
+      "obtain_kasib_berry": "2026-03-19 22:28:12 +0100",
+      "obtain_roseli_berry": "2026-03-30 11:09:52 +0200",
+      "obtain_razz_berry": "2026-03-30 00:03:15 +0200"
     },
     "done": false
   },
@@ -10556,28 +10563,31 @@
   "cobblemon:craft_all_balls": {
     "criteria": {
       "luxury_ball": "2026-03-07 23:17:21 +0100",
-      "heal_ball": "2026-03-07 23:20:47 +0100",
       "nest_ball": "2026-03-08 21:20:08 +0100",
       "timer_ball": "2026-03-07 22:45:54 +0100",
-      "slate_ball": "2026-03-06 20:04:33 +0100",
-      "ancient_verdant_ball": "2026-03-27 18:08:32 +0100",
       "moon_ball": "2026-03-07 23:38:09 +0100",
-      "poke_ball": "2026-03-06 17:28:16 +0100",
+      "ancient_poke_ball": "2026-03-30 11:25:40 +0200",
       "azure_ball": "2026-03-07 15:57:00 +0100",
-      "citrine_ball": "2026-03-07 22:41:32 +0100",
       "net_ball": "2026-03-07 22:51:49 +0100",
       "dive_ball": "2026-03-07 22:50:56 +0100",
-      "roseate_ball": "2026-03-07 19:42:26 +0100",
-      "lure_ball": "2026-03-18 23:11:49 +0100",
       "level_ball": "2026-03-07 22:52:04 +0100",
+      "ancient_slate_ball": "2026-03-30 11:25:36 +0200",
       "sport_ball": "2026-03-07 22:43:01 +0100",
       "ancient_ultra_ball": "2026-03-13 19:23:25 +0100",
       "safari_ball": "2026-03-18 23:11:51 +0100",
-      "premier_ball": "2026-03-06 20:04:49 +0100",
-      "park_ball": "2026-03-27 18:08:31 +0100",
       "heavy_ball": "2026-03-07 22:43:49 +0100",
       "verdant_ball": "2026-03-07 18:22:51 +0100",
-      "fast_ball": "2026-03-19 22:28:13 +0100"
+      "fast_ball": "2026-03-19 22:28:13 +0100",
+      "heal_ball": "2026-03-07 23:20:47 +0100",
+      "slate_ball": "2026-03-06 20:04:33 +0100",
+      "ancient_verdant_ball": "2026-03-27 18:08:32 +0100",
+      "poke_ball": "2026-03-06 17:28:16 +0100",
+      "citrine_ball": "2026-03-07 22:41:32 +0100",
+      "ancient_ivory_ball": "2026-03-30 11:25:12 +0200",
+      "roseate_ball": "2026-03-07 19:42:26 +0100",
+      "lure_ball": "2026-03-18 23:11:49 +0100",
+      "premier_ball": "2026-03-06 20:04:49 +0100",
+      "park_ball": "2026-03-27 18:08:31 +0100"
     },
     "done": false
   },
@@ -25403,6 +25413,7 @@
   "cobblemon:brew_all": {
     "criteria": {
       "obtain_full_heal": "2026-03-08 20:28:43 +0100",
+      "obtain_max_elixir": "2026-03-30 00:03:11 +0200",
       "obtain_ice_heal": "2026-03-13 23:22:44 +0100",
       "obtain_burn_heal": "2026-03-28 00:07:56 +0100",
       "obtain_potion": "2026-03-13 22:59:31 +0100",
@@ -25662,7 +25673,10 @@
   },
   "cobblemon:craft_ancient_balls": {
     "criteria": {
+      "ancient_ivory_ball": "2026-03-30 11:25:12 +0200",
+      "ancient_slate_ball": "2026-03-30 11:25:36 +0200",
       "ancient_verdant_ball": "2026-03-27 18:08:32 +0100",
+      "ancient_poke_ball": "2026-03-30 11:25:40 +0200",
       "ancient_ultra_ball": "2026-03-13 19:23:25 +0100"
     },
     "done": false
@@ -25821,21 +25835,135 @@
     },
     "done": true
   },
-  "cobblemonraiddens:tier_one": {
-    "criteria": {
-      "completed_tier_one": "2026-03-27 23:59:01 +0100"
-    },
-    "done": true
-  },
   "cobblemonraiddens:join_raid": {
     "criteria": {
       "joined_raid": "2026-03-27 23:57:59 +0100"
     },
     "done": true
   },
+  "cobblemonraiddens:tier_one": {
+    "criteria": {
+      "completed_tier_one": "2026-03-27 23:59:01 +0100"
+    },
+    "done": true
+  },
   "cobblemonraiddens:raid_tera": {
     "criteria": {
       "completed_tera": "2026-03-27 23:59:01 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/consumables/vivichoke_dip": {
+    "criteria": {
+      "has_vivichoke": "2026-03-29 23:54:54 +0200"
+    },
+    "done": true
+  },
+  "cobblemon:obtain_tumblestone": {
+    "criteria": {
+      "check_inv": "2026-03-30 11:09:52 +0200"
+    },
+    "done": true
+  },
+  "lockandblock:recipes/redstone/reinforced_iron_trapdoor": {
+    "criteria": {
+      "has_reinforced_iron_block": "2026-03-30 13:24:35 +0200"
+    },
+    "done": true
+  },
+  "lockandblock:recipes/building_blocks/reinforced_iron_slab": {
+    "criteria": {
+      "has_reinforced_iron_block": "2026-03-30 13:24:35 +0200"
+    },
+    "done": true
+  },
+  "lockandblock:recipes/redstone/lock_block": {
+    "criteria": {
+      "has_reinforced_iron_block": "2026-03-30 13:24:35 +0200"
+    },
+    "done": true
+  },
+  "lockandblock:recipes/redstone/reinforced_iron_fence_gate": {
+    "criteria": {
+      "has_reinforced_iron_block": "2026-03-30 13:24:35 +0200"
+    },
+    "done": true
+  },
+  "moarconcrete:recipes/building_blocks/light_blue_concrete_slab_from_light_blue_concrete_stonecutting": {
+    "criteria": {
+      "has_light_blue_concrete": "2026-03-30 13:24:36 +0200"
+    },
+    "done": true
+  },
+  "lockandblock:recipes/redstone/reinforced_iron_button": {
+    "criteria": {
+      "has_reinforced_iron_block": "2026-03-30 13:24:35 +0200"
+    },
+    "done": true
+  },
+  "lockandblock:recipes/redstone/reinforced_iron_door": {
+    "criteria": {
+      "has_reinforced_iron_block": "2026-03-30 13:24:35 +0200"
+    },
+    "done": true
+  },
+  "lockandblock:recipes/decorations/reinforced_iron_wall": {
+    "criteria": {
+      "has_reinforced_iron_block": "2026-03-30 13:24:35 +0200"
+    },
+    "done": true
+  },
+  "moarconcrete:recipes/building_blocks/light_blue_concrete_panel_from_light_blue_concrete_stonecutting": {
+    "criteria": {
+      "has_light_blue_concrete": "2026-03-30 13:24:36 +0200"
+    },
+    "done": true
+  },
+  "lockandblock:recipes/redstone/reinforced_iron_pressure_plate": {
+    "criteria": {
+      "has_reinforced_iron_block": "2026-03-30 13:24:35 +0200"
+    },
+    "done": true
+  },
+  "lockandblock:recipes/misc/reinforced_iron_ingot_from_block": {
+    "criteria": {
+      "has_reinforced_iron_block": "2026-03-30 13:24:35 +0200"
+    },
+    "done": true
+  },
+  "moarconcrete:recipes/building_blocks/light_blue_concrete_stairs_from_light_blue_concrete_stonecutting": {
+    "criteria": {
+      "has_light_blue_concrete": "2026-03-30 13:24:36 +0200"
+    },
+    "done": true
+  },
+  "moarconcrete:recipes/building_blocks/light_blue_concrete_brick_slab_from_light_blue_concrete_stonecutting": {
+    "criteria": {
+      "has_light_blue_concrete": "2026-03-30 13:24:36 +0200"
+    },
+    "done": true
+  },
+  "moarconcrete:recipes/building_blocks/light_blue_concrete_wall_from_light_blue_concrete_stonecutting": {
+    "criteria": {
+      "has_light_blue_concrete": "2026-03-30 13:24:36 +0200"
+    },
+    "done": true
+  },
+  "lockandblock:recipes/decorations/reinforced_iron_fence": {
+    "criteria": {
+      "has_reinforced_iron_block": "2026-03-30 13:24:35 +0200"
+    },
+    "done": true
+  },
+  "moarconcrete:recipes/building_blocks/light_blue_concrete_bricks_from_light_blue_concrete_stonecutting": {
+    "criteria": {
+      "has_light_blue_concrete": "2026-03-30 13:24:36 +0200"
+    },
+    "done": true
+  },
+  "lockandblock:recipes/building_blocks/reinforced_iron_stairs": {
+    "criteria": {
+      "has_reinforced_iron_block": "2026-03-30 13:24:35 +0200"
     },
     "done": true
   },
