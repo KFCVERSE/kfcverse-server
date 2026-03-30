@@ -24,6 +24,7 @@
       "minecraft:cherry_grove": "2026-03-07 19:11:36 +0100",
       "minecraft:sunflower_plains": "2026-03-07 19:17:11 +0100",
       "minecraft:birch_forest": "2026-03-07 20:33:52 +0100",
+      "minecraft:windswept_hills": "2026-03-30 16:12:51 +0200",
       "minecraft:old_growth_spruce_taiga": "2026-03-06 20:57:42 +0100",
       "minecraft:snowy_beach": "2026-03-22 16:20:25 +0100",
       "minecraft:bamboo_jungle": "2026-03-07 19:24:58 +0100",
@@ -45,7 +46,9 @@
       "minecraft:frozen_peaks": "2026-03-08 20:40:07 +0100",
       "minecraft:old_growth_birch_forest": "2026-03-06 19:19:57 +0100",
       "minecraft:grove": "2026-03-07 19:23:27 +0100",
+      "minecraft:swamp": "2026-03-30 16:18:31 +0200",
       "minecraft:meadow": "2026-03-07 21:01:25 +0100",
+      "minecraft:windswept_gravelly_hills": "2026-03-30 16:07:14 +0200",
       "minecraft:savanna": "2026-03-07 19:14:20 +0100",
       "minecraft:plains": "2026-03-06 20:03:10 +0100",
       "minecraft:jagged_peaks": "2026-03-07 21:28:23 +0100"
@@ -5433,6 +5436,7 @@
   "cobblemon:craft_all_balls": {
     "criteria": {
       "luxury_ball": "2026-03-06 20:12:02 +0100",
+      "ancient_gigaton_ball": "2026-03-30 16:52:59 +0200",
       "nest_ball": "2026-03-07 18:58:31 +0100",
       "quick_ball": "2026-03-06 20:13:17 +0100",
       "great_ball": "2026-03-06 20:13:07 +0100",
@@ -5461,6 +5465,7 @@
       "heal_ball": "2026-03-06 20:23:15 +0100",
       "slate_ball": "2026-03-06 20:10:31 +0100",
       "ancient_feather_ball": "2026-03-06 20:12:23 +0100",
+      "beast_ball": "2026-03-30 17:55:50 +0200",
       "poke_ball": "2026-03-06 19:18:18 +0100",
       "citrine_ball": "2026-03-06 20:10:34 +0100",
       "ancient_azure_ball": "2026-03-06 20:08:11 +0100",
@@ -25239,9 +25244,12 @@
       "minecraft:pillager": "2026-03-08 19:16:15 +0100",
       "minecraft:skeleton": "2026-03-06 19:50:07 +0100",
       "minecraft:phantom": "2026-03-07 21:34:23 +0100",
+      "minecraft:shulker": "2026-03-30 19:05:18 +0200",
       "minecraft:vindicator": "2026-03-22 16:56:10 +0100",
       "minecraft:silverfish": "2026-03-29 19:20:16 +0200",
       "minecraft:stray": "2026-03-29 20:31:50 +0200",
+      "minecraft:enderman": "2026-03-30 19:11:06 +0200",
+      "minecraft:endermite": "2026-03-30 18:11:40 +0200",
       "minecraft:spider": "2026-03-06 20:47:04 +0100",
       "minecraft:vex": "2026-03-22 16:56:08 +0100",
       "minecraft:zombie": "2026-03-06 19:22:35 +0100",
@@ -25322,6 +25330,7 @@
   "cobblemon:craft_ancient_balls": {
     "criteria": {
       "ancient_ivory_ball": "2026-03-06 20:12:38 +0100",
+      "ancient_gigaton_ball": "2026-03-30 16:52:59 +0200",
       "ancient_citrine_ball": "2026-03-06 20:28:52 +0100",
       "ancient_leaden_ball": "2026-03-18 16:32:51 +0100",
       "ancient_slate_ball": "2026-03-18 16:32:08 +0100",
@@ -25900,6 +25909,78 @@
   "cobblemon:recipes/misc/relic_coin": {
     "criteria": {
       "has_pouch": "2026-03-30 13:51:28 +0200"
+    },
+    "done": true
+  },
+  "moarconcrete:recipes/building_blocks/brown_concrete_brick_slab_from_brown_concrete_stonecutting": {
+    "criteria": {
+      "has_brown_concrete": "2026-03-30 16:08:50 +0200"
+    },
+    "done": true
+  },
+  "moarconcrete:recipes/building_blocks/brown_concrete_bricks_from_brown_concrete_stonecutting": {
+    "criteria": {
+      "has_brown_concrete": "2026-03-30 16:08:50 +0200"
+    },
+    "done": true
+  },
+  "moarconcrete:recipes/building_blocks/brown_concrete_wall_from_brown_concrete_stonecutting": {
+    "criteria": {
+      "has_brown_concrete": "2026-03-30 16:08:50 +0200"
+    },
+    "done": true
+  },
+  "moarconcrete:recipes/building_blocks/brown_concrete_slab_from_brown_concrete_stonecutting": {
+    "criteria": {
+      "has_brown_concrete": "2026-03-30 16:08:50 +0200"
+    },
+    "done": true
+  },
+  "moarconcrete:recipes/building_blocks/brown_concrete_panel_from_brown_concrete_stonecutting": {
+    "criteria": {
+      "has_brown_concrete": "2026-03-30 16:08:50 +0200"
+    },
+    "done": true
+  },
+  "moarconcrete:recipes/building_blocks/brown_concrete_stairs_from_brown_concrete_stonecutting": {
+    "criteria": {
+      "has_brown_concrete": "2026-03-30 16:08:50 +0200"
+    },
+    "done": true
+  },
+  "nirvana:recipes/transportation/thc": {
+    "criteria": {
+      "has_gunpowder": "2026-03-30 16:19:51 +0200"
+    },
+    "done": true
+  },
+  "lockandblock:recipes/tools/keycard": {
+    "criteria": {
+      "has_item": "2026-03-30 17:20:27 +0200"
+    },
+    "done": true
+  },
+  "cobbleverse:trainer/kanto/defeat_koga": {
+    "criteria": {
+      "leader_defeated": "2026-03-30 17:36:22 +0200"
+    },
+    "done": true
+  },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2026-03-30 18:28:21 +0200"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/shulker_box_from_vanilla_shulker_box": {
+    "criteria": {
+      "has_shulker_box": "2026-03-30 18:12:46 +0200"
+    },
+    "done": true
+  },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2026-03-30 18:33:48 +0200"
     },
     "done": true
   },

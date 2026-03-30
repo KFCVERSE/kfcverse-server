@@ -8,13 +8,13 @@
   "battleTheme": "cobblemon:battle.pvp.default",
   "extraData": {},
   "advancementData": {
-    "totalCaptureCount": 33,
+    "totalCaptureCount": 36,
     "totalEggsCollected": 0,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 8,
-    "totalBattleVictoryCount": 58,
+    "totalBattleVictoryCount": 63,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 53,
+    "totalPvWBattleVictoryCount": 58,
     "totalPvNBattleVictoryCount": 5,
     "totalShinyCaptureCount": 1,
     "totalTradedCount": 0,
@@ -30,7 +30,8 @@
       "fire": 2,
       "steel": 2,
       "rock": 2,
-      "ice": 2
+      "ice": 2,
+      "ghost": 3
     },
     "totalDefeatedCounts": {
       "cobblemon:elekid": 1,
@@ -48,11 +49,12 @@
       "cobblemon:fearow": 1,
       "cobblemon:oddish": 1,
       "cobblemon:spiritomb": 1,
-      "cobblemon:voltorb": 1,
+      "cobblemon:voltorb": 2,
       "cobblemon:sinistea": 1,
       "cobblemon:varoom": 1,
       "cobblemon:smeargle": 1,
-      "cobblemon:braviary": 1
+      "cobblemon:braviary": 1,
+      "cobblemon:gimmighoul": 1
     },
     "aspectsCollected": {
       "cobblemon:voltorb": [
@@ -185,6 +187,10 @@
       ],
       "cobblemon:gabite": [
         "female"
+      ],
+      "cobblemon:gimmighoul": [
+        "genderless",
+        "roaming"
       ]
     }
   }

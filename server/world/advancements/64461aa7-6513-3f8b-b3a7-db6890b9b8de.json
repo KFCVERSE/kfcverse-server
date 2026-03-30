@@ -21,12 +21,14 @@
       "minecraft:frozen_river": "2026-03-29 20:21:03 +0200",
       "minecraft:windswept_forest": "2026-03-20 12:49:05 +0100",
       "minecraft:ocean": "2026-02-18 20:24:02 +0100",
+      "minecraft:jungle": "2026-03-30 17:01:32 +0200",
       "minecraft:sunflower_plains": "2026-02-27 22:21:20 +0100",
       "minecraft:cherry_grove": "2026-03-20 12:49:02 +0100",
       "minecraft:birch_forest": "2026-03-20 14:32:19 +0100",
       "minecraft:old_growth_spruce_taiga": "2026-02-18 19:58:01 +0100",
       "minecraft:snowy_beach": "2026-03-29 20:22:58 +0200",
       "minecraft:wooded_badlands": "2026-03-29 20:20:39 +0200",
+      "minecraft:bamboo_jungle": "2026-03-30 16:58:51 +0200",
       "minecraft:deep_lukewarm_ocean": "2026-03-20 14:33:27 +0100",
       "minecraft:flower_forest": "2026-03-20 13:13:21 +0100",
       "minecraft:savanna_plateau": "2026-02-27 22:08:16 +0100",
@@ -103,6 +105,7 @@
       "obtain_pinap_berry": "2026-03-29 19:35:08 +0200",
       "obtain_oran_berry": "2026-02-18 19:51:47 +0100",
       "obtain_payapa_berry": "2026-03-29 19:45:39 +0200",
+      "obtain_chilan_berry": "2026-03-30 18:16:46 +0200",
       "obtain_babiri_berry": "2026-03-26 20:01:31 +0100",
       "obtain_passho_berry": "2026-03-06 21:44:39 +0100",
       "obtain_cheri_berry": "2026-03-06 18:44:06 +0100",
@@ -24941,7 +24944,8 @@
       "obtain_burn_heal": "2026-03-19 20:55:55 +0100",
       "obtain_potion": "2026-03-19 20:56:06 +0100",
       "obtain_max_ether": "2026-03-19 20:56:05 +0100",
-      "obtain_antidote": "2026-03-20 13:00:28 +0100"
+      "obtain_antidote": "2026-03-20 13:00:28 +0100",
+      "obtain_elixir": "2026-03-30 18:16:47 +0200"
     },
     "done": false
   },
@@ -25197,6 +25201,54 @@
   "lockandblock:recipes/tools/keycard": {
     "criteria": {
       "has_item": "2026-03-30 15:03:37 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_helmet": "2026-03-30 17:26:54 +0200"
+    },
+    "done": true
+  },
+  "carved_wood:recipes/redstone/pale_oak_lectern": {
+    "criteria": {
+      "has_book": "2026-03-30 17:44:08 +0200"
+    },
+    "done": true
+  },
+  "moarconcrete:recipes/building_blocks/brown_concrete_brick_slab_from_brown_concrete_stonecutting": {
+    "criteria": {
+      "has_brown_concrete": "2026-03-30 19:26:28 +0200"
+    },
+    "done": true
+  },
+  "moarconcrete:recipes/building_blocks/brown_concrete_bricks_from_brown_concrete_stonecutting": {
+    "criteria": {
+      "has_brown_concrete": "2026-03-30 19:26:28 +0200"
+    },
+    "done": true
+  },
+  "moarconcrete:recipes/building_blocks/brown_concrete_wall_from_brown_concrete_stonecutting": {
+    "criteria": {
+      "has_brown_concrete": "2026-03-30 19:26:28 +0200"
+    },
+    "done": true
+  },
+  "moarconcrete:recipes/building_blocks/brown_concrete_slab_from_brown_concrete_stonecutting": {
+    "criteria": {
+      "has_brown_concrete": "2026-03-30 19:26:28 +0200"
+    },
+    "done": true
+  },
+  "moarconcrete:recipes/building_blocks/brown_concrete_panel_from_brown_concrete_stonecutting": {
+    "criteria": {
+      "has_brown_concrete": "2026-03-30 19:26:28 +0200"
+    },
+    "done": true
+  },
+  "moarconcrete:recipes/building_blocks/brown_concrete_stairs_from_brown_concrete_stonecutting": {
+    "criteria": {
+      "has_brown_concrete": "2026-03-30 19:26:28 +0200"
     },
     "done": true
   },
