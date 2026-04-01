@@ -8,30 +8,32 @@
   "battleTheme": "cobblemon:battle.pvp.default",
   "extraData": {},
   "advancementData": {
-    "totalCaptureCount": 36,
+    "totalCaptureCount": 40,
     "totalEggsCollected": 0,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 8,
-    "totalBattleVictoryCount": 63,
+    "totalBattleVictoryCount": 68,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 58,
+    "totalPvWBattleVictoryCount": 63,
     "totalPvNBattleVictoryCount": 5,
-    "totalShinyCaptureCount": 1,
+    "totalShinyCaptureCount": 2,
     "totalTradedCount": 0,
     "totalTypeCaptureCounts": {
       "electric": 5,
-      "psychic": 2,
-      "normal": 10,
+      "psychic": 3,
+      "normal": 11,
       "poison": 3,
       "ground": 2,
       "water": 5,
-      "flying": 4,
+      "flying": 5,
       "bug": 2,
       "fire": 2,
       "steel": 2,
       "rock": 2,
-      "ice": 2,
-      "ghost": 3
+      "ice": 3,
+      "ghost": 3,
+      "grass": 1,
+      "dragon": 1
     },
     "totalDefeatedCounts": {
       "cobblemon:elekid": 1,
@@ -54,7 +56,8 @@
       "cobblemon:varoom": 1,
       "cobblemon:smeargle": 1,
       "cobblemon:braviary": 1,
-      "cobblemon:gimmighoul": 1
+      "cobblemon:gimmighoul": 2,
+      "cobblemon:unown": 1
     },
     "aspectsCollected": {
       "cobblemon:voltorb": [
@@ -191,6 +194,19 @@
       "cobblemon:gimmighoul": [
         "genderless",
         "roaming"
+      ],
+      "cobblemon:abomasnow": [
+        "male"
+      ],
+      "cobblemon:rayquaza": [
+        "shiny",
+        "genderless"
+      ],
+      "cobblemon:porygon": [
+        "genderless"
+      ],
+      "cobblemon:cosmoem": [
+        "genderless"
       ]
     }
   }

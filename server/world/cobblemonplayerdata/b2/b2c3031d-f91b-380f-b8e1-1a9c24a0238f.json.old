@@ -7,13 +7,13 @@
   "battleTheme": "cobblemon:battle.pvp.default",
   "extraData": {},
   "advancementData": {
-    "totalCaptureCount": 14,
+    "totalCaptureCount": 16,
     "totalEggsCollected": 41,
     "totalEggsHatched": 78,
-    "totalEvolvedCount": 13,
-    "totalBattleVictoryCount": 92,
+    "totalEvolvedCount": 15,
+    "totalBattleVictoryCount": 97,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 88,
+    "totalPvWBattleVictoryCount": 93,
     "totalPvNBattleVictoryCount": 4,
     "totalShinyCaptureCount": 1,
     "totalTradedCount": 5,
@@ -22,13 +22,13 @@
       "bug": 2,
       "poison": 1,
       "fairy": 2,
-      "steel": 3,
-      "psychic": 1,
+      "steel": 4,
+      "psychic": 2,
       "dark": 1,
       "rock": 2,
       "electric": 2,
       "flying": 1,
-      "ghost": 1
+      "ghost": 2
     },
     "totalDefeatedCounts": {
       "cobblemon:poliwhirl": 1,
@@ -76,7 +76,10 @@
       "cobblemon:crabrawler": 1,
       "cobblemon:azurill": 1,
       "cobblemon:munna": 1,
-      "cobblemon:dodrio": 1
+      "cobblemon:dodrio": 1,
+      "cobblemon:duraludon": 1,
+      "cobblemon:solgaleo": 1,
+      "cobblemon:porygon": 1
     },
     "aspectsCollected": {
       "cobblemon:ditto": [
@@ -175,6 +178,16 @@
       ],
       "cobblemon:gimmighoul": [
         "genderless"
+      ],
+      "cobblemon:necrozma": [
+        "genderless",
+        "dusk-fusion"
+      ],
+      "cobblemon:wartortle": [
+        "male"
+      ],
+      "cobblemon:blastoise": [
+        "male"
       ]
     }
   }

@@ -8,13 +8,13 @@
   "battleTheme": "cobblemon:battle.pvp.default",
   "extraData": {},
   "advancementData": {
-    "totalCaptureCount": 26,
-    "totalEggsCollected": 49,
-    "totalEggsHatched": 316,
+    "totalCaptureCount": 28,
+    "totalEggsCollected": 57,
+    "totalEggsHatched": 318,
     "totalEvolvedCount": 5,
-    "totalBattleVictoryCount": 67,
+    "totalBattleVictoryCount": 69,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 65,
+    "totalPvWBattleVictoryCount": 67,
     "totalPvNBattleVictoryCount": 2,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 1,
@@ -25,7 +25,7 @@
       "electric": 4,
       "fairy": 4,
       "fire": 1,
-      "ghost": 1,
+      "ghost": 3,
       "poison": 1,
       "rock": 1,
       "water": 5,
@@ -140,6 +140,9 @@
         "female",
         "magikarp-jump-standard",
         "gyarados-eye-color-red"
+      ],
+      "cobblemon:gimmighoul": [
+        "genderless"
       ]
     }
   }

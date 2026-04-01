@@ -588,6 +588,7 @@
       "obtain_haban_berry": "2026-03-22 15:26:30 +0100",
       "obtain_babiri_berry": "2026-03-19 19:28:26 +0100",
       "obtain_cheri_berry": "2026-03-20 12:29:15 +0100",
+      "obtain_chople_berry": "2026-04-01 17:27:27 +0200",
       "obtain_colbur_berry": "2026-03-06 20:28:55 +0100",
       "obtain_wacan_berry": "2026-03-22 15:55:54 +0100",
       "obtain_enigma_berry": "2026-03-13 23:15:45 +0100",
@@ -25966,21 +25967,210 @@
     },
     "done": true
   },
-  "minecraft:end/elytra": {
-    "criteria": {
-      "elytra": "2026-03-30 18:28:21 +0200"
-    },
-    "done": true
-  },
   "sophisticatedstorage:recipes/misc/shulker_box_from_vanilla_shulker_box": {
     "criteria": {
       "has_shulker_box": "2026-03-30 18:12:46 +0200"
     },
     "done": true
   },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2026-03-30 18:28:21 +0200"
+    },
+    "done": true
+  },
   "minecraft:end/find_end_city": {
     "criteria": {
       "in_city": "2026-03-30 18:33:48 +0200"
+    },
+    "done": true
+  },
+  "mega_showdown:mega_showdown/mega/craft_mega_stones": {
+    "criteria": {
+      "charizardite_y": "2026-04-01 12:51:32 +0200",
+      "venusaurite": "2026-04-01 12:50:33 +0200",
+      "charizardite_x": "2026-04-01 12:51:40 +0200",
+      "blastoisinite": "2026-04-01 12:51:06 +0200"
+    },
+    "done": false
+  },
+  "mega_showdown:mega_showdown/mega/get_any_mega_stone": {
+    "criteria": {
+      "obtained_mega_stones": "2026-04-01 12:50:33 +0200"
+    },
+    "done": true
+  },
+  "moarconcrete:recipes/building_blocks/purple_concrete_stairs_from_purple_concrete_stonecutting": {
+    "criteria": {
+      "has_purple_concrete": "2026-04-01 14:21:29 +0200"
+    },
+    "done": true
+  },
+  "moarconcrete:recipes/building_blocks/purple_concrete_wall_from_purple_concrete_stonecutting": {
+    "criteria": {
+      "has_purple_concrete": "2026-04-01 14:21:29 +0200"
+    },
+    "done": true
+  },
+  "moarconcrete:recipes/building_blocks/purple_concrete_panel_from_purple_concrete_stonecutting": {
+    "criteria": {
+      "has_purple_concrete": "2026-04-01 14:21:29 +0200"
+    },
+    "done": true
+  },
+  "moarconcrete:recipes/building_blocks/purple_concrete_brick_slab_from_purple_concrete_stonecutting": {
+    "criteria": {
+      "has_purple_concrete": "2026-04-01 14:21:29 +0200"
+    },
+    "done": true
+  },
+  "moarconcrete:recipes/building_blocks/purple_concrete_bricks_from_purple_concrete_stonecutting": {
+    "criteria": {
+      "has_purple_concrete": "2026-04-01 14:21:29 +0200"
+    },
+    "done": true
+  },
+  "moarconcrete:recipes/building_blocks/purple_concrete_slab_from_purple_concrete_stonecutting": {
+    "criteria": {
+      "has_purple_concrete": "2026-04-01 14:21:29 +0200"
+    },
+    "done": true
+  },
+  "moarconcrete:recipes/building_blocks/pink_concrete_wall_from_pink_concrete_stonecutting": {
+    "criteria": {
+      "has_pink_concrete": "2026-04-01 14:21:31 +0200"
+    },
+    "done": true
+  },
+  "moarconcrete:recipes/building_blocks/pink_concrete_bricks_from_pink_concrete_stonecutting": {
+    "criteria": {
+      "has_pink_concrete": "2026-04-01 14:21:31 +0200"
+    },
+    "done": true
+  },
+  "moarconcrete:recipes/building_blocks/pink_concrete_slab_from_pink_concrete_stonecutting": {
+    "criteria": {
+      "has_pink_concrete": "2026-04-01 14:21:31 +0200"
+    },
+    "done": true
+  },
+  "moarconcrete:recipes/building_blocks/pink_concrete_panel_from_pink_concrete_stonecutting": {
+    "criteria": {
+      "has_pink_concrete": "2026-04-01 14:21:31 +0200"
+    },
+    "done": true
+  },
+  "moarconcrete:recipes/building_blocks/pink_concrete_stairs_from_pink_concrete_stonecutting": {
+    "criteria": {
+      "has_pink_concrete": "2026-04-01 14:21:31 +0200"
+    },
+    "done": true
+  },
+  "moarconcrete:recipes/building_blocks/pink_concrete_brick_slab_from_pink_concrete_stonecutting": {
+    "criteria": {
+      "has_pink_concrete": "2026-04-01 14:21:31 +0200"
+    },
+    "done": true
+  },
+  "mega_showdown:mega_showdown/z/get_blank_move": {
+    "criteria": {
+      "obtained_blank_z": "2026-04-01 15:51:36 +0200"
+    },
+    "done": true
+  },
+  "minecraft:end/levitate": {
+    "criteria": {
+      "levitated": "2026-04-01 15:52:46 +0200"
+    },
+    "done": true
+  },
+  "minecraft:end/dragon_breath": {
+    "criteria": {
+      "dragon_breath": "2026-04-01 16:20:36 +0200"
+    },
+    "done": true
+  },
+  "cobbleverse:trainer/kanto/defeat_sabrina": {
+    "criteria": {
+      "leader_defeated": "2026-04-01 16:55:44 +0200"
+    },
+    "done": true
+  },
+  "lockandblock:recipes/redstone/reinforced_iron_trapdoor": {
+    "criteria": {
+      "has_reinforced_iron_block": "2026-04-01 17:36:32 +0200"
+    },
+    "done": true
+  },
+  "lockandblock:recipes/building_blocks/reinforced_iron_slab": {
+    "criteria": {
+      "has_reinforced_iron_block": "2026-04-01 17:36:32 +0200"
+    },
+    "done": true
+  },
+  "lockandblock:recipes/redstone/lock_block": {
+    "criteria": {
+      "has_reinforced_iron_block": "2026-04-01 17:36:32 +0200"
+    },
+    "done": true
+  },
+  "lockandblock:recipes/building_blocks/reinforced_iron_block": {
+    "criteria": {
+      "has_reinforced_iron_ingot": "2026-04-01 17:36:22 +0200"
+    },
+    "done": true
+  },
+  "lockandblock:recipes/redstone/keypad": {
+    "criteria": {
+      "has_the_recipe": "2026-04-01 17:32:22 +0200"
+    },
+    "done": true
+  },
+  "lockandblock:recipes/redstone/reinforced_iron_fence_gate": {
+    "criteria": {
+      "has_reinforced_iron_block": "2026-04-01 17:36:32 +0200"
+    },
+    "done": true
+  },
+  "lockandblock:recipes/redstone/reinforced_iron_button": {
+    "criteria": {
+      "has_reinforced_iron_block": "2026-04-01 17:36:32 +0200"
+    },
+    "done": true
+  },
+  "lockandblock:recipes/redstone/reinforced_iron_door": {
+    "criteria": {
+      "has_reinforced_iron_block": "2026-04-01 17:36:32 +0200"
+    },
+    "done": true
+  },
+  "lockandblock:recipes/decorations/reinforced_iron_wall": {
+    "criteria": {
+      "has_reinforced_iron_block": "2026-04-01 17:36:32 +0200"
+    },
+    "done": true
+  },
+  "lockandblock:recipes/redstone/reinforced_iron_pressure_plate": {
+    "criteria": {
+      "has_reinforced_iron_block": "2026-04-01 17:36:32 +0200"
+    },
+    "done": true
+  },
+  "lockandblock:recipes/misc/reinforced_iron_ingot_from_block": {
+    "criteria": {
+      "has_reinforced_iron_block": "2026-04-01 17:36:32 +0200"
+    },
+    "done": true
+  },
+  "lockandblock:recipes/decorations/reinforced_iron_fence": {
+    "criteria": {
+      "has_reinforced_iron_block": "2026-04-01 17:36:32 +0200"
+    },
+    "done": true
+  },
+  "lockandblock:recipes/building_blocks/reinforced_iron_stairs": {
+    "criteria": {
+      "has_reinforced_iron_block": "2026-04-01 17:36:32 +0200"
     },
     "done": true
   },

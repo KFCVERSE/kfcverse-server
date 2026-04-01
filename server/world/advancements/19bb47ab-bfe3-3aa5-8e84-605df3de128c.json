@@ -657,6 +657,7 @@
       "heal_ball": "2026-03-21 14:19:50 +0100",
       "ancient_wing_ball": "2026-03-19 20:45:33 +0100",
       "slate_ball": "2026-03-21 12:37:30 +0100",
+      "beast_ball": "2026-04-01 13:06:15 +0200",
       "poke_ball": "2026-03-19 19:45:00 +0100",
       "citrine_ball": "2026-03-20 14:14:02 +0100",
       "ancient_ivory_ball": "2026-03-21 12:49:56 +0100",
@@ -25861,6 +25862,78 @@
   "minecraft:nether/obtain_blaze_rod": {
     "criteria": {
       "blaze_rod": "2026-03-30 18:49:03 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2026-04-01 12:30:39 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2026-04-01 12:34:49 +0200"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2026-04-01 12:34:49 +0200"
+    },
+    "done": true
+  },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2026-04-01 12:56:03 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_boots": "2026-04-01 12:59:47 +0200"
+    },
+    "done": true
+  },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2026-04-01 13:04:32 +0200"
+    },
+    "done": true
+  },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2026-04-01 13:04:54 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_boots": "2026-04-01 13:05:51 +0200"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
+    "criteria": {
+      "has_diamond_backpack": "2026-04-01 16:55:28 +0200"
+    },
+    "done": true
+  },
+  "cobblemon:use_pasture": {
+    "criteria": {
+      "use_pasture": "2026-04-01 16:56:38 +0200"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
+    "criteria": {
+      "has_gold_backpack": "2026-04-01 16:55:01 +0200"
+    },
+    "done": true
+  },
+  "minecraft:end/dragon_breath": {
+    "criteria": {
+      "dragon_breath": "2026-04-01 17:31:04 +0200"
     },
     "done": true
   },
