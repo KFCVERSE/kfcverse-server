@@ -1,0 +1,58 @@
+{
+  "template1": {
+    "radius_x": 10,
+    "radius_z": 10,
+    "head_info": "Use the \u0027Value\u0027 code (Base64) from minecraft-heads.com for custom textures",
+    "head": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDk4NDhkZGU4ZTUzMGRjNzA1ZmI2NzdkYWQ4MTQ5MmNjMjIyYmY5NmZkNjMyYjg1MTRhZWZiODA5MzFmZTBkIn19fQ\u003d\u003d",
+    "display_name": "\u00268\u0026lClaim Module \u0026f- \u00265T1"
+  },
+  "template2": {
+    "radius_x": 20,
+    "radius_z": 20,
+    "head_info": "Use the \u0027Value\u0027 code (Base64) from minecraft-heads.com for custom textures",
+    "head": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDk4NDhkZGU4ZTUzMGRjNzA1ZmI2NzdkYWQ4MTQ5MmNjMjIyYmY5NmZkNjMyYjg1MTRhZWZiODA5MzFmZTBkIn19fQ\u003d\u003d",
+    "display_name": "\u00268\u0026lClaim Module \u0026f- \u00265T2"
+  },
+  "template3": {
+    "radius_x": 30,
+    "radius_z": 30,
+    "head_info": "Use the \u0027Value\u0027 code (Base64) from minecraft-heads.com for custom textures",
+    "head": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDk4NDhkZGU4ZTUzMGRjNzA1ZmI2NzdkYWQ4MTQ5MmNjMjIyYmY5NmZkNjMyYjg1MTRhZWZiODA5MzFmZTBkIn19fQ\u003d\u003d",
+    "display_name": "\u00268\u0026lClaim Module \u0026f- \u00265T3"
+  },
+  "template4": {
+    "radius_x": 40,
+    "radius_z": 40,
+    "head_info": "Use the \u0027Value\u0027 code (Base64) from minecraft-heads.com for custom textures",
+    "head": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDk4NDhkZGU4ZTUzMGRjNzA1ZmI2NzdkYWQ4MTQ5MmNjMjIyYmY5NmZkNjMyYjg1MTRhZWZiODA5MzFmZTBkIn19fQ\u003d\u003d",
+    "display_name": "\u00268\u0026lClaim Module \u0026f- \u00265T4"
+  },
+  "template5": {
+    "radius_x": 50,
+    "radius_z": 50,
+    "head_info": "Use the \u0027Value\u0027 code (Base64) from minecraft-heads.com for custom textures",
+    "head": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDk4NDhkZGU4ZTUzMGRjNzA1ZmI2NzdkYWQ4MTQ5MmNjMjIyYmY5NmZkNjMyYjg1MTRhZWZiODA5MzFmZTBkIn19fQ\u003d\u003d",
+    "display_name": "\u00268\u0026lClaim Module \u0026f- \u00265T5"
+  },
+  "template6": {
+    "radius_x": 75,
+    "radius_z": 75,
+    "head_info": "Use the \u0027Value\u0027 code (Base64) from minecraft-heads.com for custom textures",
+    "head": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDk4NDhkZGU4ZTUzMGRjNzA1ZmI2NzdkYWQ4MTQ5MmNjMjIyYmY5NmZkNjMyYjg1MTRhZWZiODA5MzFmZTBkIn19fQ\u003d\u003d",
+    "display_name": "\u00268\u0026lClaim Module \u0026f- \u00265T6"
+  },
+  "template7": {
+    "radius_x": 100,
+    "radius_z": 100,
+    "head_info": "Use the \u0027Value\u0027 code (Base64) from minecraft-heads.com for custom textures",
+    "head": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDk4NDhkZGU4ZTUzMGRjNzA1ZmI2NzdkYWQ4MTQ5MmNjMjIyYmY5NmZkNjMyYjg1MTRhZWZiODA5MzFmZTBkIn19fQ\u003d\u003d",
+    "display_name": "\u00268\u0026lClaim Module \u0026f- \u00265T7"
+  },
+  "template8": {
+    "radius_x": 150,
+    "radius_z": 150,
+    "head_info": "Use the \u0027Value\u0027 code (Base64) from minecraft-heads.com for custom textures",
+    "head": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDk4NDhkZGU4ZTUzMGRjNzA1ZmI2NzdkYWQ4MTQ5MmNjMjIyYmY5NmZkNjMyYjg1MTRhZWZiODA5MzFmZTBkIn19fQ\u003d\u003d",
+    "display_name": "\u00268\u0026lClaim Module \u0026f- \u00265T8"
+  }
+}

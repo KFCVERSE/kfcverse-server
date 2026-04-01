@@ -26096,6 +26096,18 @@
     },
     "done": true
   },
+  "lockandblock:recipes/redstone/keypad": {
+    "criteria": {
+      "has_the_recipe": "2026-04-01 17:32:22 +0200"
+    },
+    "done": true
+  },
+  "lockandblock:recipes/building_blocks/reinforced_iron_block": {
+    "criteria": {
+      "has_reinforced_iron_ingot": "2026-04-01 17:36:22 +0200"
+    },
+    "done": true
+  },
   "lockandblock:recipes/redstone/reinforced_iron_trapdoor": {
     "criteria": {
       "has_reinforced_iron_block": "2026-04-01 17:36:32 +0200"
@@ -26111,18 +26123,6 @@
   "lockandblock:recipes/redstone/lock_block": {
     "criteria": {
       "has_reinforced_iron_block": "2026-04-01 17:36:32 +0200"
-    },
-    "done": true
-  },
-  "lockandblock:recipes/building_blocks/reinforced_iron_block": {
-    "criteria": {
-      "has_reinforced_iron_ingot": "2026-04-01 17:36:22 +0200"
-    },
-    "done": true
-  },
-  "lockandblock:recipes/redstone/keypad": {
-    "criteria": {
-      "has_the_recipe": "2026-04-01 17:32:22 +0200"
     },
     "done": true
   },

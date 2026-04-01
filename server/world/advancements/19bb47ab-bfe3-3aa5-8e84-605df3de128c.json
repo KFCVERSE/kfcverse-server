@@ -25913,6 +25913,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
+    "criteria": {
+      "has_gold_backpack": "2026-04-01 16:55:01 +0200"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
     "criteria": {
       "has_diamond_backpack": "2026-04-01 16:55:28 +0200"
@@ -25922,12 +25928,6 @@
   "cobblemon:use_pasture": {
     "criteria": {
       "use_pasture": "2026-04-01 16:56:38 +0200"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
-    "criteria": {
-      "has_gold_backpack": "2026-04-01 16:55:01 +0200"
     },
     "done": true
   },
