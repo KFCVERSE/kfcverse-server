@@ -1,1 +1,48 @@
-[]
+[
+  {
+    "name": "githanoz-template2-6832",
+    "owner": "64461aa7-6513-3f8b-b3a7-db6890b9b8de",
+    "centerBlock": {
+      "field_11175": -2282,
+      "field_11174": 97,
+      "field_11173": -329
+    },
+    "stoneType": "template2",
+    "pos1": {
+      "field_11175": -2302,
+      "field_11174": -64,
+      "field_11173": -349
+    },
+    "pos2": {
+      "field_11175": -2262,
+      "field_11174": 320,
+      "field_11173": -309
+    },
+    "flags": {},
+    "members": [],
+    "world": "minecraft:overworld"
+  },
+  {
+    "name": "MODERATORH4CK3R-template1-6fbd",
+    "owner": "b1d6f4fa-cab9-3406-a64f-417535193863",
+    "centerBlock": {
+      "field_11175": -39,
+      "field_11174": 75,
+      "field_11173": 71
+    },
+    "stoneType": "template1",
+    "pos1": {
+      "field_11175": -49,
+      "field_11174": -64,
+      "field_11173": 61
+    },
+    "pos2": {
+      "field_11175": -29,
+      "field_11174": 320,
+      "field_11173": 81
+    },
+    "flags": {},
+    "members": [],
+    "world": "minecraft:overworld"
+  }
+]

@@ -11,7 +11,7 @@
     "totalCaptureCount": 40,
     "totalEggsCollected": 0,
     "totalEggsHatched": 0,
-    "totalEvolvedCount": 8,
+    "totalEvolvedCount": 9,
     "totalBattleVictoryCount": 68,
     "totalPvPBattleVictoryCount": 0,
     "totalPvWBattleVictoryCount": 63,
@@ -206,6 +206,9 @@
         "genderless"
       ],
       "cobblemon:cosmoem": [
+        "genderless"
+      ],
+      "cobblemon:solgaleo": [
         "genderless"
       ]
     }
