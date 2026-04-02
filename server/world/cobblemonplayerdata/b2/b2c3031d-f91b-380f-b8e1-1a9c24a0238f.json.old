@@ -7,14 +7,14 @@
   "battleTheme": "cobblemon:battle.pvp.default",
   "extraData": {},
   "advancementData": {
-    "totalCaptureCount": 16,
+    "totalCaptureCount": 21,
     "totalEggsCollected": 41,
     "totalEggsHatched": 78,
-    "totalEvolvedCount": 15,
-    "totalBattleVictoryCount": 97,
+    "totalEvolvedCount": 16,
+    "totalBattleVictoryCount": 108,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 93,
-    "totalPvNBattleVictoryCount": 4,
+    "totalPvWBattleVictoryCount": 100,
+    "totalPvNBattleVictoryCount": 8,
     "totalShinyCaptureCount": 1,
     "totalTradedCount": 5,
     "totalTypeCaptureCounts": {
@@ -27,8 +27,9 @@
       "dark": 1,
       "rock": 2,
       "electric": 2,
-      "flying": 1,
-      "ghost": 2
+      "flying": 2,
+      "ghost": 6,
+      "fire": 1
     },
     "totalDefeatedCounts": {
       "cobblemon:poliwhirl": 1,
@@ -38,7 +39,7 @@
       "cobblemon:pyukumuku": 1,
       "cobblemon:grimer": 4,
       "cobblemon:swellow": 1,
-      "cobblemon:voltorb": 3,
+      "cobblemon:voltorb": 4,
       "cobblemon:magmar": 1,
       "cobblemon:butterfree": 1,
       "cobblemon:wooloo": 1,
@@ -79,7 +80,8 @@
       "cobblemon:dodrio": 1,
       "cobblemon:duraludon": 1,
       "cobblemon:solgaleo": 1,
-      "cobblemon:porygon": 1
+      "cobblemon:porygon": 1,
+      "cobblemon:houndour": 1
     },
     "aspectsCollected": {
       "cobblemon:ditto": [
@@ -187,6 +189,13 @@
         "male"
       ],
       "cobblemon:blastoise": [
+        "male"
+      ],
+      "cobblemon:moltres": [
+        "genderless",
+        "legendary"
+      ],
+      "cobblemon:hydreigon": [
         "male"
       ]
     }

@@ -25701,5 +25701,17 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/yellow_shulker_box_to_sophisticated": {
+    "criteria": {
+      "has_yellow_shulker_box": "2026-04-01 18:56:23 +0200"
+    },
+    "done": true
+  },
+  "vanillabackport:recipes/misc/leaf_litter": {
+    "criteria": {
+      "has_leaves": "2026-04-01 19:20:09 +0200"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }

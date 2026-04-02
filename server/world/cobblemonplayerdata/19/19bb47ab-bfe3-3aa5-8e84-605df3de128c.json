@@ -8,29 +8,29 @@
   "battleTheme": "cobblemon:battle.pvp.default",
   "extraData": {},
   "advancementData": {
-    "totalCaptureCount": 40,
+    "totalCaptureCount": 42,
     "totalEggsCollected": 0,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 9,
-    "totalBattleVictoryCount": 68,
+    "totalBattleVictoryCount": 69,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 63,
+    "totalPvWBattleVictoryCount": 64,
     "totalPvNBattleVictoryCount": 5,
     "totalShinyCaptureCount": 2,
     "totalTradedCount": 0,
     "totalTypeCaptureCounts": {
-      "electric": 5,
+      "electric": 6,
       "psychic": 3,
       "normal": 11,
       "poison": 3,
       "ground": 2,
       "water": 5,
-      "flying": 5,
+      "flying": 6,
       "bug": 2,
       "fire": 2,
-      "steel": 2,
+      "steel": 3,
       "rock": 2,
-      "ice": 3,
+      "ice": 4,
       "ghost": 3,
       "grass": 1,
       "dragon": 1
@@ -210,6 +210,13 @@
       ],
       "cobblemon:solgaleo": [
         "genderless"
+      ],
+      "cobblemon:magnemite": [
+        "genderless"
+      ],
+      "cobblemon:articuno": [
+        "genderless",
+        "legendary"
       ]
     }
   }

@@ -10,6 +10,7 @@
       "minecraft:cold_ocean": "2026-02-22 20:37:01 +0100",
       "minecraft:snowy_slopes": "2026-03-20 15:00:48 +0100",
       "minecraft:old_growth_pine_taiga": "2026-02-27 21:58:36 +0100",
+      "minecraft:mushroom_fields": "2026-04-01 20:49:00 +0200",
       "minecraft:forest": "2026-02-27 22:01:19 +0100",
       "minecraft:taiga": "2026-02-22 20:33:15 +0100",
       "minecraft:deep_ocean": "2026-02-27 21:54:18 +0100",
@@ -110,15 +111,20 @@
       "obtain_hondew_berry": "2026-04-01 17:20:15 +0200",
       "obtain_chilan_berry": "2026-03-30 18:16:46 +0200",
       "obtain_babiri_berry": "2026-03-26 20:01:31 +0100",
+      "obtain_persim_berry": "2026-04-01 20:22:15 +0200",
       "obtain_passho_berry": "2026-03-06 21:44:39 +0100",
       "obtain_cheri_berry": "2026-03-06 18:44:06 +0100",
       "obtain_occa_berry": "2026-04-01 17:57:32 +0200",
       "obtain_wiki_berry": "2026-03-19 20:56:03 +0100",
+      "obtain_hopo_berry": "2026-04-01 22:00:57 +0200",
+      "obtain_maranga_berry": "2026-04-01 19:34:20 +0200",
       "obtain_rawst_berry": "2026-03-20 14:36:31 +0100",
       "obtain_wacan_berry": "2026-03-18 17:46:07 +0100",
+      "obtain_magost_berry": "2026-04-01 20:13:29 +0200",
       "obtain_chesto_berry": "2026-03-06 20:00:56 +0100",
       "obtain_kasib_berry": "2026-03-26 20:01:25 +0100",
-      "obtain_razz_berry": "2026-03-29 19:46:05 +0200"
+      "obtain_razz_berry": "2026-03-29 19:46:05 +0200",
+      "obtain_wepear_berry": "2026-04-01 19:42:37 +0200"
     },
     "done": false
   },
@@ -448,29 +454,33 @@
   },
   "cobblemon:craft_all_balls": {
     "criteria": {
-      "heal_ball": "2026-03-29 19:46:07 +0200",
       "nest_ball": "2026-03-29 19:29:12 +0200",
       "quick_ball": "2026-03-20 13:00:22 +0100",
       "ancient_leaden_ball": "2026-04-01 13:26:29 +0200",
+      "great_ball": "2026-04-01 20:02:17 +0200",
+      "dusk_ball": "2026-04-01 20:32:36 +0200",
       "timer_ball": "2026-03-30 13:51:02 +0200",
-      "slate_ball": "2026-03-30 13:51:03 +0200",
-      "ancient_feather_ball": "2026-03-30 13:50:57 +0200",
-      "beast_ball": "2026-04-01 13:34:03 +0200",
       "ancient_poke_ball": "2026-03-20 13:00:12 +0100",
       "moon_ball": "2026-03-21 17:57:50 +0100",
-      "poke_ball": "2026-02-18 19:51:47 +0100",
       "azure_ball": "2026-02-18 20:38:18 +0100",
-      "citrine_ball": "2026-03-20 17:09:58 +0100",
       "net_ball": "2026-04-01 13:45:14 +0200",
       "dive_ball": "2026-03-27 16:41:54 +0100",
-      "roseate_ball": "2026-03-06 19:37:58 +0100",
-      "lure_ball": "2026-03-21 17:58:40 +0100",
       "safari_ball": "2026-03-21 17:58:10 +0100",
-      "premier_ball": "2026-03-20 17:10:27 +0100",
       "heavy_ball": "2026-03-29 19:27:57 +0200",
       "verdant_ball": "2026-03-07 20:44:09 +0100",
       "dream_ball": "2026-03-30 13:48:03 +0200",
-      "ultra_ball": "2026-04-01 13:47:47 +0200"
+      "ultra_ball": "2026-04-01 13:47:47 +0200",
+      "heal_ball": "2026-03-29 19:46:07 +0200",
+      "slate_ball": "2026-03-30 13:51:03 +0200",
+      "ancient_feather_ball": "2026-03-30 13:50:57 +0200",
+      "beast_ball": "2026-04-01 13:34:03 +0200",
+      "poke_ball": "2026-02-18 19:51:47 +0100",
+      "citrine_ball": "2026-03-20 17:09:58 +0100",
+      "roseate_ball": "2026-03-06 19:37:58 +0100",
+      "lure_ball": "2026-03-21 17:58:40 +0100",
+      "premier_ball": "2026-03-20 17:10:27 +0100",
+      "master_ball": "2026-04-01 20:28:23 +0200",
+      "park_ball": "2026-04-01 20:33:15 +0200"
     },
     "done": false
   },
@@ -24617,16 +24627,17 @@
     "criteria": {
       "minecraft:pillager": "2026-02-27 22:26:29 +0100",
       "minecraft:skeleton": "2026-02-22 20:58:44 +0100",
-      "minecraft:enderman": "2026-03-19 19:58:53 +0100",
+      "minecraft:zombified_piglin": "2026-04-01 21:14:55 +0200",
       "minecraft:witch": "2026-03-07 20:40:39 +0100",
+      "minecraft:ghast": "2026-03-19 19:25:41 +0100",
+      "minecraft:shulker": "2026-04-01 13:24:01 +0200",
+      "minecraft:enderman": "2026-03-19 19:58:53 +0100",
       "minecraft:endermite": "2026-04-01 13:50:19 +0200",
       "minecraft:spider": "2026-02-27 22:23:43 +0100",
       "minecraft:zombie": "2026-02-22 21:04:07 +0100",
       "minecraft:creeper": "2026-03-27 17:26:31 +0100",
       "minecraft:drowned": "2026-03-18 17:09:36 +0100",
-      "minecraft:zombie_villager": "2026-03-21 18:01:29 +0100",
-      "minecraft:ghast": "2026-03-19 19:25:41 +0100",
-      "minecraft:shulker": "2026-04-01 13:24:01 +0200"
+      "minecraft:zombie_villager": "2026-03-21 18:01:29 +0100"
     },
     "done": false
   },
@@ -24956,6 +24967,7 @@
       "obtain_potion": "2026-03-19 20:56:06 +0100",
       "obtain_max_ether": "2026-03-19 20:56:05 +0100",
       "obtain_antidote": "2026-03-20 13:00:28 +0100",
+      "obtain_full_restore": "2026-04-01 20:28:26 +0200",
       "obtain_elixir": "2026-03-30 18:16:47 +0200",
       "obtain_hyper_potion": "2026-04-01 16:55:26 +0200"
     },
@@ -25421,6 +25433,24 @@
   "sophisticatedstorage:recipes/misc/yellow_shulker_box_to_sophisticated": {
     "criteria": {
       "has_yellow_shulker_box": "2026-04-01 18:14:31 +0200"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2026-04-01 19:47:14 +0200"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "chorus_fruit": "2026-04-01 19:47:14 +0200"
+    },
+    "done": false
+  },
+  "cobblemon:brew_full_restore": {
+    "criteria": {
+      "check_inv": "2026-04-01 20:28:26 +0200"
     },
     "done": true
   },

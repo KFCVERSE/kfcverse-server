@@ -25947,5 +25947,23 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/yellow_shulker_box_to_sophisticated": {
+    "criteria": {
+      "has_yellow_shulker_box": "2026-04-01 19:20:23 +0200"
+    },
+    "done": true
+  },
+  "cobbleverse:pokemon/catch_articuno": {
+    "criteria": {
+      "caught_articuno": "2026-04-01 20:39:54 +0200"
+    },
+    "done": true
+  },
+  "minecraft:end/dragon_egg": {
+    "criteria": {
+      "dragon_egg": "2026-04-01 20:50:02 +0200"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }

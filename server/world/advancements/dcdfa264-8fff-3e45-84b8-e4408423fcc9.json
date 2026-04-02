@@ -16,6 +16,7 @@
       "minecraft:lush_caves": "2026-03-29 19:14:39 +0200",
       "minecraft:deep_cold_ocean": "2026-03-22 15:45:24 +0100",
       "minecraft:frozen_ocean": "2026-03-22 16:20:26 +0100",
+      "minecraft:desert": "2026-04-01 23:18:51 +0200",
       "minecraft:frozen_river": "2026-03-07 20:58:03 +0100",
       "minecraft:windswept_forest": "2026-03-06 20:03:28 +0100",
       "minecraft:deep_frozen_ocean": "2026-03-22 16:20:47 +0100",
@@ -594,7 +595,8 @@
       "obtain_enigma_berry": "2026-03-13 23:15:45 +0100",
       "obtain_chesto_berry": "2026-03-07 21:07:31 +0100",
       "obtain_petaya_berry": "2026-03-29 22:05:15 +0200",
-      "obtain_kasib_berry": "2026-03-29 21:52:08 +0200"
+      "obtain_kasib_berry": "2026-03-29 21:52:08 +0200",
+      "obtain_roseli_berry": "2026-04-01 19:22:01 +0200"
     },
     "done": false
   },
@@ -25681,7 +25683,9 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
-      "minecraft:nether_wastes": "2026-03-18 17:31:56 +0100"
+      "minecraft:crimson_forest": "2026-04-02 13:11:04 +0200",
+      "minecraft:nether_wastes": "2026-03-18 17:31:56 +0100",
+      "minecraft:basalt_deltas": "2026-04-02 13:09:46 +0200"
     },
     "done": false
   },
@@ -26171,6 +26175,12 @@
   "lockandblock:recipes/building_blocks/reinforced_iron_stairs": {
     "criteria": {
       "has_reinforced_iron_block": "2026-04-01 17:36:32 +0200"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2026-04-02 13:13:34 +0200"
     },
     "done": true
   },

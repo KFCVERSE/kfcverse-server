@@ -8,18 +8,18 @@
   "battleTheme": "cobblemon:battle.pvp.default",
   "extraData": {},
   "advancementData": {
-    "totalCaptureCount": 62,
-    "totalEggsCollected": 76,
+    "totalCaptureCount": 64,
+    "totalEggsCollected": 77,
     "totalEggsHatched": 232,
     "totalEvolvedCount": 18,
-    "totalBattleVictoryCount": 78,
+    "totalBattleVictoryCount": 80,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 70,
+    "totalPvWBattleVictoryCount": 72,
     "totalPvNBattleVictoryCount": 8,
     "totalShinyCaptureCount": 6,
     "totalTradedCount": 4,
     "totalTypeCaptureCounts": {
-      "psychic": 3,
+      "psychic": 4,
       "ground": 3,
       "steel": 5,
       "poison": 1,
@@ -34,7 +34,9 @@
       "water": 3,
       "fighting": 1,
       "fire": 6,
-      "electric": 2
+      "electric": 2,
+      "grass": 1,
+      "ice": 1
     },
     "totalDefeatedCounts": {
       "cobblemon:gimmighoul": 7,
@@ -223,6 +225,13 @@
       "cobblemon:necrozma": [
         "genderless",
         "dusk-fusion"
+      ],
+      "cobblemon:calyrex": [
+        "genderless"
+      ],
+      "cobblemon:glastrier": [
+        "genderless",
+        "legendary"
       ]
     }
   }
