@@ -25262,14 +25262,15 @@
       "minecraft:skeleton": "2026-03-06 18:33:14 +0100",
       "minecraft:phantom": "2026-03-13 21:05:14 +0100",
       "minecraft:zombified_piglin": "2026-03-19 22:12:39 +0100",
-      "minecraft:silverfish": "2026-04-02 12:29:32 +0200",
       "minecraft:witch": "2026-03-07 17:33:32 +0100",
+      "minecraft:bogged": "2026-03-13 19:38:05 +0100",
+      "minecraft:silverfish": "2026-04-02 12:29:32 +0200",
+      "minecraft:magma_cube": "2026-04-02 16:25:51 +0200",
       "minecraft:spider": "2026-03-06 18:37:04 +0100",
       "minecraft:zombie": "2026-03-06 18:19:03 +0100",
       "minecraft:creeper": "2026-03-13 20:52:08 +0100",
       "minecraft:drowned": "2026-03-07 16:45:46 +0100",
-      "minecraft:zombie_villager": "2026-03-07 21:10:00 +0100",
-      "minecraft:bogged": "2026-03-13 19:38:05 +0100"
+      "minecraft:zombie_villager": "2026-03-07 21:10:00 +0100"
     },
     "done": false
   },
@@ -25562,7 +25563,9 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
-      "minecraft:nether_wastes": "2026-03-07 21:02:05 +0100"
+      "minecraft:nether_wastes": "2026-03-07 21:02:05 +0100",
+      "minecraft:soul_sand_valley": "2026-04-02 15:39:14 +0200",
+      "minecraft:basalt_deltas": "2026-04-02 15:49:51 +0200"
     },
     "done": false
   },
@@ -25995,6 +25998,12 @@
   "minecraft:adventure/avoid_vibration": {
     "criteria": {
       "avoid_vibration": "2026-04-02 13:18:47 +0200"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2026-04-02 15:50:50 +0200"
     },
     "done": true
   },

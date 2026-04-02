@@ -8,7 +8,7 @@
   "battleTheme": "cobblemon:battle.pvp.default",
   "extraData": {},
   "advancementData": {
-    "totalCaptureCount": 20,
+    "totalCaptureCount": 21,
     "totalEggsCollected": 0,
     "totalEggsHatched": 2,
     "totalEvolvedCount": 4,
@@ -28,9 +28,10 @@
       "ground": 3,
       "normal": 10,
       "steel": 2,
-      "ghost": 1,
+      "ghost": 2,
       "grass": 1,
-      "dragon": 1
+      "dragon": 1,
+      "poison": 1
     },
     "totalDefeatedCounts": {
       "cobblemon:meowth": 2,
@@ -139,6 +140,9 @@
       "cobblemon:rayquaza": [
         "shiny",
         "genderless"
+      ],
+      "cobblemon:gastly": [
+        "female"
       ]
     }
   }

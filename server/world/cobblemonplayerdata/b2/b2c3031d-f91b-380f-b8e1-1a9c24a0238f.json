@@ -7,18 +7,18 @@
   "battleTheme": "cobblemon:battle.pvp.default",
   "extraData": {},
   "advancementData": {
-    "totalCaptureCount": 21,
+    "totalCaptureCount": 22,
     "totalEggsCollected": 41,
     "totalEggsHatched": 78,
-    "totalEvolvedCount": 16,
-    "totalBattleVictoryCount": 108,
+    "totalEvolvedCount": 17,
+    "totalBattleVictoryCount": 110,
     "totalPvPBattleVictoryCount": 0,
     "totalPvWBattleVictoryCount": 100,
-    "totalPvNBattleVictoryCount": 8,
+    "totalPvNBattleVictoryCount": 10,
     "totalShinyCaptureCount": 1,
     "totalTradedCount": 5,
     "totalTypeCaptureCounts": {
-      "normal": 5,
+      "normal": 6,
       "bug": 2,
       "poison": 1,
       "fairy": 2,
@@ -196,6 +196,12 @@
         "legendary"
       ],
       "cobblemon:hydreigon": [
+        "male"
+      ],
+      "cobblemon:silvally": [
+        "genderless"
+      ],
+      "cobblemon:eevee": [
         "male"
       ]
     }

@@ -10112,6 +10112,7 @@
       "heal_ball": "2026-03-06 22:15:27 +0100",
       "ancient_wing_ball": "2026-03-07 23:51:04 +0100",
       "slate_ball": "2026-02-27 21:57:19 +0100",
+      "ancient_verdant_ball": "2026-04-02 16:18:16 +0200",
       "ancient_feather_ball": "2026-03-07 18:17:15 +0100",
       "beast_ball": "2026-04-01 13:18:01 +0200",
       "poke_ball": "2026-02-18 19:51:52 +0100",
@@ -10126,7 +10127,7 @@
       "park_ball": "2026-03-20 10:36:22 +0100",
       "master_ball": "2026-03-26 19:47:00 +0100"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
@@ -25137,6 +25138,7 @@
       "ancient_gigaton_ball": "2026-03-22 15:00:59 +0100",
       "ancient_leaden_ball": "2026-03-07 21:41:36 +0100",
       "ancient_wing_ball": "2026-03-07 23:51:04 +0100",
+      "ancient_verdant_ball": "2026-04-02 16:18:16 +0200",
       "ancient_feather_ball": "2026-03-07 18:17:15 +0100",
       "ancient_poke_ball": "2026-03-07 18:19:20 +0100",
       "ancient_azure_ball": "2026-03-07 18:19:20 +0100",
@@ -25149,7 +25151,7 @@
       "ancient_ultra_ball": "2026-03-20 10:27:47 +0100",
       "ancient_heavy_ball": "2026-04-01 13:30:58 +0200"
     },
-    "done": false
+    "done": true
   },
   "cobblemon:cook_all_regional_delicacies": {
     "criteria": {
@@ -25762,6 +25764,12 @@
   "cobbleverse:trainer/kanto/defeat_blaine": {
     "criteria": {
       "leader_defeated": "2026-04-02 12:47:29 +0200"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/consumables/vivichoke_dip": {
+    "criteria": {
+      "has_vivichoke": "2026-04-02 16:18:13 +0200"
     },
     "done": true
   },

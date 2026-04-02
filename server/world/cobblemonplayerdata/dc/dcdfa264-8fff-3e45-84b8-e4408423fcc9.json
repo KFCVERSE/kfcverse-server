@@ -9,13 +9,13 @@
   "extraData": {},
   "advancementData": {
     "totalCaptureCount": 64,
-    "totalEggsCollected": 77,
+    "totalEggsCollected": 80,
     "totalEggsHatched": 232,
-    "totalEvolvedCount": 18,
-    "totalBattleVictoryCount": 80,
+    "totalEvolvedCount": 19,
+    "totalBattleVictoryCount": 82,
     "totalPvPBattleVictoryCount": 0,
     "totalPvWBattleVictoryCount": 72,
-    "totalPvNBattleVictoryCount": 8,
+    "totalPvNBattleVictoryCount": 10,
     "totalShinyCaptureCount": 6,
     "totalTradedCount": 4,
     "totalTypeCaptureCounts": {
@@ -232,6 +232,9 @@
       "cobblemon:glastrier": [
         "genderless",
         "legendary"
+      ],
+      "cobblemon:hydreigon": [
+        "female"
       ]
     }
   }

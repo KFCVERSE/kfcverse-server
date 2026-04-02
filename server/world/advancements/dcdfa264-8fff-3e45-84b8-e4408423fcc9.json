@@ -46,6 +46,7 @@
       "minecraft:snowy_taiga": "2026-03-22 16:23:00 +0100",
       "minecraft:frozen_peaks": "2026-03-08 20:40:07 +0100",
       "minecraft:old_growth_birch_forest": "2026-03-06 19:19:57 +0100",
+      "minecraft:deep_dark": "2026-04-02 16:29:05 +0200",
       "minecraft:grove": "2026-03-07 19:23:27 +0100",
       "minecraft:swamp": "2026-03-30 16:18:31 +0200",
       "minecraft:meadow": "2026-03-07 21:01:25 +0100",
@@ -26181,6 +26182,24 @@
   "minecraft:nether/find_bastion": {
     "criteria": {
       "bastion": "2026-04-02 13:13:34 +0200"
+    },
+    "done": true
+  },
+  "cobbleverse:trainer/kanto/defeat_blaine": {
+    "criteria": {
+      "leader_defeated": "2026-04-02 16:00:39 +0200"
+    },
+    "done": true
+  },
+  "cobbleverse:trainer/kanto/defeat_giovanni": {
+    "criteria": {
+      "leader_defeated": "2026-04-02 16:39:00 +0200"
+    },
+    "done": true
+  },
+  "cobbleverse:item/obtain_mew_dna": {
+    "criteria": {
+      "giovanni_defeated": "2026-04-02 16:39:02 +0200"
     },
     "done": true
   },
