@@ -471,6 +471,7 @@
       "dream_ball": "2026-03-30 13:48:03 +0200",
       "ultra_ball": "2026-04-01 13:47:47 +0200",
       "heal_ball": "2026-03-29 19:46:07 +0200",
+      "ancient_wing_ball": "2026-04-02 18:47:37 +0200",
       "slate_ball": "2026-03-30 13:51:03 +0200",
       "ancient_feather_ball": "2026-03-30 13:50:57 +0200",
       "beast_ball": "2026-04-01 13:34:03 +0200",
@@ -25066,6 +25067,7 @@
   "cobblemon:craft_ancient_balls": {
     "criteria": {
       "ancient_leaden_ball": "2026-04-01 13:26:29 +0200",
+      "ancient_wing_ball": "2026-04-02 18:47:37 +0200",
       "ancient_feather_ball": "2026-03-30 13:50:57 +0200",
       "ancient_poke_ball": "2026-03-20 13:00:12 +0100"
     },
