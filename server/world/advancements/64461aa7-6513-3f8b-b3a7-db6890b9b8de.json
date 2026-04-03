@@ -124,6 +124,7 @@
       "obtain_chesto_berry": "2026-03-06 20:00:56 +0100",
       "obtain_kasib_berry": "2026-03-26 20:01:25 +0100",
       "obtain_razz_berry": "2026-03-29 19:46:05 +0200",
+      "obtain_pecha_berry": "2026-04-02 20:41:52 +0200",
       "obtain_wepear_berry": "2026-04-01 19:42:37 +0200"
     },
     "done": false
@@ -465,10 +466,12 @@
       "azure_ball": "2026-02-18 20:38:18 +0100",
       "net_ball": "2026-04-01 13:45:14 +0200",
       "dive_ball": "2026-03-27 16:41:54 +0100",
+      "ancient_ultra_ball": "2026-04-02 21:18:22 +0200",
       "safari_ball": "2026-03-21 17:58:10 +0100",
       "heavy_ball": "2026-03-29 19:27:57 +0200",
       "verdant_ball": "2026-03-07 20:44:09 +0100",
       "dream_ball": "2026-03-30 13:48:03 +0200",
+      "ancient_heavy_ball": "2026-04-02 21:28:39 +0200",
       "ultra_ball": "2026-04-01 13:47:47 +0200",
       "heal_ball": "2026-03-29 19:46:07 +0200",
       "ancient_wing_ball": "2026-04-02 18:47:37 +0200",
@@ -24968,6 +24971,7 @@
       "obtain_potion": "2026-03-19 20:56:06 +0100",
       "obtain_max_ether": "2026-03-19 20:56:05 +0100",
       "obtain_antidote": "2026-03-20 13:00:28 +0100",
+      "obtain_paralyze_heal": "2026-04-02 20:41:35 +0200",
       "obtain_full_restore": "2026-04-01 20:28:26 +0200",
       "obtain_elixir": "2026-03-30 18:16:47 +0200",
       "obtain_hyper_potion": "2026-04-01 16:55:26 +0200"
@@ -25069,7 +25073,9 @@
       "ancient_leaden_ball": "2026-04-01 13:26:29 +0200",
       "ancient_wing_ball": "2026-04-02 18:47:37 +0200",
       "ancient_feather_ball": "2026-03-30 13:50:57 +0200",
-      "ancient_poke_ball": "2026-03-20 13:00:12 +0100"
+      "ancient_poke_ball": "2026-03-20 13:00:12 +0100",
+      "ancient_ultra_ball": "2026-04-02 21:18:22 +0200",
+      "ancient_heavy_ball": "2026-04-02 21:28:39 +0200"
     },
     "done": false
   },
@@ -25453,6 +25459,138 @@
   "cobblemon:brew_full_restore": {
     "criteria": {
       "check_inv": "2026-04-01 20:28:26 +0200"
+    },
+    "done": true
+  },
+  "minecraft:end/levitate": {
+    "criteria": {
+      "levitated": "2026-04-02 20:24:55 +0200"
+    },
+    "done": true
+  },
+  "moarconcrete:recipes/building_blocks/pink_concrete_wall_from_pink_concrete_stonecutting": {
+    "criteria": {
+      "has_pink_concrete": "2026-04-02 21:18:12 +0200"
+    },
+    "done": true
+  },
+  "moarconcrete:recipes/building_blocks/pink_concrete_bricks_from_pink_concrete_stonecutting": {
+    "criteria": {
+      "has_pink_concrete": "2026-04-02 21:18:12 +0200"
+    },
+    "done": true
+  },
+  "moarconcrete:recipes/building_blocks/pink_concrete_slab_from_pink_concrete_stonecutting": {
+    "criteria": {
+      "has_pink_concrete": "2026-04-02 21:18:12 +0200"
+    },
+    "done": true
+  },
+  "moarconcrete:recipes/building_blocks/pink_concrete_panel_from_pink_concrete_stonecutting": {
+    "criteria": {
+      "has_pink_concrete": "2026-04-02 21:18:12 +0200"
+    },
+    "done": true
+  },
+  "moarconcrete:recipes/building_blocks/pink_concrete_stairs_from_pink_concrete_stonecutting": {
+    "criteria": {
+      "has_pink_concrete": "2026-04-02 21:18:12 +0200"
+    },
+    "done": true
+  },
+  "moarconcrete:recipes/building_blocks/pink_concrete_brick_slab_from_pink_concrete_stonecutting": {
+    "criteria": {
+      "has_pink_concrete": "2026-04-02 21:18:12 +0200"
+    },
+    "done": true
+  },
+  "moarconcrete:recipes/building_blocks/magenta_concrete_brick_slab_from_magenta_concrete_stonecutting": {
+    "criteria": {
+      "has_magenta_concrete": "2026-04-02 21:44:46 +0200"
+    },
+    "done": true
+  },
+  "moarconcrete:recipes/building_blocks/magenta_concrete_bricks_from_magenta_concrete_stonecutting": {
+    "criteria": {
+      "has_magenta_concrete": "2026-04-02 21:44:46 +0200"
+    },
+    "done": true
+  },
+  "moarconcrete:recipes/building_blocks/magenta_concrete_stairs_from_magenta_concrete_stonecutting": {
+    "criteria": {
+      "has_magenta_concrete": "2026-04-02 21:44:46 +0200"
+    },
+    "done": true
+  },
+  "moarconcrete:recipes/building_blocks/magenta_concrete_panel_from_magenta_concrete_stonecutting": {
+    "criteria": {
+      "has_magenta_concrete": "2026-04-02 21:44:46 +0200"
+    },
+    "done": true
+  },
+  "moarconcrete:recipes/building_blocks/magenta_concrete_wall_from_magenta_concrete_stonecutting": {
+    "criteria": {
+      "has_magenta_concrete": "2026-04-02 21:44:46 +0200"
+    },
+    "done": true
+  },
+  "moarconcrete:recipes/building_blocks/magenta_concrete_slab_from_magenta_concrete_stonecutting": {
+    "criteria": {
+      "has_magenta_concrete": "2026-04-02 21:44:46 +0200"
+    },
+    "done": true
+  },
+  "lockandblock:recipes/combat/trip_mine": {
+    "criteria": {
+      "has_tnt": "2026-04-02 21:44:47 +0200"
+    },
+    "done": true
+  },
+  "lockandblock:recipes/combat/detonator_mine": {
+    "criteria": {
+      "has_item": "2026-04-02 21:44:47 +0200"
+    },
+    "done": true
+  },
+  "lockandblock:recipes/combat/land_mine": {
+    "criteria": {
+      "has_item": "2026-04-02 21:44:47 +0200"
+    },
+    "done": true
+  },
+  "moarconcrete:recipes/building_blocks/purple_concrete_stairs_from_purple_concrete_stonecutting": {
+    "criteria": {
+      "has_purple_concrete": "2026-04-02 21:45:04 +0200"
+    },
+    "done": true
+  },
+  "moarconcrete:recipes/building_blocks/purple_concrete_wall_from_purple_concrete_stonecutting": {
+    "criteria": {
+      "has_purple_concrete": "2026-04-02 21:45:04 +0200"
+    },
+    "done": true
+  },
+  "moarconcrete:recipes/building_blocks/purple_concrete_panel_from_purple_concrete_stonecutting": {
+    "criteria": {
+      "has_purple_concrete": "2026-04-02 21:45:04 +0200"
+    },
+    "done": true
+  },
+  "moarconcrete:recipes/building_blocks/purple_concrete_brick_slab_from_purple_concrete_stonecutting": {
+    "criteria": {
+      "has_purple_concrete": "2026-04-02 21:45:04 +0200"
+    },
+    "done": true
+  },
+  "moarconcrete:recipes/building_blocks/purple_concrete_bricks_from_purple_concrete_stonecutting": {
+    "criteria": {
+      "has_purple_concrete": "2026-04-02 21:45:04 +0200"
+    },
+    "done": true
+  },
+  "moarconcrete:recipes/building_blocks/purple_concrete_slab_from_purple_concrete_stonecutting": {
+    "criteria": {
+      "has_purple_concrete": "2026-04-02 21:45:04 +0200"
     },
     "done": true
   },

@@ -12,9 +12,9 @@
     "totalEggsCollected": 0,
     "totalEggsHatched": 2,
     "totalEvolvedCount": 4,
-    "totalBattleVictoryCount": 41,
+    "totalBattleVictoryCount": 42,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 41,
+    "totalPvWBattleVictoryCount": 42,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 1,
     "totalTradedCount": 0,
@@ -58,7 +58,8 @@
       "cobblemon:slugma": 1,
       "cobblemon:gimmighoul": 1,
       "cobblemon:pawmo": 1,
-      "cobblemon:claydol": 1
+      "cobblemon:claydol": 1,
+      "cobblemon:honchkrow": 1
     },
     "aspectsCollected": {
       "cobblemon:marill": [

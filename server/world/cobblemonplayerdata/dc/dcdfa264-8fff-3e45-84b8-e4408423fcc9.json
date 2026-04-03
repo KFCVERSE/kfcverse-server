@@ -4,29 +4,31 @@
   "starterLocked": false,
   "starterSelected": true,
   "starterUUID": "3fa60967-9c3d-43ce-9503-bfdaa31a7224",
-  "keyItems": [],
+  "keyItems": [
+    "cobblemon:key_stone"
+  ],
   "battleTheme": "cobblemon:battle.pvp.default",
   "extraData": {},
   "advancementData": {
-    "totalCaptureCount": 64,
+    "totalCaptureCount": 71,
     "totalEggsCollected": 80,
     "totalEggsHatched": 232,
     "totalEvolvedCount": 19,
-    "totalBattleVictoryCount": 82,
+    "totalBattleVictoryCount": 89,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 72,
+    "totalPvWBattleVictoryCount": 79,
     "totalPvNBattleVictoryCount": 10,
     "totalShinyCaptureCount": 6,
     "totalTradedCount": 4,
     "totalTypeCaptureCounts": {
-      "psychic": 4,
+      "psychic": 7,
       "ground": 3,
       "steel": 5,
       "poison": 1,
       "flying": 7,
       "rock": 4,
       "dragon": 3,
-      "ghost": 15,
+      "ghost": 18,
       "fairy": 4,
       "normal": 18,
       "dark": 1,
@@ -34,7 +36,7 @@
       "water": 3,
       "fighting": 1,
       "fire": 6,
-      "electric": 2,
+      "electric": 4,
       "grass": 1,
       "ice": 1
     },
@@ -235,6 +237,19 @@
       ],
       "cobblemon:hydreigon": [
         "female"
+      ],
+      "cobblemon:cosmoem": [
+        "genderless"
+      ],
+      "cobblemon:cosmog": [
+        "genderless"
+      ],
+      "cobblemon:hoopa": [
+        "genderless",
+        "confined"
+      ],
+      "cobblemon:xurkitree": [
+        "genderless"
       ]
     }
   }

@@ -3,33 +3,36 @@
   "starterPrompted": false,
   "starterLocked": false,
   "starterSelected": false,
-  "keyItems": [],
+  "keyItems": [
+    "cobblemon:key_stone"
+  ],
   "battleTheme": "cobblemon:battle.pvp.default",
   "extraData": {},
   "advancementData": {
-    "totalCaptureCount": 22,
+    "totalCaptureCount": 31,
     "totalEggsCollected": 41,
     "totalEggsHatched": 78,
-    "totalEvolvedCount": 17,
-    "totalBattleVictoryCount": 110,
+    "totalEvolvedCount": 19,
+    "totalBattleVictoryCount": 117,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 100,
+    "totalPvWBattleVictoryCount": 107,
     "totalPvNBattleVictoryCount": 10,
     "totalShinyCaptureCount": 1,
     "totalTradedCount": 5,
     "totalTypeCaptureCounts": {
-      "normal": 6,
+      "normal": 7,
       "bug": 2,
       "poison": 1,
       "fairy": 2,
-      "steel": 4,
-      "psychic": 2,
-      "dark": 1,
+      "steel": 5,
+      "psychic": 8,
+      "dark": 2,
       "rock": 2,
-      "electric": 2,
+      "electric": 3,
       "flying": 2,
       "ghost": 6,
-      "fire": 1
+      "fire": 1,
+      "dragon": 1
     },
     "totalDefeatedCounts": {
       "cobblemon:poliwhirl": 1,
@@ -81,7 +84,9 @@
       "cobblemon:duraludon": 1,
       "cobblemon:solgaleo": 1,
       "cobblemon:porygon": 1,
-      "cobblemon:houndour": 1
+      "cobblemon:houndour": 1,
+      "cobblemon:hoppip": 1,
+      "cobblemon:psyduck": 1
     },
     "aspectsCollected": {
       "cobblemon:ditto": [
@@ -96,7 +101,9 @@
       "cobblemon:gyarados": [
         "male",
         "magikarp-jump-standard",
-        "gyarados-eye-color-red"
+        "gyarados-eye-color-red",
+        "female",
+        "magikarp-jump-calico-orange-white-black"
       ],
       "cobblemon:talonflame": [
         "male"
@@ -203,6 +210,35 @@
       ],
       "cobblemon:eevee": [
         "male"
+      ],
+      "cobblemon:inkay": [
+        "male"
+      ],
+      "cobblemon:unown": [
+        "genderless",
+        "character-h",
+        "character-n"
+      ],
+      "cobblemon:xurkitree": [
+        "genderless"
+      ],
+      "cobblemon:porygonz": [
+        "genderless"
+      ],
+      "cobblemon:cosmoem": [
+        "genderless"
+      ],
+      "cobblemon:duosion": [
+        "female"
+      ],
+      "cobblemon:cosmog": [
+        "genderless"
+      ],
+      "cobblemon:duraludon": [
+        "male"
+      ],
+      "cobblemon:lunala": [
+        "genderless"
       ]
     }
   }
