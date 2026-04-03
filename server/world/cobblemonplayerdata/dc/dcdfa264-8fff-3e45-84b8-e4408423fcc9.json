@@ -13,7 +13,7 @@
     "totalCaptureCount": 74,
     "totalEggsCollected": 95,
     "totalEggsHatched": 248,
-    "totalEvolvedCount": 23,
+    "totalEvolvedCount": 24,
     "totalBattleVictoryCount": 93,
     "totalPvPBattleVictoryCount": 0,
     "totalPvWBattleVictoryCount": 83,
@@ -101,7 +101,8 @@
         "female"
       ],
       "cobblemon:gabite": [
-        "male"
+        "male",
+        "female"
       ],
       "cobblemon:corvisquire": [
         "male"

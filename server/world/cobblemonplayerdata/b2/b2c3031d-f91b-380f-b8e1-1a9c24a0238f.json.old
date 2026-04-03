@@ -3,9 +3,7 @@
   "starterPrompted": false,
   "starterLocked": false,
   "starterSelected": false,
-  "keyItems": [
-    "cobblemon:key_stone"
-  ],
+  "keyItems": [],
   "battleTheme": "cobblemon:battle.pvp.default",
   "extraData": {},
   "advancementData": {
