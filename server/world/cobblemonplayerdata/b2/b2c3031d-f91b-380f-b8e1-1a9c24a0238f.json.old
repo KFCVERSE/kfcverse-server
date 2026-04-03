@@ -9,18 +9,18 @@
   "battleTheme": "cobblemon:battle.pvp.default",
   "extraData": {},
   "advancementData": {
-    "totalCaptureCount": 31,
+    "totalCaptureCount": 32,
     "totalEggsCollected": 41,
     "totalEggsHatched": 78,
-    "totalEvolvedCount": 19,
-    "totalBattleVictoryCount": 117,
+    "totalEvolvedCount": 20,
+    "totalBattleVictoryCount": 120,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 107,
+    "totalPvWBattleVictoryCount": 110,
     "totalPvNBattleVictoryCount": 10,
     "totalShinyCaptureCount": 1,
     "totalTradedCount": 5,
     "totalTypeCaptureCounts": {
-      "normal": 7,
+      "normal": 8,
       "bug": 2,
       "poison": 1,
       "fairy": 2,
@@ -86,7 +86,8 @@
       "cobblemon:porygon": 1,
       "cobblemon:houndour": 1,
       "cobblemon:hoppip": 1,
-      "cobblemon:psyduck": 1
+      "cobblemon:psyduck": 1,
+      "cobblemon:elgyem": 3
     },
     "aspectsCollected": {
       "cobblemon:ditto": [
@@ -239,6 +240,9 @@
       ],
       "cobblemon:lunala": [
         "genderless"
+      ],
+      "cobblemon:lopunny": [
+        "male"
       ]
     }
   }

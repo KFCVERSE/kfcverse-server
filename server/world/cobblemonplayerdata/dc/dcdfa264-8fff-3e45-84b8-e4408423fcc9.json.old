@@ -10,26 +10,26 @@
   "battleTheme": "cobblemon:battle.pvp.default",
   "extraData": {},
   "advancementData": {
-    "totalCaptureCount": 71,
-    "totalEggsCollected": 80,
-    "totalEggsHatched": 232,
-    "totalEvolvedCount": 19,
-    "totalBattleVictoryCount": 89,
+    "totalCaptureCount": 74,
+    "totalEggsCollected": 95,
+    "totalEggsHatched": 248,
+    "totalEvolvedCount": 23,
+    "totalBattleVictoryCount": 93,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 79,
+    "totalPvWBattleVictoryCount": 83,
     "totalPvNBattleVictoryCount": 10,
     "totalShinyCaptureCount": 6,
     "totalTradedCount": 4,
     "totalTypeCaptureCounts": {
-      "psychic": 7,
+      "psychic": 9,
       "ground": 3,
       "steel": 5,
       "poison": 1,
       "flying": 7,
       "rock": 4,
-      "dragon": 3,
+      "dragon": 4,
       "ghost": 18,
-      "fairy": 4,
+      "fairy": 6,
       "normal": 18,
       "dark": 1,
       "bug": 1,
@@ -48,7 +48,8 @@
       "cobblemon:voltorb": 1,
       "cobblemon:lillipup": 1,
       "cobblemon:porygonz": 1,
-      "cobblemon:metagross": 1
+      "cobblemon:metagross": 1,
+      "cobblemon:chimchar": 1
     },
     "aspectsCollected": {
       "cobblemon:hatenna": [
@@ -250,6 +251,25 @@
       ],
       "cobblemon:xurkitree": [
         "genderless"
+      ],
+      "cobblemon:axew": [
+        "female"
+      ],
+      "cobblemon:tapulele": [
+        "genderless"
+      ],
+      "cobblemon:ralts": [
+        "female"
+      ],
+      "cobblemon:kirlia": [
+        "female",
+        "male"
+      ],
+      "cobblemon:gardevoir": [
+        "female"
+      ],
+      "cobblemon:gallade": [
+        "male"
       ]
     }
   }
