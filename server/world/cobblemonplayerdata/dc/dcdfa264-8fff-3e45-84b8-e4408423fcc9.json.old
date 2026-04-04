@@ -10,27 +10,27 @@
   "battleTheme": "cobblemon:battle.pvp.default",
   "extraData": {},
   "advancementData": {
-    "totalCaptureCount": 74,
+    "totalCaptureCount": 75,
     "totalEggsCollected": 95,
-    "totalEggsHatched": 248,
-    "totalEvolvedCount": 24,
-    "totalBattleVictoryCount": 93,
+    "totalEggsHatched": 262,
+    "totalEvolvedCount": 27,
+    "totalBattleVictoryCount": 94,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 83,
+    "totalPvWBattleVictoryCount": 84,
     "totalPvNBattleVictoryCount": 10,
-    "totalShinyCaptureCount": 6,
+    "totalShinyCaptureCount": 7,
     "totalTradedCount": 4,
     "totalTypeCaptureCounts": {
       "psychic": 9,
       "ground": 3,
       "steel": 5,
       "poison": 1,
-      "flying": 7,
+      "flying": 8,
       "rock": 4,
       "dragon": 4,
       "ghost": 18,
       "fairy": 6,
-      "normal": 18,
+      "normal": 19,
       "dark": 1,
       "bug": 1,
       "water": 3,
@@ -210,7 +210,8 @@
         "male"
       ],
       "cobblemon:garchomp": [
-        "male"
+        "male",
+        "female"
       ],
       "cobblemon:scorbunny": [
         "male"
@@ -271,6 +272,16 @@
       ],
       "cobblemon:gallade": [
         "male"
+      ],
+      "cobblemon:taillow": [
+        "shiny",
+        "female"
+      ],
+      "cobblemon:pupitar": [
+        "female"
+      ],
+      "cobblemon:tyranitar": [
+        "female"
       ]
     }
   }

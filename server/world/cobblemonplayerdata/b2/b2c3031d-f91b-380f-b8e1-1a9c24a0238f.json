@@ -3,34 +3,41 @@
   "starterPrompted": false,
   "starterLocked": false,
   "starterSelected": false,
-  "keyItems": [],
+  "keyItems": [
+    "cobblemon:key_stone"
+  ],
   "battleTheme": "cobblemon:battle.pvp.default",
   "extraData": {},
   "advancementData": {
-    "totalCaptureCount": 32,
+    "totalCaptureCount": 51,
     "totalEggsCollected": 41,
     "totalEggsHatched": 78,
-    "totalEvolvedCount": 20,
-    "totalBattleVictoryCount": 120,
+    "totalEvolvedCount": 21,
+    "totalBattleVictoryCount": 150,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 110,
-    "totalPvNBattleVictoryCount": 10,
+    "totalPvWBattleVictoryCount": 137,
+    "totalPvNBattleVictoryCount": 13,
     "totalShinyCaptureCount": 1,
     "totalTradedCount": 5,
     "totalTypeCaptureCounts": {
-      "normal": 8,
+      "normal": 12,
       "bug": 2,
       "poison": 1,
-      "fairy": 2,
-      "steel": 5,
-      "psychic": 8,
+      "fairy": 5,
+      "steel": 8,
+      "psychic": 11,
       "dark": 2,
-      "rock": 2,
-      "electric": 3,
-      "flying": 2,
-      "ghost": 6,
-      "fire": 1,
-      "dragon": 1
+      "rock": 3,
+      "electric": 5,
+      "flying": 5,
+      "ghost": 8,
+      "fire": 2,
+      "dragon": 1,
+      "water": 2,
+      "fighting": 2,
+      "grass": 1,
+      "ice": 1,
+      "ground": 1
     },
     "totalDefeatedCounts": {
       "cobblemon:poliwhirl": 1,
@@ -45,11 +52,11 @@
       "cobblemon:butterfree": 1,
       "cobblemon:wooloo": 1,
       "cobblemon:mareep": 2,
-      "cobblemon:medicham": 11,
+      "cobblemon:medicham": 13,
       "cobblemon:maractus": 1,
       "cobblemon:cacnea": 1,
       "cobblemon:skitty": 1,
-      "cobblemon:gimmighoul": 14,
+      "cobblemon:gimmighoul": 16,
       "cobblemon:minior": 1,
       "cobblemon:ninetales": 1,
       "cobblemon:rolycoly": 1,
@@ -57,7 +64,7 @@
       "cobblemon:murkrow": 1,
       "cobblemon:rowlet": 1,
       "cobblemon:bellibolt": 1,
-      "cobblemon:remoraid": 2,
+      "cobblemon:remoraid": 3,
       "cobblemon:torkoal": 2,
       "cobblemon:kingler": 1,
       "cobblemon:spearow": 1,
@@ -77,15 +84,20 @@
       "cobblemon:toxicroak": 1,
       "cobblemon:crabrawler": 1,
       "cobblemon:azurill": 1,
-      "cobblemon:munna": 1,
+      "cobblemon:munna": 2,
       "cobblemon:dodrio": 1,
-      "cobblemon:duraludon": 1,
+      "cobblemon:duraludon": 2,
       "cobblemon:solgaleo": 1,
       "cobblemon:porygon": 1,
       "cobblemon:houndour": 1,
       "cobblemon:hoppip": 1,
       "cobblemon:psyduck": 1,
-      "cobblemon:elgyem": 3
+      "cobblemon:elgyem": 3,
+      "cobblemon:beldum": 1,
+      "cobblemon:spiritomb": 2,
+      "cobblemon:honedge": 1,
+      "cobblemon:timburr": 1,
+      "cobblemon:veluza": 1
     },
     "aspectsCollected": {
       "cobblemon:ditto": [
@@ -241,6 +253,64 @@
       ],
       "cobblemon:lopunny": [
         "male"
+      ],
+      "cobblemon:solgaleo": [
+        "genderless"
+      ],
+      "cobblemon:pelipper": [
+        "male"
+      ],
+      "cobblemon:machop": [
+        "male"
+      ],
+      "cobblemon:togedemaru": [
+        "female"
+      ],
+      "cobblemon:munchlax": [
+        "male"
+      ],
+      "cobblemon:pichu": [
+        "female"
+      ],
+      "cobblemon:quilava": [
+        "male",
+        "region-bias-hisui"
+      ],
+      "cobblemon:lillipup": [
+        "female"
+      ],
+      "cobblemon:rowlet": [
+        "female",
+        "region-bias-hisui"
+      ],
+      "cobblemon:lycanroc": [
+        "male",
+        "midday-form"
+      ],
+      "cobblemon:comfey": [
+        "female"
+      ],
+      "cobblemon:smoochum": [
+        "female"
+      ],
+      "cobblemon:lucario": [
+        "male"
+      ],
+      "cobblemon:rufflet": [
+        "male",
+        "region-bias-hisui"
+      ],
+      "cobblemon:golett": [
+        "genderless"
+      ],
+      "cobblemon:tinkatuff": [
+        "female"
+      ],
+      "cobblemon:slowbro": [
+        "female"
+      ],
+      "cobblemon:ralts": [
+        "female"
       ]
     }
   }

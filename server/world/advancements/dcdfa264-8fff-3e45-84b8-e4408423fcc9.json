@@ -25258,6 +25258,7 @@
       "minecraft:skeleton": "2026-03-06 19:50:07 +0100",
       "minecraft:phantom": "2026-03-07 21:34:23 +0100",
       "minecraft:shulker": "2026-03-30 19:05:18 +0200",
+      "minecraft:piglin": "2026-04-04 20:49:55 +0200",
       "minecraft:vindicator": "2026-03-22 16:56:10 +0100",
       "minecraft:silverfish": "2026-03-29 19:20:16 +0200",
       "minecraft:stray": "2026-03-29 20:31:50 +0200",
@@ -26002,6 +26003,7 @@
   },
   "mega_showdown:mega_showdown/mega/craft_mega_stones": {
     "criteria": {
+      "galladite": "2026-04-04 19:25:11 +0200",
       "charizardite_y": "2026-04-01 12:51:32 +0200",
       "venusaurite": "2026-04-01 12:50:33 +0200",
       "mega_stone": "2026-04-03 00:04:47 +0200",
@@ -26313,6 +26315,36 @@
   "mega_showdown:mega_showdown/mega/find_raw_megastone": {
     "criteria": {
       "obtained_raw_mega_stones": "2026-04-03 00:04:47 +0200"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/battery_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2026-04-04 20:09:26 +0200"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/pump_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2026-04-04 20:09:26 +0200"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/tank_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2026-04-04 20:09:26 +0200"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/advanced_pump_upgrade": {
+    "criteria": {
+      "has_pump_upgrade": "2026-04-04 20:09:44 +0200"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tadpole_in_a_bucket": {
+    "criteria": {
+      "tadpole_bucket": "2026-04-04 22:39:46 +0200"
     },
     "done": true
   },

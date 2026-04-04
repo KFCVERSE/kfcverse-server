@@ -25879,5 +25879,17 @@
     },
     "done": true
   },
+  "cobbleverse:trainer/kanto/defeat_giovanni": {
+    "criteria": {
+      "leader_defeated": "2026-04-05 00:35:44 +0200"
+    },
+    "done": true
+  },
+  "cobbleverse:item/obtain_mew_dna": {
+    "criteria": {
+      "giovanni_defeated": "2026-04-05 00:35:48 +0200"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }
