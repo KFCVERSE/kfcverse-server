@@ -9,13 +9,13 @@
   "battleTheme": "cobblemon:battle.pvp.default",
   "extraData": {},
   "advancementData": {
-    "totalCaptureCount": 54,
+    "totalCaptureCount": 58,
     "totalEggsCollected": 41,
-    "totalEggsHatched": 78,
+    "totalEggsHatched": 80,
     "totalEvolvedCount": 21,
-    "totalBattleVictoryCount": 154,
+    "totalBattleVictoryCount": 157,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 141,
+    "totalPvWBattleVictoryCount": 144,
     "totalPvNBattleVictoryCount": 13,
     "totalShinyCaptureCount": 1,
     "totalTradedCount": 5,
@@ -30,13 +30,13 @@
       "rock": 3,
       "electric": 6,
       "flying": 5,
-      "ghost": 10,
+      "ghost": 13,
       "fire": 2,
       "dragon": 1,
       "water": 2,
       "fighting": 2,
       "grass": 1,
-      "ice": 1,
+      "ice": 2,
       "ground": 1
     },
     "totalDefeatedCounts": {
@@ -314,6 +314,10 @@
       ],
       "cobblemon:electivire": [
         "female"
+      ],
+      "cobblemon:darumaka": [
+        "male",
+        "galarian"
       ]
     }
   }
