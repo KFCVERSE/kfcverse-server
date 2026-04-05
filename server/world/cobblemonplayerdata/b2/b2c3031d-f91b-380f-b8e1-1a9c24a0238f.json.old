@@ -9,13 +9,13 @@
   "battleTheme": "cobblemon:battle.pvp.default",
   "extraData": {},
   "advancementData": {
-    "totalCaptureCount": 51,
+    "totalCaptureCount": 54,
     "totalEggsCollected": 41,
     "totalEggsHatched": 78,
     "totalEvolvedCount": 21,
-    "totalBattleVictoryCount": 150,
+    "totalBattleVictoryCount": 154,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 137,
+    "totalPvWBattleVictoryCount": 141,
     "totalPvNBattleVictoryCount": 13,
     "totalShinyCaptureCount": 1,
     "totalTradedCount": 5,
@@ -28,9 +28,9 @@
       "psychic": 11,
       "dark": 2,
       "rock": 3,
-      "electric": 5,
+      "electric": 6,
       "flying": 5,
-      "ghost": 8,
+      "ghost": 10,
       "fire": 2,
       "dragon": 1,
       "water": 2,
@@ -47,7 +47,7 @@
       "cobblemon:pyukumuku": 1,
       "cobblemon:grimer": 4,
       "cobblemon:swellow": 1,
-      "cobblemon:voltorb": 4,
+      "cobblemon:voltorb": 5,
       "cobblemon:magmar": 1,
       "cobblemon:butterfree": 1,
       "cobblemon:wooloo": 1,
@@ -310,6 +310,9 @@
         "female"
       ],
       "cobblemon:ralts": [
+        "female"
+      ],
+      "cobblemon:electivire": [
         "female"
       ]
     }

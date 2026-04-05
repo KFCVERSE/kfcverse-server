@@ -919,7 +919,8 @@
       "obtain_wacan_berry": "2026-02-22 20:31:02 +0100",
       "obtain_enigma_berry": "2026-03-18 18:55:23 +0100",
       "obtain_chesto_berry": "2026-02-27 20:48:25 +0100",
-      "obtain_kasib_berry": "2026-03-07 21:41:45 +0100"
+      "obtain_kasib_berry": "2026-03-07 21:41:45 +0100",
+      "obtain_wepear_berry": "2026-04-05 11:51:20 +0200"
     },
     "done": false
   },
@@ -25888,6 +25889,18 @@
   "cobbleverse:item/obtain_mew_dna": {
     "criteria": {
       "giovanni_defeated": "2026-04-05 00:35:48 +0200"
+    },
+    "done": true
+  },
+  "mega_showdown:mega_showdown/z/find_z_structure": {
+    "criteria": {
+      "in_z_structure": "2026-04-05 11:59:16 +0200"
+    },
+    "done": true
+  },
+  "cobbleverse:pokemon/revive_mewtwo": {
+    "criteria": {
+      "revived_mewtwo": "2026-04-05 11:46:37 +0200"
     },
     "done": true
   },
