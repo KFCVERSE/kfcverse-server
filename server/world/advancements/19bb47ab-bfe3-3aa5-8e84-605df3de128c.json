@@ -138,6 +138,7 @@
       "obtain_grepa_berry": "2026-03-30 12:47:21 +0200",
       "obtain_pinap_berry": "2026-03-30 11:01:41 +0200",
       "obtain_oran_berry": "2026-03-19 19:45:00 +0100",
+      "obtain_touga_berry": "2026-04-06 13:33:12 +0200",
       "obtain_chesto_berry": "2026-03-22 14:25:09 +0100"
     },
     "done": false
@@ -25521,7 +25522,9 @@
     "criteria": {
       "obtain_max_elixir": "2026-03-30 11:07:18 +0200",
       "obtain_potion": "2026-03-19 20:38:00 +0100",
+      "obtain_max_ether": "2026-04-06 13:24:14 +0200",
       "obtain_paralyze_heal": "2026-03-30 11:42:01 +0200",
+      "obtain_full_restore": "2026-04-06 13:47:10 +0200",
       "obtain_elixir": "2026-04-01 18:44:27 +0200",
       "obtain_super_potion": "2026-03-20 17:46:14 +0100"
     },
@@ -25962,6 +25965,30 @@
   "minecraft:end/dragon_egg": {
     "criteria": {
       "dragon_egg": "2026-04-01 20:50:02 +0200"
+    },
+    "done": true
+  },
+  "cobblemon:obtain_revival_herb": {
+    "criteria": {
+      "check_inv": "2026-04-06 13:23:41 +0200"
+    },
+    "done": true
+  },
+  "cobblemon:resurrect_pokemon": {
+    "criteria": {
+      "resurrected_pokemon": "2026-04-06 12:44:09 +0200"
+    },
+    "done": true
+  },
+  "cobblemon:obtain_leek": {
+    "criteria": {
+      "check_inv": "2026-04-06 13:03:07 +0200"
+    },
+    "done": true
+  },
+  "cobblemon:brew_full_restore": {
+    "criteria": {
+      "check_inv": "2026-04-06 13:47:10 +0200"
     },
     "done": true
   },

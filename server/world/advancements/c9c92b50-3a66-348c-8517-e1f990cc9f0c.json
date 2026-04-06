@@ -1381,26 +1381,43 @@
       "obtain_spelon_berry": "2026-03-13 23:03:17 +0100",
       "obtain_coba_berry": "2026-03-30 00:03:16 +0200",
       "obtain_pinap_berry": "2026-03-20 18:14:58 +0100",
-      "obtain_oran_berry": "2026-03-06 17:28:16 +0100",
       "obtain_starf_berry": "2026-03-19 22:28:13 +0100",
+      "obtain_qualot_berry": "2026-04-06 13:03:22 +0200",
+      "obtain_payapa_berry": "2026-04-06 12:45:34 +0200",
+      "obtain_charti_berry": "2026-04-06 12:43:58 +0200",
       "obtain_iapapa_berry": "2026-03-27 18:08:32 +0100",
       "obtain_micle_berry": "2026-03-27 17:27:58 +0100",
-      "obtain_durin_berry": "2026-03-30 12:20:13 +0200",
-      "obtain_babiri_berry": "2026-03-19 22:28:12 +0100",
+      "obtain_chilan_berry": "2026-04-06 12:43:52 +0200",
       "obtain_persim_berry": "2026-03-06 18:55:00 +0100",
-      "obtain_figy_berry": "2026-03-30 00:03:41 +0200",
       "obtain_shuca_berry": "2026-03-07 19:05:59 +0100",
-      "obtain_cheri_berry": "2026-03-07 16:58:16 +0100",
       "obtain_occa_berry": "2026-03-27 18:06:34 +0100",
       "obtain_ganlon_berry": "2026-03-13 23:03:26 +0100",
       "obtain_maranga_berry": "2026-03-30 11:08:39 +0200",
+      "obtain_kebia_berry": "2026-04-06 12:45:25 +0200",
+      "obtain_aspear_berry": "2026-03-07 22:54:41 +0100",
+      "obtain_rabuta_berry": "2026-04-06 13:03:36 +0200",
+      "obtain_razz_berry": "2026-03-30 00:03:15 +0200",
+      "obtain_pecha_berry": "2026-04-06 12:45:11 +0200",
+      "obtain_nanab_berry": "2026-04-06 12:43:52 +0200",
+      "obtain_apicot_berry": "2026-04-06 13:03:23 +0200",
+      "obtain_custap_berry": "2026-04-06 13:03:35 +0200",
+      "obtain_liechi_berry": "2026-04-06 13:03:22 +0200",
+      "obtain_oran_berry": "2026-03-06 17:28:16 +0100",
+      "obtain_haban_berry": "2026-04-06 13:04:31 +0200",
+      "obtain_durin_berry": "2026-03-30 12:20:13 +0200",
+      "obtain_tanga_berry": "2026-04-06 13:03:46 +0200",
+      "obtain_babiri_berry": "2026-03-19 22:28:12 +0100",
+      "obtain_passho_berry": "2026-04-06 12:43:55 +0200",
+      "obtain_figy_berry": "2026-03-30 00:03:41 +0200",
+      "obtain_cheri_berry": "2026-03-07 16:58:16 +0100",
+      "obtain_rowap_berry": "2026-04-06 13:03:25 +0200",
+      "obtain_chople_berry": "2026-04-06 12:43:52 +0200",
       "obtain_colbur_berry": "2026-03-27 17:27:55 +0100",
       "obtain_wacan_berry": "2026-03-19 22:27:34 +0100",
-      "obtain_aspear_berry": "2026-03-07 22:54:41 +0100",
       "obtain_chesto_berry": "2026-03-13 23:45:32 +0100",
       "obtain_kasib_berry": "2026-03-19 22:28:12 +0100",
       "obtain_roseli_berry": "2026-03-30 11:09:52 +0200",
-      "obtain_razz_berry": "2026-03-30 00:03:15 +0200"
+      "obtain_wepear_berry": "2026-04-06 13:04:09 +0200"
     },
     "done": false
   },
@@ -10564,10 +10581,12 @@
     "criteria": {
       "luxury_ball": "2026-03-07 23:17:21 +0100",
       "nest_ball": "2026-03-08 21:20:08 +0100",
+      "quick_ball": "2026-04-06 12:50:38 +0200",
       "timer_ball": "2026-03-07 22:45:54 +0100",
       "moon_ball": "2026-03-07 23:38:09 +0100",
       "ancient_poke_ball": "2026-03-30 11:25:40 +0200",
       "azure_ball": "2026-03-07 15:57:00 +0100",
+      "ancient_jet_ball": "2026-04-06 12:49:51 +0200",
       "net_ball": "2026-03-07 22:51:49 +0100",
       "dive_ball": "2026-03-07 22:50:56 +0100",
       "level_ball": "2026-03-07 22:52:04 +0100",
@@ -10579,6 +10598,7 @@
       "verdant_ball": "2026-03-07 18:22:51 +0100",
       "fast_ball": "2026-03-19 22:28:13 +0100",
       "heal_ball": "2026-03-07 23:20:47 +0100",
+      "ancient_wing_ball": "2026-04-06 13:03:31 +0200",
       "slate_ball": "2026-03-06 20:04:33 +0100",
       "ancient_verdant_ball": "2026-03-27 18:08:32 +0100",
       "poke_ball": "2026-03-06 17:28:16 +0100",
@@ -25270,7 +25290,8 @@
       "minecraft:zombie": "2026-03-06 18:19:03 +0100",
       "minecraft:creeper": "2026-03-13 20:52:08 +0100",
       "minecraft:drowned": "2026-03-07 16:45:46 +0100",
-      "minecraft:zombie_villager": "2026-03-07 21:10:00 +0100"
+      "minecraft:zombie_villager": "2026-03-07 21:10:00 +0100",
+      "minecraft:slime": "2026-04-06 13:00:30 +0200"
     },
     "done": false
   },
@@ -25423,6 +25444,7 @@
       "obtain_awakening": "2026-03-06 20:05:05 +0100",
       "obtain_antidote": "2026-03-14 00:03:58 +0100",
       "obtain_paralyze_heal": "2026-03-18 20:09:53 +0100",
+      "obtain_elixir": "2026-04-06 13:02:40 +0200",
       "obtain_super_potion": "2026-03-08 20:23:30 +0100"
     },
     "done": false
@@ -25678,10 +25700,12 @@
   "cobblemon:craft_ancient_balls": {
     "criteria": {
       "ancient_ivory_ball": "2026-03-30 11:25:12 +0200",
+      "ancient_wing_ball": "2026-04-06 13:03:31 +0200",
       "ancient_slate_ball": "2026-03-30 11:25:36 +0200",
       "ancient_verdant_ball": "2026-03-27 18:08:32 +0100",
       "ancient_poke_ball": "2026-03-30 11:25:40 +0200",
-      "ancient_ultra_ball": "2026-03-13 19:23:25 +0100"
+      "ancient_ultra_ball": "2026-03-13 19:23:25 +0100",
+      "ancient_jet_ball": "2026-04-06 12:49:51 +0200"
     },
     "done": false
   },
@@ -26012,6 +26036,24 @@
       "use_l_candy": "2026-04-03 14:21:02 +0200"
     },
     "done": true
+  },
+  "cobblemon:obtain_leek": {
+    "criteria": {
+      "check_inv": "2026-04-06 13:03:25 +0200"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/campfire_pot/tough_candy": {
+    "criteria": {
+      "has_berry": "2026-04-06 13:03:22 +0200"
+    },
+    "done": false
+  },
+  "cobblemon:recipes/campfire_pot/brittle_candy": {
+    "criteria": {
+      "has_berry": "2026-04-06 13:03:22 +0200"
+    },
+    "done": false
   },
   "DataVersion": 3955
 }

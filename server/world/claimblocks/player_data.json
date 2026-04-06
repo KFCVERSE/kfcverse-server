@@ -20,5 +20,16 @@
         "field_11173": -6422
       }
     }
+  ],
+  "b2c3031d-f91b-380f-b8e1-1a9c24a0238f": [
+    {
+      "stoneType": "template8",
+      "size": 150,
+      "coords": {
+        "field_11175": -655,
+        "field_11174": 66,
+        "field_11173": 1064
+      }
+    }
   ]
 }

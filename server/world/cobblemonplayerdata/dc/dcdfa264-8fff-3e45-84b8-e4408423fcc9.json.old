@@ -12,13 +12,13 @@
   "advancementData": {
     "totalCaptureCount": 75,
     "totalEggsCollected": 95,
-    "totalEggsHatched": 262,
-    "totalEvolvedCount": 27,
+    "totalEggsHatched": 272,
+    "totalEvolvedCount": 29,
     "totalBattleVictoryCount": 94,
     "totalPvPBattleVictoryCount": 0,
     "totalPvWBattleVictoryCount": 84,
     "totalPvNBattleVictoryCount": 10,
-    "totalShinyCaptureCount": 7,
+    "totalShinyCaptureCount": 8,
     "totalTradedCount": 4,
     "totalTypeCaptureCounts": {
       "psychic": 9,

@@ -9,15 +9,15 @@
   "battleTheme": "cobblemon:battle.pvp.default",
   "extraData": {},
   "advancementData": {
-    "totalCaptureCount": 58,
+    "totalCaptureCount": 59,
     "totalEggsCollected": 41,
-    "totalEggsHatched": 80,
+    "totalEggsHatched": 106,
     "totalEvolvedCount": 21,
-    "totalBattleVictoryCount": 157,
+    "totalBattleVictoryCount": 174,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 144,
-    "totalPvNBattleVictoryCount": 13,
-    "totalShinyCaptureCount": 1,
+    "totalPvWBattleVictoryCount": 157,
+    "totalPvNBattleVictoryCount": 17,
+    "totalShinyCaptureCount": 3,
     "totalTradedCount": 5,
     "totalTypeCaptureCounts": {
       "normal": 12,
@@ -33,7 +33,7 @@
       "ghost": 13,
       "fire": 2,
       "dragon": 1,
-      "water": 2,
+      "water": 3,
       "fighting": 2,
       "grass": 1,
       "ice": 2,
@@ -56,7 +56,7 @@
       "cobblemon:maractus": 1,
       "cobblemon:cacnea": 1,
       "cobblemon:skitty": 1,
-      "cobblemon:gimmighoul": 16,
+      "cobblemon:gimmighoul": 17,
       "cobblemon:minior": 1,
       "cobblemon:ninetales": 1,
       "cobblemon:rolycoly": 1,
@@ -64,7 +64,7 @@
       "cobblemon:murkrow": 1,
       "cobblemon:rowlet": 1,
       "cobblemon:bellibolt": 1,
-      "cobblemon:remoraid": 3,
+      "cobblemon:remoraid": 4,
       "cobblemon:torkoal": 2,
       "cobblemon:kingler": 1,
       "cobblemon:spearow": 1,
@@ -97,7 +97,16 @@
       "cobblemon:spiritomb": 2,
       "cobblemon:honedge": 1,
       "cobblemon:timburr": 1,
-      "cobblemon:veluza": 1
+      "cobblemon:veluza": 1,
+      "cobblemon:rufflet": 1,
+      "cobblemon:basculin": 1,
+      "cobblemon:gyarados": 2,
+      "cobblemon:krabby": 1,
+      "cobblemon:arrokuda": 1,
+      "cobblemon:horsea": 1,
+      "cobblemon:binacle": 1,
+      "cobblemon:inkay": 1,
+      "cobblemon:tentacool": 1
     },
     "aspectsCollected": {
       "cobblemon:ditto": [
@@ -318,6 +327,11 @@
       "cobblemon:darumaka": [
         "male",
         "galarian"
+      ],
+      "cobblemon:clawitzer": [
+        "shiny",
+        "male",
+        "claw-left"
       ]
     }
   }

@@ -8,13 +8,13 @@
   "battleTheme": "cobblemon:battle.pvp.default",
   "extraData": {},
   "advancementData": {
-    "totalCaptureCount": 42,
+    "totalCaptureCount": 45,
     "totalEggsCollected": 0,
     "totalEggsHatched": 0,
-    "totalEvolvedCount": 9,
-    "totalBattleVictoryCount": 69,
+    "totalEvolvedCount": 10,
+    "totalBattleVictoryCount": 73,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 64,
+    "totalPvWBattleVictoryCount": 68,
     "totalPvNBattleVictoryCount": 5,
     "totalShinyCaptureCount": 2,
     "totalTradedCount": 0,
@@ -22,7 +22,7 @@
       "electric": 6,
       "psychic": 3,
       "normal": 11,
-      "poison": 3,
+      "poison": 6,
       "ground": 2,
       "water": 5,
       "flying": 6,
@@ -33,7 +33,8 @@
       "ice": 4,
       "ghost": 3,
       "grass": 1,
-      "dragon": 1
+      "dragon": 1,
+      "dark": 3
     },
     "totalDefeatedCounts": {
       "cobblemon:elekid": 1,
@@ -57,7 +58,8 @@
       "cobblemon:smeargle": 1,
       "cobblemon:braviary": 1,
       "cobblemon:gimmighoul": 2,
-      "cobblemon:unown": 1
+      "cobblemon:unown": 1,
+      "cobblemon:exeggutor": 1
     },
     "aspectsCollected": {
       "cobblemon:voltorb": [
@@ -217,6 +219,14 @@
       "cobblemon:articuno": [
         "genderless",
         "legendary"
+      ],
+      "cobblemon:garchomp": [
+        "female"
+      ],
+      "cobblemon:grimer": [
+        "male",
+        "alolan",
+        "female"
       ]
     }
   }
