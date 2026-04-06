@@ -8,13 +8,13 @@
   "battleTheme": "cobblemon:battle.pvp.default",
   "extraData": {},
   "advancementData": {
-    "totalCaptureCount": 45,
-    "totalEggsCollected": 0,
-    "totalEggsHatched": 0,
+    "totalCaptureCount": 47,
+    "totalEggsCollected": 1,
+    "totalEggsHatched": 4,
     "totalEvolvedCount": 10,
-    "totalBattleVictoryCount": 73,
+    "totalBattleVictoryCount": 78,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 68,
+    "totalPvWBattleVictoryCount": 73,
     "totalPvNBattleVictoryCount": 5,
     "totalShinyCaptureCount": 2,
     "totalTradedCount": 0,
@@ -24,20 +24,20 @@
       "normal": 11,
       "poison": 6,
       "ground": 2,
-      "water": 5,
+      "water": 6,
       "flying": 6,
       "bug": 2,
       "fire": 2,
       "steel": 3,
       "rock": 2,
       "ice": 4,
-      "ghost": 3,
+      "ghost": 4,
       "grass": 1,
       "dragon": 1,
       "dark": 3
     },
     "totalDefeatedCounts": {
-      "cobblemon:elekid": 1,
+      "cobblemon:elekid": 2,
       "cobblemon:purrloin": 1,
       "cobblemon:shuppet": 1,
       "cobblemon:tauros": 2,
@@ -59,7 +59,9 @@
       "cobblemon:braviary": 1,
       "cobblemon:gimmighoul": 2,
       "cobblemon:unown": 1,
-      "cobblemon:exeggutor": 1
+      "cobblemon:exeggutor": 1,
+      "cobblemon:mankey": 1,
+      "cobblemon:buizel": 1
     },
     "aspectsCollected": {
       "cobblemon:voltorb": [
@@ -227,6 +229,9 @@
         "male",
         "alolan",
         "female"
+      ],
+      "cobblemon:staryu": [
+        "genderless"
       ]
     }
   }

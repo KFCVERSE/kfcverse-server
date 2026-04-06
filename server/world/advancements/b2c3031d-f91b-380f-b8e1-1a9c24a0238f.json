@@ -25984,5 +25984,11 @@
     },
     "done": true
   },
+  "cobblemonraiddens:tier_four": {
+    "criteria": {
+      "completed_tier_four": "2026-04-06 19:59:40 +0200"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }
