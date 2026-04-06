@@ -25972,5 +25972,11 @@
     },
     "done": true
   },
+  "cobbleverse:trainer/kanto/defeat_champion_blue": {
+    "criteria": {
+      "champion_defeated": "2026-04-06 16:15:27 +0200"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }
