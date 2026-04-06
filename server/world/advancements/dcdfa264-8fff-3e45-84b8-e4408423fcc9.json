@@ -7,32 +7,19 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:cold_ocean": "2026-03-07 20:45:16 +0100",
       "minecraft:snowy_slopes": "2026-03-08 19:18:16 +0100",
       "minecraft:old_growth_pine_taiga": "2026-03-07 19:24:15 +0100",
-      "minecraft:forest": "2026-03-06 20:59:09 +0100",
       "minecraft:taiga": "2026-03-07 19:51:42 +0100",
       "minecraft:deep_ocean": "2026-03-06 20:02:23 +0100",
-      "minecraft:lush_caves": "2026-03-29 19:14:39 +0200",
-      "minecraft:deep_cold_ocean": "2026-03-22 15:45:24 +0100",
-      "minecraft:frozen_ocean": "2026-03-22 16:20:26 +0100",
-      "minecraft:desert": "2026-04-01 23:18:51 +0200",
+      "minecraft:eroded_badlands": "2026-04-06 17:36:34 +0200",
       "minecraft:frozen_river": "2026-03-07 20:58:03 +0100",
-      "minecraft:windswept_forest": "2026-03-06 20:03:28 +0100",
-      "minecraft:deep_frozen_ocean": "2026-03-22 16:20:47 +0100",
-      "minecraft:ocean": "2026-03-06 19:58:29 +0100",
-      "minecraft:jungle": "2026-03-07 19:24:29 +0100",
       "minecraft:cherry_grove": "2026-03-07 19:11:36 +0100",
       "minecraft:sunflower_plains": "2026-03-07 19:17:11 +0100",
       "minecraft:birch_forest": "2026-03-07 20:33:52 +0100",
       "minecraft:windswept_hills": "2026-03-30 16:12:51 +0200",
-      "minecraft:old_growth_spruce_taiga": "2026-03-06 20:57:42 +0100",
-      "minecraft:snowy_beach": "2026-03-22 16:20:25 +0100",
       "minecraft:bamboo_jungle": "2026-03-07 19:24:58 +0100",
       "minecraft:wooded_badlands": "2026-03-29 20:19:34 +0200",
-      "minecraft:windswept_savanna": "2026-03-21 16:44:28 +0100",
-      "minecraft:deep_lukewarm_ocean": "2026-03-07 20:35:25 +0100",
-      "minecraft:flower_forest": "2026-03-13 23:19:29 +0100",
+      "minecraft:badlands": "2026-04-06 17:36:42 +0200",
       "minecraft:savanna_plateau": "2026-03-07 19:15:28 +0100",
       "minecraft:beach": "2026-03-06 20:01:20 +0100",
       "minecraft:dark_forest": "2026-03-06 19:15:13 +0100",
@@ -44,16 +31,32 @@
       "minecraft:snowy_plains": "2026-03-08 19:15:53 +0100",
       "minecraft:dripstone_caves": "2026-03-06 20:54:55 +0100",
       "minecraft:snowy_taiga": "2026-03-22 16:23:00 +0100",
+      "minecraft:grove": "2026-03-07 19:23:27 +0100",
+      "minecraft:swamp": "2026-03-30 16:18:31 +0200",
+      "minecraft:jagged_peaks": "2026-03-07 21:28:23 +0100",
+      "minecraft:cold_ocean": "2026-03-07 20:45:16 +0100",
+      "minecraft:forest": "2026-03-06 20:59:09 +0100",
+      "minecraft:lush_caves": "2026-03-29 19:14:39 +0200",
+      "minecraft:deep_cold_ocean": "2026-03-22 15:45:24 +0100",
+      "minecraft:frozen_ocean": "2026-03-22 16:20:26 +0100",
+      "minecraft:desert": "2026-04-01 23:18:51 +0200",
+      "minecraft:windswept_forest": "2026-03-06 20:03:28 +0100",
+      "minecraft:deep_frozen_ocean": "2026-03-22 16:20:47 +0100",
+      "minecraft:ocean": "2026-03-06 19:58:29 +0100",
+      "minecraft:jungle": "2026-03-07 19:24:29 +0100",
+      "minecraft:old_growth_spruce_taiga": "2026-03-06 20:57:42 +0100",
+      "minecraft:snowy_beach": "2026-03-22 16:20:25 +0100",
+      "minecraft:windswept_savanna": "2026-03-21 16:44:28 +0100",
+      "minecraft:warm_ocean": "2026-04-06 17:31:50 +0200",
+      "minecraft:deep_lukewarm_ocean": "2026-03-07 20:35:25 +0100",
+      "minecraft:flower_forest": "2026-03-13 23:19:29 +0100",
       "minecraft:frozen_peaks": "2026-03-08 20:40:07 +0100",
       "minecraft:old_growth_birch_forest": "2026-03-06 19:19:57 +0100",
       "minecraft:deep_dark": "2026-04-02 16:29:05 +0200",
-      "minecraft:grove": "2026-03-07 19:23:27 +0100",
-      "minecraft:swamp": "2026-03-30 16:18:31 +0200",
       "minecraft:meadow": "2026-03-07 21:01:25 +0100",
       "minecraft:windswept_gravelly_hills": "2026-03-30 16:07:14 +0200",
       "minecraft:savanna": "2026-03-07 19:14:20 +0100",
-      "minecraft:plains": "2026-03-06 20:03:10 +0100",
-      "minecraft:jagged_peaks": "2026-03-07 21:28:23 +0100"
+      "minecraft:plains": "2026-03-06 20:03:10 +0100"
     },
     "done": false
   },
@@ -569,44 +572,62 @@
   },
   "cobblemon:obtain_all_berries": {
     "criteria": {
-      "obtain_lum_berry": "2026-04-02 20:52:59 +0200",
-      "obtain_coba_berry": "2026-04-02 20:53:57 +0200",
+      "obtain_spelon_berry": "2026-04-06 17:24:58 +0200",
       "obtain_pinap_berry": "2026-03-18 22:55:14 +0100",
-      "obtain_touga_berry": "2026-03-07 21:07:41 +0100",
+      "obtain_eggant_berry": "2026-04-06 17:29:15 +0200",
+      "obtain_starf_berry": "2026-04-06 17:44:34 +0200",
+      "obtain_pomeg_berry": "2026-04-06 17:54:18 +0200",
       "obtain_payapa_berry": "2026-03-18 19:31:19 +0100",
       "obtain_charti_berry": "2026-03-22 15:14:03 +0100",
-      "obtain_iapapa_berry": "2026-03-22 15:18:25 +0100",
-      "obtain_chilan_berry": "2026-03-30 13:31:56 +0200",
-      "obtain_persim_berry": "2026-04-02 20:54:13 +0200",
+      "obtain_yache_berry": "2026-04-06 17:44:50 +0200",
       "obtain_shuca_berry": "2026-03-07 21:07:30 +0100",
-      "obtain_grepa_berry": "2026-03-18 17:14:56 +0100",
-      "obtain_mago_berry": "2026-03-29 22:05:15 +0200",
-      "obtain_hopo_berry": "2026-04-02 20:53:14 +0200",
+      "obtain_cornn_berry": "2026-04-06 16:40:24 +0200",
       "obtain_maranga_berry": "2026-04-02 20:53:12 +0200",
       "obtain_rawst_berry": "2026-03-22 15:56:55 +0100",
       "obtain_kebia_berry": "2026-03-22 15:18:09 +0100",
       "obtain_aspear_berry": "2026-03-29 21:55:11 +0200",
-      "obtain_razz_berry": "2026-03-22 15:14:02 +0100",
-      "obtain_pecha_berry": "2026-03-29 21:53:37 +0200",
+      "obtain_magost_berry": "2026-04-06 16:40:24 +0200",
+      "obtain_rabuta_berry": "2026-04-06 16:40:24 +0200",
+      "obtain_belue_berry": "2026-04-06 17:24:32 +0200",
       "obtain_sitrus_berry": "2026-04-02 20:53:56 +0200",
       "obtain_nanab_berry": "2026-03-30 13:31:40 +0200",
+      "obtain_liechi_berry": "2026-04-02 20:52:55 +0200",
+      "obtain_babiri_berry": "2026-03-19 19:28:26 +0100",
+      "obtain_passho_berry": "2026-04-06 17:54:20 +0200",
+      "obtain_kee_berry": "2026-04-02 20:53:14 +0200",
+      "obtain_colbur_berry": "2026-03-06 20:28:55 +0100",
+      "obtain_enigma_berry": "2026-03-13 23:15:45 +0100",
+      "obtain_chesto_berry": "2026-03-07 21:07:31 +0100",
+      "obtain_kasib_berry": "2026-03-29 21:52:08 +0200",
+      "obtain_roseli_berry": "2026-04-01 19:22:01 +0200",
+      "obtain_lansat_berry": "2026-04-06 16:40:32 +0200",
+      "obtain_lum_berry": "2026-04-02 20:52:59 +0200",
+      "obtain_coba_berry": "2026-04-02 20:53:57 +0200",
+      "obtain_touga_berry": "2026-03-07 21:07:41 +0100",
+      "obtain_qualot_berry": "2026-04-06 17:24:32 +0200",
+      "obtain_iapapa_berry": "2026-03-22 15:18:25 +0100",
+      "obtain_chilan_berry": "2026-03-30 13:31:56 +0200",
+      "obtain_leppa_berry": "2026-04-06 17:44:35 +0200",
+      "obtain_persim_berry": "2026-04-02 20:54:13 +0200",
+      "obtain_salac_berry": "2026-04-06 16:40:44 +0200",
+      "obtain_grepa_berry": "2026-03-18 17:14:56 +0100",
+      "obtain_mago_berry": "2026-03-29 22:05:15 +0200",
+      "obtain_hopo_berry": "2026-04-02 20:53:14 +0200",
+      "obtain_razz_berry": "2026-03-22 15:14:02 +0100",
+      "obtain_pecha_berry": "2026-03-29 21:53:37 +0200",
       "obtain_apicot_berry": "2026-03-18 19:31:25 +0100",
       "obtain_custap_berry": "2026-03-29 22:05:15 +0200",
-      "obtain_liechi_berry": "2026-04-02 20:52:55 +0200",
       "obtain_oran_berry": "2026-03-06 19:18:18 +0100",
       "obtain_haban_berry": "2026-03-22 15:26:30 +0100",
       "obtain_bluk_berry": "2026-04-02 20:53:01 +0200",
-      "obtain_babiri_berry": "2026-03-19 19:28:26 +0100",
-      "obtain_kee_berry": "2026-04-02 20:53:14 +0200",
+      "obtain_durin_berry": "2026-04-06 17:24:39 +0200",
+      "obtain_jaboca_berry": "2026-04-06 17:54:17 +0200",
+      "obtain_figy_berry": "2026-04-06 17:25:04 +0200",
       "obtain_cheri_berry": "2026-03-20 12:29:15 +0100",
       "obtain_chople_berry": "2026-04-01 17:27:27 +0200",
-      "obtain_colbur_berry": "2026-03-06 20:28:55 +0100",
       "obtain_wacan_berry": "2026-03-22 15:55:54 +0100",
-      "obtain_enigma_berry": "2026-03-13 23:15:45 +0100",
-      "obtain_chesto_berry": "2026-03-07 21:07:31 +0100",
       "obtain_petaya_berry": "2026-03-29 22:05:15 +0200",
-      "obtain_kasib_berry": "2026-03-29 21:52:08 +0200",
-      "obtain_roseli_berry": "2026-04-01 19:22:01 +0200"
+      "obtain_wepear_berry": "2026-04-06 16:40:24 +0200"
     },
     "done": false
   },
@@ -25621,9 +25642,10 @@
   },
   "cobblemon:recipes/campfire_pot/sickly_candy": {
     "criteria": {
-      "has_other_berry": "2026-03-13 23:15:45 +0100"
+      "has_other_berry": "2026-03-13 23:15:45 +0100",
+      "has_berry": "2026-04-06 17:54:18 +0200"
     },
-    "done": false
+    "done": true
   },
   "cobblemon:recipes/campfire_pot/numb_candy": {
     "criteria": {
@@ -25652,9 +25674,10 @@
   },
   "cobblemon:recipes/campfire_pot/brittle_candy": {
     "criteria": {
-      "has_other_berry": "2026-03-13 23:15:45 +0100"
+      "has_other_berry": "2026-03-13 23:15:45 +0100",
+      "has_berry": "2026-04-06 17:24:32 +0200"
     },
-    "done": false
+    "done": true
   },
   "minecraft:adventure/voluntary_exile": {
     "criteria": {
@@ -26237,9 +26260,10 @@
   },
   "cobblemon:recipes/campfire_pot/health_candy": {
     "criteria": {
-      "has_honeycomb": "2026-04-02 22:36:49 +0200"
+      "has_honeycomb": "2026-04-02 22:36:49 +0200",
+      "has_berry": "2026-04-06 17:54:18 +0200"
     },
-    "done": false
+    "done": true
   },
   "cobblemon:recipes/campfire_pot/mighty_candy": {
     "criteria": {
@@ -26255,9 +26279,10 @@
   },
   "cobblemon:recipes/campfire_pot/tough_candy": {
     "criteria": {
-      "has_honeycomb": "2026-04-02 22:36:49 +0200"
+      "has_honeycomb": "2026-04-02 22:36:49 +0200",
+      "has_berry": "2026-04-06 17:24:32 +0200"
     },
-    "done": false
+    "done": true
   },
   "mega_showdown:mega_showdown/mega/find_mega_structure": {
     "criteria": {
