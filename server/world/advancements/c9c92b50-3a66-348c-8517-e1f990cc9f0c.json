@@ -10596,6 +10596,7 @@
       "safari_ball": "2026-03-18 23:11:51 +0100",
       "heavy_ball": "2026-03-07 22:43:49 +0100",
       "verdant_ball": "2026-03-07 18:22:51 +0100",
+      "dream_ball": "2026-04-17 19:43:28 +0200",
       "fast_ball": "2026-03-19 22:28:13 +0100",
       "heal_ball": "2026-03-07 23:20:47 +0100",
       "ancient_wing_ball": "2026-04-06 13:03:31 +0200",
@@ -25445,7 +25446,8 @@
       "obtain_antidote": "2026-03-14 00:03:58 +0100",
       "obtain_paralyze_heal": "2026-03-18 20:09:53 +0100",
       "obtain_elixir": "2026-04-06 13:02:40 +0200",
-      "obtain_super_potion": "2026-03-08 20:23:30 +0100"
+      "obtain_super_potion": "2026-03-08 20:23:30 +0100",
+      "obtain_max_potion": "2026-04-17 19:43:27 +0200"
     },
     "done": false
   },
@@ -26037,12 +26039,6 @@
     },
     "done": true
   },
-  "cobblemon:obtain_leek": {
-    "criteria": {
-      "check_inv": "2026-04-06 13:03:25 +0200"
-    },
-    "done": true
-  },
   "cobblemon:recipes/campfire_pot/tough_candy": {
     "criteria": {
       "has_berry": "2026-04-06 13:03:22 +0200"
@@ -26054,6 +26050,12 @@
       "has_berry": "2026-04-06 13:03:22 +0200"
     },
     "done": false
+  },
+  "cobblemon:obtain_leek": {
+    "criteria": {
+      "check_inv": "2026-04-06 13:03:25 +0200"
+    },
+    "done": true
   },
   "DataVersion": 3955
 }
