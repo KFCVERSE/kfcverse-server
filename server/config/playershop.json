@@ -1,0 +1,56 @@
+{
+  "transactionTax": 0.0,
+  "minPrice": 1.0,
+  "maxPrice": 1000000.0,
+  "maxStockPerShop": 10000,
+  "ecoWarningEnabled": true,
+  "ecoWarningThreshold": 100000.0,
+  "currencyItem": "minecraft:emerald",
+  "discordWebhookUrl": "",
+
+  // Language (fr_fr or en_us)
+  "language": "fr_fr",
+
+  // Storage Type: NBT (Local File), MONGODB, or MARIADB
+  "storageType": "NBT",
+
+  // Database Configuration (Only used if storageType is MONGODB or MARIADB)
+  // URI Examples:
+  // MongoDB: mongodb://user:pass@host:port/database?authSource=admin
+  // MariaDB: jdbc:mariadb://host:port/database?user=user&password=pass
+  "database": {
+    "uri": "mongodb://localhost:27017/playershop"
+  },
+  "maintenancePlayerShops": false,
+  "maintenanceServerBuy": false,
+  "maintenanceServerSell": false,
+  "stageLimits": {
+    "1": 3,
+    "2": 5,
+    "3": 10,
+    "4": 20,
+    "5": 50
+  },
+  "shopContainerBlock": "minecraft:barrel",
+  "playerShopBlock": "minecraft:barrel",
+  "serverShopBlock": "minecraft:yellow_shulker_box",
+  "adminBuyShopBlock": "minecraft:blue_shulker_box",
+
+  // Hologram Visibility Settings (true/false)
+  "showHoloType": true,
+  "showHoloItem": true,
+  "showHoloPrice": true,
+  "showHoloStock": true,
+
+  // Default Economy Provider ID (e.g. IMPACTOR, COBBLE_DOLLARS, ITEM, SIDE_POCKETS, NUMISMATIC)
+  // This defines which currency is selected by default when creating a shop.
+  "defaultEconomy": "IMPACTOR",
+
+  // Set to true to prevent players from changing the currency type in their shop.
+  "disableCurrencySelection": false,
+
+  // List of Economy Provider IDs to hide from the selection menu (e.g. ["ITEM", "NUMISMATIC"])
+  "blacklistedEconomies": [],
+  "blacklistedItems": [],
+  "blacklistedMods": []
+}

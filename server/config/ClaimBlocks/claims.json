@@ -1,0 +1,71 @@
+[
+  {
+    "name": "teto-template8-7d45",
+    "owner": "b2c3031d-f91b-380f-b8e1-1a9c24a0238f",
+    "centerBlock": {
+      "field_11175": -655,
+      "field_11174": 66,
+      "field_11173": 1064
+    },
+    "stoneType": "template8",
+    "pos1": {
+      "field_11175": -805,
+      "field_11174": -64,
+      "field_11173": 914
+    },
+    "pos2": {
+      "field_11175": -505,
+      "field_11174": 320,
+      "field_11173": 1214
+    },
+    "flags": {},
+    "members": [],
+    "world": "minecraft:overworld"
+  },
+  {
+    "name": "TheLionVIII-template8-7e13",
+    "owner": "dcdfa264-8fff-3e45-84b8-e4408423fcc9",
+    "centerBlock": {
+      "field_11175": 817,
+      "field_11174": 70,
+      "field_11173": -6422
+    },
+    "stoneType": "template8",
+    "pos1": {
+      "field_11175": 667,
+      "field_11174": -64,
+      "field_11173": -6572
+    },
+    "pos2": {
+      "field_11175": 967,
+      "field_11174": 320,
+      "field_11173": -6272
+    },
+    "flags": {},
+    "members": [],
+    "world": "minecraft:overworld"
+  },
+  {
+    "name": "githanoz-template1-9333",
+    "owner": "64461aa7-6513-3f8b-b3a7-db6890b9b8de",
+    "centerBlock": {
+      "field_11175": -2272,
+      "field_11174": 105,
+      "field_11173": -329
+    },
+    "stoneType": "template1",
+    "pos1": {
+      "field_11175": -2282,
+      "field_11174": -64,
+      "field_11173": -339
+    },
+    "pos2": {
+      "field_11175": -2262,
+      "field_11174": 320,
+      "field_11173": -319
+    },
+    "flags": {},
+    "members": [],
+    "world": "minecraft:overworld"
+  }
+]
