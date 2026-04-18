@@ -8,30 +8,30 @@
   "battleTheme": "cobblemon:battle.pvp.default",
   "extraData": {},
   "advancementData": {
-    "totalCaptureCount": 47,
+    "totalCaptureCount": 50,
     "totalEggsCollected": 1,
     "totalEggsHatched": 4,
-    "totalEvolvedCount": 10,
-    "totalBattleVictoryCount": 78,
+    "totalEvolvedCount": 12,
+    "totalBattleVictoryCount": 86,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 73,
-    "totalPvNBattleVictoryCount": 5,
-    "totalShinyCaptureCount": 2,
+    "totalPvWBattleVictoryCount": 80,
+    "totalPvNBattleVictoryCount": 6,
+    "totalShinyCaptureCount": 3,
     "totalTradedCount": 0,
     "totalTypeCaptureCounts": {
       "electric": 6,
       "psychic": 3,
-      "normal": 11,
+      "normal": 12,
       "poison": 6,
       "ground": 2,
       "water": 6,
-      "flying": 6,
-      "bug": 2,
+      "flying": 8,
+      "bug": 3,
       "fire": 2,
       "steel": 3,
       "rock": 2,
       "ice": 4,
-      "ghost": 4,
+      "ghost": 5,
       "grass": 1,
       "dragon": 1,
       "dark": 3
@@ -61,7 +61,10 @@
       "cobblemon:unown": 1,
       "cobblemon:exeggutor": 1,
       "cobblemon:mankey": 1,
-      "cobblemon:buizel": 1
+      "cobblemon:buizel": 1,
+      "cobblemon:barbaracle": 1,
+      "cobblemon:squawkabilly": 2,
+      "cobblemon:rufflet": 1
     },
     "aspectsCollected": {
       "cobblemon:voltorb": [
@@ -232,6 +235,20 @@
       ],
       "cobblemon:staryu": [
         "genderless"
+      ],
+      "cobblemon:scyther": [
+        "female"
+      ],
+      "cobblemon:squawkabilly": [
+        "shiny",
+        "male",
+        "squawkabilly-color-gray"
+      ],
+      "cobblemon:charmeleon": [
+        "male"
+      ],
+      "cobblemon:charizard": [
+        "male"
       ]
     }
   }
