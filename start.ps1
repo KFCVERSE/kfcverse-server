@@ -1,3 +1,9 @@
+# Detect OS
+$IsLinux = $PSVersionTable.Platform -eq "Unix"
+$IsWindows = $PSVersionTable.OS -like "*Windows*" -or ($PSVersionTable.Platform -eq $null)
+
+Write-Host "Detected platform: $(if ($IsLinux) { 'Linux' } else { 'Windows' })" -ForegroundColor Yellow
+
 # get into the folder
 Set-Location -Path $PSScriptRoot
 $RepoRoot = $PSScriptRoot
@@ -60,16 +66,36 @@ function Update-GitHubStatus($status) {
 # la chicha
 try {
     Update-GitHubStatus "Online"
-    # run playit
-    Start-Process -FilePath "$RepoRoot/misc/playit.exe"
+    
+    if ($IsLinux) {
+        Write-Host "Starting server on Linux..." -ForegroundColor Cyan
+        Set-Location -Path "$RepoRoot/server"
+        
+        # Find the server jar file
+        $jarFile = Get-ChildItem -Path . -Filter "*.jar" | Select-Object -First 1
+        if (-not $jarFile) {
+            Write-Host "ERROR: No .jar file found in $RepoRoot/server" -ForegroundColor Red
+            exit
+        }
+        
+        Write-Host "Running: java -Xmx2G -Xms2G -jar $($jarFile.Name)" -ForegroundColor Cyan
+        $process = Start-Process -FilePath "java" -ArgumentList "-Xmx2G", "-Xms2G", "-jar", $jarFile.Name -Wait -PassThru -NoNewWindow
+    }
+    else {
+        # Windows
+        # run playit
+        Start-Process -FilePath "$RepoRoot/misc/playit.exe"
 
-    Write-Host "Server online. Close typing 'stop'." -ForegroundColor Cyan
-    Set-Location -Path "$RepoRoot/server"
-    $process = Start-Process -FilePath "cmd.exe" -ArgumentList "/c start.bat" -Wait -PassThru
+        Write-Host "Server online. Close typing 'stop'." -ForegroundColor Cyan
+        Set-Location -Path "$RepoRoot/server"
+        $process = Start-Process -FilePath "cmd.exe" -ArgumentList "/c start.bat" -Wait -PassThru
+    }
 }
 finally {
-    # close playit.exe
-    Stop-Process -Name "playit" -ErrorAction SilentlyContinue
+    # close playit.exe (Windows only)
+    if ($IsWindows) {
+        Stop-Process -Name "playit" -ErrorAction SilentlyContinue
+    }
 
     # backup to github
     Write-Host "Backing up to GitHub..." -ForegroundColor Magenta
