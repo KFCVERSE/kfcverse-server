@@ -1,8 +1,8 @@
 # Detect OS
-$IsLinux = $PSVersionTable.Platform -eq "Unix"
-$IsWindows = $PSVersionTable.OS -like "*Windows*" -or ($PSVersionTable.Platform -eq $null)
+$OnLinux = $PSVersionTable.Platform -eq "Unix"
+$OnWindows = $PSVersionTable.OS -like "*Windows*" -or ($PSVersionTable.Platform -eq $null)
 
-Write-Host "Detected platform: $(if ($IsLinux) { 'Linux' } else { 'Windows' })" -ForegroundColor Yellow
+Write-Host "Detected platform: $(if ($OnLinux) { 'Linux' } else { 'Windows' })" -ForegroundColor Yellow
 
 # get into the folder
 Set-Location -Path $PSScriptRoot
@@ -67,7 +67,7 @@ function Update-GitHubStatus($status) {
 try {
     Update-GitHubStatus "Online"
     
-    if ($IsLinux) {
+    if ($OnLinux) {
         Write-Host "Starting server on Linux..." -ForegroundColor Cyan
         Set-Location -Path "$RepoRoot/server"
         
@@ -81,7 +81,7 @@ try {
         Write-Host "Running: java -Xmx2G -Xms2G -jar $($jarFile.Name)" -ForegroundColor Cyan
         $process = Start-Process -FilePath "java" -ArgumentList "-Xmx2G", "-Xms2G", "-jar", $jarFile.Name -Wait -PassThru -NoNewWindow
     }
-    else {
+    elseif ($OnWindows) {
         # Windows
         # run playit
         Start-Process -FilePath "$RepoRoot/misc/playit.exe"
@@ -93,7 +93,7 @@ try {
 }
 finally {
     # close playit.exe (Windows only)
-    if ($IsWindows) {
+    if ($OnWindows) {
         Stop-Process -Name "playit" -ErrorAction SilentlyContinue
     }
 
