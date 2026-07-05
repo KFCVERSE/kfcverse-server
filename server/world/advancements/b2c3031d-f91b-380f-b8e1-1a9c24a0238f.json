@@ -26033,5 +26033,77 @@
     },
     "done": true
   },
+  "nirvana:recipes/food/weed_brownie": {
+    "criteria": {
+      "has_hemp_seed": "2026-07-05 13:29:52 +0200"
+    },
+    "done": true
+  },
+  "nirvana:recipes/transportation/thc_minecart": {
+    "criteria": {
+      "has_minecart": "2026-07-05 13:50:24 +0200"
+    },
+    "done": true
+  },
+  "nirvana:recipes/misc/weed_from_hemp_campfire": {
+    "criteria": {
+      "has_hemp": "2026-07-05 14:04:40 +0200"
+    },
+    "done": true
+  },
+  "nirvana:recipes/misc/weed_from_hemp_smelting": {
+    "criteria": {
+      "has_hemp": "2026-07-05 14:04:40 +0200"
+    },
+    "done": true
+  },
+  "nirvana:recipes/tools/lead_from_hemp": {
+    "criteria": {
+      "has_hemp": "2026-07-05 14:04:40 +0200"
+    },
+    "done": true
+  },
+  "nirvana:recipes/decorations/weed_crate": {
+    "criteria": {
+      "has_weed": "2026-07-05 14:17:03 +0200"
+    },
+    "done": true
+  },
+  "nirvana:recipes/misc/hemp_cloth": {
+    "criteria": {
+      "has_hemp": "2026-07-05 14:04:40 +0200"
+    },
+    "done": true
+  },
+  "nirvana:recipes/misc/hemp_seeds": {
+    "criteria": {
+      "has_hemp": "2026-07-05 14:04:40 +0200"
+    },
+    "done": true
+  },
+  "nirvana:recipes/decorations/hemp_crate": {
+    "criteria": {
+      "has_hemp": "2026-07-05 14:04:40 +0200"
+    },
+    "done": true
+  },
+  "nirvana:recipes/food/joint": {
+    "criteria": {
+      "has_weed": "2026-07-05 14:17:03 +0200"
+    },
+    "done": true
+  },
+  "nirvana:recipes/misc/weed_from_hemp_smoking": {
+    "criteria": {
+      "has_hemp": "2026-07-05 14:04:40 +0200"
+    },
+    "done": true
+  },
+  "nirvana:recipes/decorations/peace_banner_pattern": {
+    "criteria": {
+      "has_hemp": "2026-07-05 14:04:40 +0200"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }

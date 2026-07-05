@@ -11,11 +11,11 @@
   "advancementData": {
     "totalCaptureCount": 61,
     "totalEggsCollected": 41,
-    "totalEggsHatched": 106,
+    "totalEggsHatched": 108,
     "totalEvolvedCount": 21,
-    "totalBattleVictoryCount": 188,
+    "totalBattleVictoryCount": 189,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 161,
+    "totalPvWBattleVictoryCount": 162,
     "totalPvNBattleVictoryCount": 27,
     "totalShinyCaptureCount": 3,
     "totalTradedCount": 5,
@@ -107,7 +107,8 @@
       "cobblemon:binacle": 1,
       "cobblemon:inkay": 1,
       "cobblemon:tentacool": 1,
-      "cobblemon:spritzee": 1
+      "cobblemon:spritzee": 1,
+      "cobblemon:lycanroc": 1
     },
     "aspectsCollected": {
       "cobblemon:ditto": [

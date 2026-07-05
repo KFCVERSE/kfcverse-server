@@ -8,13 +8,13 @@
   "battleTheme": "cobblemon:battle.pvp.default",
   "extraData": {},
   "advancementData": {
-    "totalCaptureCount": 50,
+    "totalCaptureCount": 51,
     "totalEggsCollected": 1,
     "totalEggsHatched": 4,
     "totalEvolvedCount": 12,
-    "totalBattleVictoryCount": 86,
+    "totalBattleVictoryCount": 88,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 80,
+    "totalPvWBattleVictoryCount": 82,
     "totalPvNBattleVictoryCount": 6,
     "totalShinyCaptureCount": 3,
     "totalTradedCount": 0,
@@ -25,7 +25,7 @@
       "poison": 6,
       "ground": 2,
       "water": 6,
-      "flying": 8,
+      "flying": 9,
       "bug": 3,
       "fire": 2,
       "steel": 3,
@@ -34,7 +34,8 @@
       "ghost": 5,
       "grass": 1,
       "dragon": 1,
-      "dark": 3
+      "dark": 3,
+      "fighting": 1
     },
     "totalDefeatedCounts": {
       "cobblemon:elekid": 2,
@@ -64,7 +65,8 @@
       "cobblemon:buizel": 1,
       "cobblemon:barbaracle": 1,
       "cobblemon:squawkabilly": 2,
-      "cobblemon:rufflet": 1
+      "cobblemon:rufflet": 1,
+      "cobblemon:butterfree": 1
     },
     "aspectsCollected": {
       "cobblemon:voltorb": [
@@ -248,6 +250,9 @@
         "male"
       ],
       "cobblemon:charizard": [
+        "male"
+      ],
+      "cobblemon:flamigo": [
         "male"
       ]
     }
