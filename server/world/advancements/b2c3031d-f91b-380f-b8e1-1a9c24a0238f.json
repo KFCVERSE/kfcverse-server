@@ -26063,12 +26063,6 @@
     },
     "done": true
   },
-  "nirvana:recipes/decorations/weed_crate": {
-    "criteria": {
-      "has_weed": "2026-07-05 14:17:03 +0200"
-    },
-    "done": true
-  },
   "nirvana:recipes/misc/hemp_cloth": {
     "criteria": {
       "has_hemp": "2026-07-05 14:04:40 +0200"
@@ -26087,12 +26081,6 @@
     },
     "done": true
   },
-  "nirvana:recipes/food/joint": {
-    "criteria": {
-      "has_weed": "2026-07-05 14:17:03 +0200"
-    },
-    "done": true
-  },
   "nirvana:recipes/misc/weed_from_hemp_smoking": {
     "criteria": {
       "has_hemp": "2026-07-05 14:04:40 +0200"
@@ -26102,6 +26090,18 @@
   "nirvana:recipes/decorations/peace_banner_pattern": {
     "criteria": {
       "has_hemp": "2026-07-05 14:04:40 +0200"
+    },
+    "done": true
+  },
+  "nirvana:recipes/decorations/weed_crate": {
+    "criteria": {
+      "has_weed": "2026-07-05 14:17:03 +0200"
+    },
+    "done": true
+  },
+  "nirvana:recipes/food/joint": {
+    "criteria": {
+      "has_weed": "2026-07-05 14:17:03 +0200"
     },
     "done": true
   },
